@@ -1,0 +1,1001 @@
+id,name,role_type,role,department,manager,salary,attendance,email,hire_date
+1,Morgan Patel,employee,Coordinator,Customer Success,Senior Manager,69989,86%,morgan.patel@examplecorp.com,2018-03-25
+2,Andy Patel,employee,Coordinator,Sales,Senior Manager,89437,96%,andy.patel@examplecorp.com,2021-01-03
+3,Jordan Jenkins,employee,Analyst,Sales,Senior Manager,158851,96%,jordan.jenkins@examplecorp.com,2021-01-05
+4,Cameron Jenkins,employee,Coordinator,HR,Senior Manager,57453,92%,cameron.jenkins@examplecorp.com,2025-03-15
+5,Jordan Walker,employee,Support Specialist,Sales,Senior Manager,146567,100%,jordan.walker@examplecorp.com,2022-02-28
+6,Kris Watson,employee,Engineer,Engineering,Senior Manager,74123,95%,kris.watson@examplecorp.com,2019-02-21
+7,Jamie Price,employee,Engineer,IT,Senior Manager,144583,85%,jamie.price@examplecorp.com,2022-04-26
+8,Drew Murphy,employee,Support Specialist,Marketing,Senior Manager,165166,93%,drew.murphy@examplecorp.com,2019-04-04
+9,Jamie Watson,employee,Engineer,Finance,Senior Manager,149218,88%,jamie.watson@examplecorp.com,2019-05-08
+10,Cameron Kim,manager,Operations Manager,Marketing,Executive Board,182897,99%,cameron.kim@examplecorp.com,2020-05-28
+11,Cameron Lopez,employee,Technician,HR,Cameron Kim,135906,87%,cameron.lopez@examplecorp.com,2015-09-07
+12,Robin Kim,employee,Analyst,Engineering,Cameron Kim,170800,87%,robin.kim@examplecorp.com,2023-07-21
+13,Dana Watson,employee,Technician,HR,Cameron Kim,148310,86%,dana.watson@examplecorp.com,2024-10-01
+14,Charlie Watson,employee,Support Specialist,Marketing,Cameron Kim,152070,88%,charlie.watson@examplecorp.com,2016-04-01
+15,Drew Nguyen,manager,Sales Manager,Finance,Executive Board,175092,100%,drew.nguyen@examplecorp.com,2020-02-26
+16,Robin Bennett,employee,Coordinator,Operations,Cameron Kim,111443,92%,robin.bennett@examplecorp.com,2022-02-13
+17,Jordan Kim,employee,Coordinator,Engineering,Cameron Kim,111948,96%,jordan.kim@examplecorp.com,2016-10-28
+18,Taylor Walker,employee,Coordinator,Sales,Cameron Kim,126816,86%,taylor.walker@examplecorp.com,2018-02-01
+19,Skyler Lewis,employee,Coordinator,Sales,Drew Nguyen,103423,87%,skyler.lewis@examplecorp.com,2018-06-24
+20,Robin Brooks,employee,Analyst,Marketing,Drew Nguyen,143772,85%,robin.brooks@examplecorp.com,2022-06-02
+21,Jordan Rivera,employee,Engineer,HR,Cameron Kim,168062,99%,jordan.rivera@examplecorp.com,2016-08-11
+22,Reese Bennett,employee,Engineer,HR,Drew Nguyen,124226,89%,reese.bennett@examplecorp.com,2019-12-24
+23,Quinn Jenkins,employee,Support Specialist,Finance,Cameron Kim,54640,86%,quinn.jenkins@examplecorp.com,2023-03-27
+24,Jordan Lewis,employee,Analyst,Marketing,Cameron Kim,175376,89%,jordan.lewis@examplecorp.com,2022-05-02
+25,Sam Clark,employee,Technician,Engineering,Cameron Kim,146820,92%,sam.clark@examplecorp.com,2022-11-12
+26,Dana Murphy,employee,Technician,Sales,Drew Nguyen,81061,92%,dana.murphy@examplecorp.com,2021-10-05
+27,Kris Murphy,employee,Engineer,Sales,Cameron Kim,57351,94%,kris.murphy@examplecorp.com,2019-07-15
+28,Kris Kim,employee,Support Specialist,Finance,Cameron Kim,167619,98%,kris.kim@examplecorp.com,2021-08-17
+29,Robin Patel,employee,Engineer,Sales,Cameron Kim,76835,93%,robin.patel@examplecorp.com,2019-11-19
+30,Andy Reed,manager,Sales Manager,Engineering,Executive Board,105893,96%,andy.reed@examplecorp.com,2024-09-25
+31,Dana Bell,employee,Technician,IT,Cameron Kim,71855,93%,dana.bell@examplecorp.com,2018-12-08
+32,Sam Bell,employee,Technician,Operations,Andy Reed,60855,96%,sam.bell@examplecorp.com,2015-05-19
+33,Sam Walker,employee,Support Specialist,HR,Cameron Kim,174402,94%,sam.walker@examplecorp.com,2022-05-27
+34,Jordan Watson,employee,Technician,Finance,Cameron Kim,63385,89%,jordan.watson@examplecorp.com,2025-03-02
+35,Kris Lewis,employee,Engineer,Operations,Cameron Kim,113827,91%,kris.lewis@examplecorp.com,2016-01-19
+36,Jesse Patel,employee,Analyst,Engineering,Andy Reed,149997,87%,jesse.patel@examplecorp.com,2020-01-05
+37,Quinn Reed,employee,Support Specialist,Marketing,Drew Nguyen,136972,93%,quinn.reed@examplecorp.com,2020-08-04
+38,Sam Singh,employee,Technician,Engineering,Cameron Kim,100228,97%,sam.singh@examplecorp.com,2017-03-22
+39,Charlie Patel,employee,Technician,IT,Andy Reed,50022,88%,charlie.patel@examplecorp.com,2018-05-08
+40,Taylor Young,manager,Finance Manager,Engineering,Executive Board,124905,100%,taylor.young@examplecorp.com,2022-03-18
+41,Riley Reed,employee,Support Specialist,Engineering,Andy Reed,67061,86%,riley.reed@examplecorp.com,2017-02-05
+42,Taylor Lopez,employee,Support Specialist,HR,Taylor Young,119410,92%,taylor.lopez@examplecorp.com,2021-11-27
+43,Taylor Murphy,employee,Coordinator,HR,Cameron Kim,168036,95%,taylor.murphy@examplecorp.com,2019-01-06
+44,Drew Jenkins,employee,Coordinator,Marketing,Andy Reed,166307,90%,drew.jenkins@examplecorp.com,2024-06-14
+45,Casey Patel,employee,Coordinator,Marketing,Cameron Kim,51101,93%,casey.patel@examplecorp.com,2020-12-20
+46,Reese Walker,employee,Engineer,Engineering,Andy Reed,89804,85%,reese.walker@examplecorp.com,2016-07-15
+47,Cameron Patel,employee,Analyst,Sales,Cameron Kim,87895,96%,cameron.patel@examplecorp.com,2023-09-09
+48,Riley Watson,employee,Engineer,Engineering,Taylor Young,125432,90%,riley.watson@examplecorp.com,2016-12-10
+49,Dana Cooper,employee,Technician,Sales,Andy Reed,141655,89%,dana.cooper@examplecorp.com,2023-08-01
+50,Riley Bell,employee,Engineer,Marketing,Cameron Kim,90743,95%,riley.bell@examplecorp.com,2018-01-28
+51,Cameron Bennett,employee,Coordinator,HR,Andy Reed,112826,90%,cameron.bennett@examplecorp.com,2021-12-06
+52,Morgan Young,employee,Support Specialist,Engineering,Drew Nguyen,59003,100%,morgan.young@examplecorp.com,2020-04-11
+53,Skyler Rivera,admin,Infrastructure Admin,Marketing,Executive Board,178598,100%,skyler.rivera@examplecorp.com,2024-02-26
+54,Charlie Lewis,manager,Finance Manager,Finance,Executive Board,213324,85%,charlie.lewis@examplecorp.com,2017-01-12
+55,Drew Reed,employee,Support Specialist,Marketing,Cameron Kim,174282,86%,drew.reed@examplecorp.com,2019-06-07
+56,Robin Clark,employee,Engineer,Sales,Andy Reed,68169,97%,robin.clark@examplecorp.com,2025-05-04
+57,Taylor Lopez,employee,Engineer,IT,Charlie Lewis,157746,93%,taylor.lopez@examplecorp.com,2021-03-13
+58,Reese Bennett,employee,Engineer,HR,Charlie Lewis,152868,88%,reese.bennett@examplecorp.com,2024-02-28
+59,Dana Clark,employee,Engineer,Engineering,Cameron Kim,109857,93%,dana.clark@examplecorp.com,2022-05-27
+60,Kris Murphy,employee,Technician,HR,Cameron Kim,119560,100%,kris.murphy@examplecorp.com,2024-10-21
+61,Skyler Young,employee,Engineer,Marketing,Cameron Kim,109489,90%,skyler.young@examplecorp.com,2018-03-12
+62,Skyler Singh,employee,Technician,Engineering,Andy Reed,55415,99%,skyler.singh@examplecorp.com,2017-09-01
+63,Riley Clark,employee,Analyst,Finance,Andy Reed,59003,90%,riley.clark@examplecorp.com,2019-01-26
+64,Reese Lewis,employee,Technician,Operations,Cameron Kim,66971,92%,reese.lewis@examplecorp.com,2023-07-12
+65,Taylor Kim,employee,Support Specialist,Finance,Cameron Kim,122466,88%,taylor.kim@examplecorp.com,2022-10-04
+66,Sam Rivera,manager,HR Manager,Sales,Executive Board,198740,93%,sam.rivera@examplecorp.com,2017-07-16
+67,Taylor Lopez,employee,Technician,Engineering,Charlie Lewis,169006,97%,taylor.lopez@examplecorp.com,2020-11-01
+68,Jesse Bell,employee,Engineer,IT,Sam Rivera,157728,97%,jesse.bell@examplecorp.com,2016-01-16
+69,Skyler Kim,employee,Coordinator,IT,Sam Rivera,129251,89%,skyler.kim@examplecorp.com,2019-10-16
+70,Alex Patel,employee,Analyst,Sales,Charlie Lewis,72976,100%,alex.patel@examplecorp.com,2018-05-05
+71,Dana Murphy,employee,Technician,IT,Andy Reed,125006,85%,dana.murphy@examplecorp.com,2018-09-25
+72,Casey Bennett,employee,Support Specialist,Operations,Drew Nguyen,54699,85%,casey.bennett@examplecorp.com,2025-07-20
+73,Riley Singh,manager,Operations Manager,Marketing,Executive Board,185977,100%,riley.singh@examplecorp.com,2018-02-28
+74,Andy Rivera,employee,Engineer,Finance,Andy Reed,81206,90%,andy.rivera@examplecorp.com,2020-10-07
+75,Dana Kim,employee,Coordinator,Sales,Riley Singh,138738,92%,dana.kim@examplecorp.com,2018-07-13
+76,Jordan Brooks,employee,Coordinator,Customer Success,Sam Rivera,148567,99%,jordan.brooks@examplecorp.com,2023-08-13
+77,Reese Clark,manager,Sales Manager,Marketing,Executive Board,195245,90%,reese.clark@examplecorp.com,2015-08-03
+78,Riley Kim,employee,Engineer,Engineering,Reese Clark,58910,88%,riley.kim@examplecorp.com,2022-11-16
+79,Drew Patel,employee,Engineer,IT,Drew Nguyen,129016,99%,drew.patel@examplecorp.com,2025-10-27
+80,Morgan Watson,employee,Coordinator,Finance,Andy Reed,65857,87%,morgan.watson@examplecorp.com,2021-06-18
+81,Skyler Price,manager,Sales Manager,Finance,Executive Board,212368,100%,skyler.price@examplecorp.com,2018-11-08
+82,Dana Clark,employee,Support Specialist,Finance,Sam Rivera,89215,93%,dana.clark@examplecorp.com,2016-03-27
+83,Kris Bell,employee,Analyst,Marketing,Drew Nguyen,151244,92%,kris.bell@examplecorp.com,2018-05-22
+84,Jamie Cooper,admin,IT Administrator,Engineering,Executive Board,166331,89%,jamie.cooper@examplecorp.com,2016-11-19
+85,Andy Clark,admin,System Admin,Finance,Executive Board,126066,98%,andy.clark@examplecorp.com,2016-12-10
+86,Robin Young,employee,Support Specialist,Sales,Charlie Lewis,147175,94%,robin.young@examplecorp.com,2019-10-01
+87,Jamie Patel,employee,Analyst,Finance,Charlie Lewis,54050,96%,jamie.patel@examplecorp.com,2017-12-20
+88,Morgan Clark,employee,Engineer,Engineering,Drew Nguyen,145005,88%,morgan.clark@examplecorp.com,2023-04-18
+89,Sam Jenkins,employee,Engineer,Customer Success,Riley Singh,61216,89%,sam.jenkins@examplecorp.com,2017-01-23
+90,Robin Lewis,employee,Engineer,Customer Success,Reese Clark,146036,91%,robin.lewis@examplecorp.com,2023-10-04
+91,Jamie Clark,employee,Engineer,Marketing,Cameron Kim,136952,97%,jamie.clark@examplecorp.com,2025-12-04
+92,Jesse Clark,employee,Analyst,HR,Cameron Kim,122194,98%,jesse.clark@examplecorp.com,2017-10-13
+93,Reese Nguyen,employee,Technician,Engineering,Reese Clark,73206,93%,reese.nguyen@examplecorp.com,2019-01-05
+94,Drew Singh,manager,Sales Manager,IT,Executive Board,143516,97%,drew.singh@examplecorp.com,2023-03-19
+95,Jordan Nguyen,employee,Technician,HR,Charlie Lewis,59815,93%,jordan.nguyen@examplecorp.com,2025-11-26
+96,Casey Murphy,employee,Technician,Marketing,Riley Singh,156878,95%,casey.murphy@examplecorp.com,2016-10-19
+97,Kris Lewis,employee,Analyst,HR,Skyler Price,65529,89%,kris.lewis@examplecorp.com,2017-09-20
+98,Andy Murphy,employee,Analyst,Operations,Charlie Lewis,158742,86%,andy.murphy@examplecorp.com,2017-04-05
+99,Sam Patel,employee,Coordinator,Sales,Drew Nguyen,109063,92%,sam.patel@examplecorp.com,2017-09-11
+100,Skyler Price,manager,Product Manager,Finance,Executive Board,92932,87%,skyler.price@examplecorp.com,2023-12-14
+101,Andy Watson,employee,Support Specialist,HR,Skyler Price,78898,93%,andy.watson@examplecorp.com,2024-09-10
+102,Jordan Murphy,employee,Support Specialist,Engineering,Drew Singh,172042,98%,jordan.murphy@examplecorp.com,2022-12-01
+103,Robin Cooper,employee,Support Specialist,HR,Skyler Price,101376,94%,robin.cooper@examplecorp.com,2015-03-02
+104,Skyler Murphy,employee,Technician,Marketing,Riley Singh,96235,86%,skyler.murphy@examplecorp.com,2017-06-16
+105,Casey Rivera,employee,Analyst,Engineering,Skyler Price,121429,90%,casey.rivera@examplecorp.com,2016-02-02
+106,Taylor Bell,employee,Analyst,Sales,Skyler Price,153355,97%,taylor.bell@examplecorp.com,2021-05-12
+107,Andy Watson,employee,Analyst,Engineering,Sam Rivera,119457,92%,andy.watson@examplecorp.com,2021-09-16
+108,Jordan Nguyen,employee,Analyst,Engineering,Charlie Lewis,86087,99%,jordan.nguyen@examplecorp.com,2022-08-24
+109,Jesse Bennett,employee,Technician,Engineering,Drew Singh,163230,90%,jesse.bennett@examplecorp.com,2015-05-24
+110,Jordan Singh,manager,HR Manager,Marketing,Executive Board,150087,97%,jordan.singh@examplecorp.com,2023-06-17
+111,Jamie Cooper,employee,Analyst,Customer Success,Skyler Price,77049,93%,jamie.cooper@examplecorp.com,2020-03-14
+112,Casey Lewis,employee,Technician,Customer Success,Cameron Kim,165720,100%,casey.lewis@examplecorp.com,2024-05-20
+113,Casey Young,employee,Engineer,HR,Sam Rivera,131826,97%,casey.young@examplecorp.com,2019-10-24
+114,Kris Watson,admin,System Admin,IT,Executive Board,124153,92%,kris.watson@examplecorp.com,2021-07-24
+115,Skyler Lopez,employee,Engineer,Finance,Jordan Singh,155530,87%,skyler.lopez@examplecorp.com,2016-08-01
+116,Taylor Lewis,employee,Support Specialist,Engineering,Drew Singh,84389,85%,taylor.lewis@examplecorp.com,2016-01-01
+117,Kris Nguyen,employee,Engineer,Customer Success,Skyler Price,146635,87%,kris.nguyen@examplecorp.com,2022-12-20
+118,Riley Nguyen,employee,Engineer,Customer Success,Drew Nguyen,53533,87%,riley.nguyen@examplecorp.com,2015-09-27
+119,Jamie Brooks,employee,Analyst,IT,Andy Reed,112620,94%,jamie.brooks@examplecorp.com,2021-02-09
+120,Riley Murphy,manager,Finance Manager,Operations,Executive Board,101947,91%,riley.murphy@examplecorp.com,2018-05-23
+121,Kris Lopez,employee,Support Specialist,Operations,Drew Nguyen,176401,87%,kris.lopez@examplecorp.com,2022-06-02
+122,Charlie Walker,employee,Analyst,Operations,Charlie Lewis,167159,99%,charlie.walker@examplecorp.com,2019-06-03
+123,Avery Jenkins,employee,Technician,Marketing,Sam Rivera,132729,98%,avery.jenkins@examplecorp.com,2017-02-01
+124,Riley Young,manager,Operations Manager,Sales,Executive Board,210142,95%,riley.young@examplecorp.com,2016-02-04
+125,Dana Kim,admin,Security Admin,Marketing,Executive Board,211694,88%,dana.kim@examplecorp.com,2018-10-15
+126,Cameron Lewis,employee,Support Specialist,Marketing,Cameron Kim,58341,98%,cameron.lewis@examplecorp.com,2025-11-01
+127,Avery Bennett,employee,Support Specialist,Operations,Riley Young,69590,86%,avery.bennett@examplecorp.com,2015-01-09
+128,Jesse Clark,employee,Analyst,Finance,Skyler Price,153637,96%,jesse.clark@examplecorp.com,2024-06-26
+129,Casey Brooks,employee,Analyst,HR,Sam Rivera,81040,97%,casey.brooks@examplecorp.com,2016-06-01
+130,Casey Walker,employee,Engineer,Sales,Sam Rivera,145022,85%,casey.walker@examplecorp.com,2016-07-20
+131,Kris Rivera,employee,Analyst,Operations,Drew Nguyen,94615,93%,kris.rivera@examplecorp.com,2019-02-01
+132,Riley Lopez,employee,Coordinator,Engineering,Drew Singh,80849,91%,riley.lopez@examplecorp.com,2025-06-15
+133,Cameron Lopez,employee,Support Specialist,IT,Andy Reed,166945,89%,cameron.lopez@examplecorp.com,2024-11-26
+134,Jamie Singh,employee,Engineer,Sales,Sam Rivera,62217,86%,jamie.singh@examplecorp.com,2022-11-11
+135,Alex Reed,employee,Technician,Marketing,Drew Nguyen,124357,97%,alex.reed@examplecorp.com,2015-09-06
+136,Riley Nguyen,employee,Analyst,IT,Charlie Lewis,157123,96%,riley.nguyen@examplecorp.com,2024-03-10
+137,Quinn Lewis,manager,Finance Manager,Marketing,Executive Board,164391,90%,quinn.lewis@examplecorp.com,2015-03-03
+138,Sam Reed,employee,Technician,Marketing,Jordan Singh,85910,88%,sam.reed@examplecorp.com,2025-10-19
+139,Cameron Jenkins,employee,Engineer,Operations,Charlie Lewis,92977,90%,cameron.jenkins@examplecorp.com,2021-02-14
+140,Kris Bell,employee,Coordinator,Operations,Riley Singh,173827,97%,kris.bell@examplecorp.com,2019-02-05
+141,Cameron Watson,employee,Coordinator,Customer Success,Skyler Price,140832,89%,cameron.watson@examplecorp.com,2023-01-04
+142,Alex Murphy,employee,Analyst,HR,Andy Reed,81808,95%,alex.murphy@examplecorp.com,2016-07-02
+143,Skyler Clark,employee,Coordinator,Engineering,Taylor Young,162642,99%,skyler.clark@examplecorp.com,2015-12-24
+144,Casey Reed,employee,Analyst,IT,Jordan Singh,65345,99%,casey.reed@examplecorp.com,2024-06-18
+145,Jordan Lopez,employee,Coordinator,HR,Skyler Price,143406,93%,jordan.lopez@examplecorp.com,2020-07-13
+146,Charlie Murphy,employee,Engineer,IT,Skyler Price,108410,92%,charlie.murphy@examplecorp.com,2015-05-19
+147,Avery Patel,employee,Support Specialist,HR,Drew Singh,157432,89%,avery.patel@examplecorp.com,2018-01-04
+148,Skyler Lopez,employee,Engineer,IT,Reese Clark,109663,89%,skyler.lopez@examplecorp.com,2016-11-16
+149,Avery Murphy,employee,Analyst,Operations,Riley Young,178843,86%,avery.murphy@examplecorp.com,2018-08-20
+150,Kris Bennett,employee,Engineer,Engineering,Cameron Kim,141162,97%,kris.bennett@examplecorp.com,2019-01-05
+151,Andy Clark,employee,Analyst,Finance,Riley Murphy,151384,85%,andy.clark@examplecorp.com,2025-08-10
+152,Jamie Watson,employee,Support Specialist,Marketing,Charlie Lewis,142192,100%,jamie.watson@examplecorp.com,2023-12-03
+153,Reese Reed,employee,Technician,Engineering,Riley Young,148325,89%,reese.reed@examplecorp.com,2025-05-06
+154,Kris Lewis,employee,Engineer,Finance,Riley Murphy,72254,96%,kris.lewis@examplecorp.com,2020-02-05
+155,Riley Singh,employee,Coordinator,Customer Success,Andy Reed,68590,99%,riley.singh@examplecorp.com,2017-03-04
+156,Robin Jenkins,employee,Analyst,IT,Drew Nguyen,51917,87%,robin.jenkins@examplecorp.com,2016-12-10
+157,Casey Lewis,employee,Engineer,Finance,Riley Young,172446,85%,casey.lewis@examplecorp.com,2016-05-19
+158,Riley Nguyen,employee,Coordinator,Engineering,Riley Singh,129771,92%,riley.nguyen@examplecorp.com,2016-01-21
+159,Charlie Nguyen,employee,Support Specialist,Sales,Riley Young,153456,95%,charlie.nguyen@examplecorp.com,2024-07-23
+160,Avery Lopez,employee,Support Specialist,IT,Skyler Price,165557,88%,avery.lopez@examplecorp.com,2017-12-20
+161,Quinn Cooper,employee,Support Specialist,Operations,Skyler Price,131545,99%,quinn.cooper@examplecorp.com,2022-04-28
+162,Jordan Lopez,employee,Coordinator,Sales,Quinn Lewis,86005,93%,jordan.lopez@examplecorp.com,2018-08-20
+163,Alex Cooper,employee,Support Specialist,Operations,Riley Singh,108852,87%,alex.cooper@examplecorp.com,2025-04-07
+164,Casey Nguyen,employee,Technician,Operations,Quinn Lewis,164965,92%,casey.nguyen@examplecorp.com,2022-08-02
+165,Robin Rivera,employee,Engineer,Operations,Reese Clark,153749,94%,robin.rivera@examplecorp.com,2025-08-18
+166,Riley Reed,manager,HR Manager,Customer Success,Executive Board,186678,85%,riley.reed@examplecorp.com,2022-02-19
+167,Drew Brooks,employee,Coordinator,Finance,Skyler Price,170061,86%,drew.brooks@examplecorp.com,2025-07-24
+168,Charlie Nguyen,employee,Coordinator,Finance,Riley Murphy,162159,97%,charlie.nguyen@examplecorp.com,2018-05-15
+169,Kris Rivera,admin,Security Admin,Operations,Executive Board,101457,91%,kris.rivera@examplecorp.com,2025-10-26
+170,Charlie Bell,employee,Analyst,IT,Jordan Singh,112506,93%,charlie.bell@examplecorp.com,2025-06-04
+171,Taylor Murphy,employee,Engineer,Finance,Riley Murphy,139437,94%,taylor.murphy@examplecorp.com,2018-03-28
+172,Jamie Lewis,employee,Analyst,Customer Success,Reese Clark,121700,90%,jamie.lewis@examplecorp.com,2015-12-22
+173,Skyler Murphy,employee,Coordinator,Sales,Jordan Singh,118206,98%,skyler.murphy@examplecorp.com,2019-11-19
+174,Kris Cooper,employee,Engineer,HR,Skyler Price,142614,94%,kris.cooper@examplecorp.com,2020-05-07
+175,Robin Nguyen,employee,Analyst,IT,Reese Clark,126619,100%,robin.nguyen@examplecorp.com,2022-06-23
+176,Jamie Watson,employee,Support Specialist,Sales,Skyler Price,179175,86%,jamie.watson@examplecorp.com,2015-12-24
+177,Morgan Watson,manager,HR Manager,Marketing,Executive Board,126775,88%,morgan.watson@examplecorp.com,2025-10-05
+178,Morgan Rivera,manager,HR Manager,Operations,Executive Board,209773,100%,morgan.rivera@examplecorp.com,2023-04-21
+179,Andy Price,employee,Coordinator,Finance,Reese Clark,119901,95%,andy.price@examplecorp.com,2022-08-18
+180,Skyler Brooks,employee,Support Specialist,Engineering,Riley Murphy,121114,96%,skyler.brooks@examplecorp.com,2017-09-02
+181,Morgan Walker,employee,Engineer,Marketing,Quinn Lewis,118580,93%,morgan.walker@examplecorp.com,2020-11-01
+182,Charlie Patel,employee,Technician,Finance,Drew Singh,62455,95%,charlie.patel@examplecorp.com,2016-02-11
+183,Taylor Nguyen,employee,Coordinator,Marketing,Morgan Watson,104076,89%,taylor.nguyen@examplecorp.com,2019-07-06
+184,Casey Rivera,employee,Support Specialist,Engineering,Drew Singh,149805,91%,casey.rivera@examplecorp.com,2015-10-13
+185,Jamie Patel,employee,Coordinator,Engineering,Skyler Price,115917,95%,jamie.patel@examplecorp.com,2022-11-26
+186,Charlie Murphy,manager,Sales Manager,Engineering,Executive Board,169079,94%,charlie.murphy@examplecorp.com,2022-12-20
+187,Robin Jenkins,employee,Analyst,IT,Andy Reed,167433,90%,robin.jenkins@examplecorp.com,2015-04-19
+188,Jordan Bell,employee,Analyst,Customer Success,Jordan Singh,61038,92%,jordan.bell@examplecorp.com,2015-02-14
+189,Riley Bennett,admin,IT Administrator,Operations,Executive Board,130096,92%,riley.bennett@examplecorp.com,2023-05-12
+190,Andy Clark,employee,Coordinator,Engineering,Riley Singh,161452,87%,andy.clark@examplecorp.com,2015-10-27
+191,Cameron Walker,manager,Sales Manager,Customer Success,Executive Board,151406,89%,cameron.walker@examplecorp.com,2020-10-13
+192,Jordan Bennett,employee,Engineer,Operations,Riley Singh,92657,100%,jordan.bennett@examplecorp.com,2017-07-01
+193,Casey Bell,employee,Support Specialist,Sales,Quinn Lewis,94098,100%,casey.bell@examplecorp.com,2016-11-18
+194,Riley Kim,employee,Engineer,Customer Success,Charlie Murphy,134589,99%,riley.kim@examplecorp.com,2020-10-22
+195,Andy Price,employee,Coordinator,Operations,Jordan Singh,150437,96%,andy.price@examplecorp.com,2017-09-17
+196,Andy Watson,employee,Support Specialist,Finance,Charlie Lewis,164020,93%,andy.watson@examplecorp.com,2021-06-09
+197,Dana Watson,employee,Technician,Marketing,Andy Reed,139059,100%,dana.watson@examplecorp.com,2021-01-22
+198,Jordan Murphy,employee,Coordinator,Sales,Riley Young,77766,85%,jordan.murphy@examplecorp.com,2022-06-26
+199,Skyler Lewis,employee,Technician,Engineering,Drew Nguyen,158962,93%,skyler.lewis@examplecorp.com,2016-02-01
+200,Riley Nguyen,employee,Technician,HR,Riley Young,119449,89%,riley.nguyen@examplecorp.com,2017-08-18
+201,Dana Price,employee,Technician,Marketing,Andy Reed,74169,87%,dana.price@examplecorp.com,2016-10-05
+202,Charlie Reed,employee,Support Specialist,IT,Andy Reed,128396,85%,charlie.reed@examplecorp.com,2020-03-02
+203,Sam Watson,employee,Support Specialist,HR,Skyler Price,120907,98%,sam.watson@examplecorp.com,2024-01-04
+204,Charlie Nguyen,employee,Engineer,Engineering,Charlie Lewis,65541,98%,charlie.nguyen@examplecorp.com,2018-02-19
+205,Quinn Cooper,employee,Coordinator,IT,Riley Murphy,116760,100%,quinn.cooper@examplecorp.com,2018-06-10
+206,Drew Murphy,employee,Engineer,Operations,Cameron Walker,155699,96%,drew.murphy@examplecorp.com,2018-08-23
+207,Drew Lewis,employee,Coordinator,Engineering,Andy Reed,116608,95%,drew.lewis@examplecorp.com,2024-07-02
+208,Dana Lewis,employee,Support Specialist,Customer Success,Quinn Lewis,168781,95%,dana.lewis@examplecorp.com,2020-06-17
+209,Jamie Walker,employee,Coordinator,Marketing,Riley Young,88050,91%,jamie.walker@examplecorp.com,2018-07-11
+210,Morgan Nguyen,employee,Technician,Sales,Charlie Murphy,68427,95%,morgan.nguyen@examplecorp.com,2023-12-22
+211,Jordan Murphy,employee,Technician,Marketing,Charlie Murphy,102784,87%,jordan.murphy@examplecorp.com,2020-01-08
+212,Quinn Reed,manager,Finance Manager,Customer Success,Executive Board,92941,86%,quinn.reed@examplecorp.com,2018-04-25
+213,Taylor Brooks,manager,Sales Manager,Engineering,Executive Board,162535,93%,taylor.brooks@examplecorp.com,2015-03-17
+214,Alex Singh,employee,Support Specialist,Marketing,Quinn Lewis,70204,86%,alex.singh@examplecorp.com,2020-01-18
+215,Sam Patel,employee,Analyst,Sales,Cameron Kim,54648,91%,sam.patel@examplecorp.com,2019-06-28
+216,Sam Patel,employee,Support Specialist,HR,Taylor Young,167617,94%,sam.patel@examplecorp.com,2025-10-28
+217,Jamie Kim,employee,Technician,Operations,Charlie Lewis,167992,96%,jamie.kim@examplecorp.com,2025-09-22
+218,Andy Walker,employee,Engineer,Customer Success,Morgan Watson,56865,86%,andy.walker@examplecorp.com,2019-04-15
+219,Alex Jenkins,employee,Engineer,Finance,Cameron Walker,98395,85%,alex.jenkins@examplecorp.com,2020-07-16
+220,Dana Murphy,admin,IT Administrator,Operations,Executive Board,210362,87%,dana.murphy@examplecorp.com,2021-12-15
+221,Charlie Rivera,employee,Engineer,Marketing,Quinn Reed,119794,97%,charlie.rivera@examplecorp.com,2017-02-23
+222,Cameron Murphy,employee,Coordinator,Operations,Skyler Price,116944,91%,cameron.murphy@examplecorp.com,2024-07-08
+223,Skyler Lopez,employee,Technician,Sales,Riley Young,101909,89%,skyler.lopez@examplecorp.com,2018-12-08
+224,Sam Nguyen,employee,Technician,Operations,Charlie Lewis,171848,100%,sam.nguyen@examplecorp.com,2020-03-05
+225,Taylor Walker,employee,Engineer,Sales,Drew Nguyen,108433,87%,taylor.walker@examplecorp.com,2015-09-23
+226,Andy Brooks,employee,Technician,Marketing,Morgan Rivera,160978,98%,andy.brooks@examplecorp.com,2017-12-19
+227,Quinn Walker,employee,Coordinator,Customer Success,Taylor Brooks,145094,95%,quinn.walker@examplecorp.com,2025-10-06
+228,Skyler Kim,employee,Analyst,Marketing,Skyler Price,76099,100%,skyler.kim@examplecorp.com,2021-04-01
+229,Taylor Brooks,employee,Coordinator,IT,Cameron Kim,113625,93%,taylor.brooks@examplecorp.com,2016-02-16
+230,Jordan Price,employee,Coordinator,Engineering,Reese Clark,95348,99%,jordan.price@examplecorp.com,2016-05-03
+231,Andy Murphy,employee,Support Specialist,HR,Skyler Price,87567,88%,andy.murphy@examplecorp.com,2017-08-05
+232,Robin Bennett,employee,Engineer,Sales,Quinn Lewis,155745,89%,robin.bennett@examplecorp.com,2023-06-03
+233,Sam Rivera,employee,Support Specialist,Engineering,Cameron Kim,111576,91%,sam.rivera@examplecorp.com,2024-12-28
+234,Skyler Singh,employee,Engineer,Operations,Skyler Price,119927,85%,skyler.singh@examplecorp.com,2024-02-14
+235,Cameron Walker,employee,Coordinator,Finance,Quinn Lewis,174254,99%,cameron.walker@examplecorp.com,2024-02-20
+236,Alex Bennett,employee,Coordinator,HR,Reese Clark,160114,96%,alex.bennett@examplecorp.com,2024-07-02
+237,Sam Lopez,employee,Engineer,Sales,Reese Clark,57667,89%,sam.lopez@examplecorp.com,2020-06-17
+238,Robin Bell,employee,Technician,Marketing,Reese Clark,90575,95%,robin.bell@examplecorp.com,2024-09-10
+239,Dana Patel,employee,Coordinator,Finance,Sam Rivera,62614,96%,dana.patel@examplecorp.com,2017-06-16
+240,Riley Murphy,employee,Support Specialist,Operations,Sam Rivera,141710,98%,riley.murphy@examplecorp.com,2015-11-02
+241,Charlie Clark,employee,Analyst,IT,Morgan Rivera,79157,99%,charlie.clark@examplecorp.com,2022-08-22
+242,Taylor Jenkins,employee,Coordinator,Customer Success,Morgan Rivera,103516,88%,taylor.jenkins@examplecorp.com,2016-12-07
+243,Reese Singh,employee,Support Specialist,Customer Success,Riley Young,74659,90%,reese.singh@examplecorp.com,2024-01-18
+244,Jesse Bell,employee,Support Specialist,Engineering,Riley Singh,177542,91%,jesse.bell@examplecorp.com,2018-04-01
+245,Charlie Patel,employee,Support Specialist,Marketing,Cameron Walker,137217,100%,charlie.patel@examplecorp.com,2025-03-27
+246,Jamie Rivera,employee,Coordinator,HR,Andy Reed,133409,93%,jamie.rivera@examplecorp.com,2020-08-21
+247,Avery Bennett,employee,Engineer,Customer Success,Riley Reed,89281,97%,avery.bennett@examplecorp.com,2020-08-09
+248,Andy Nguyen,employee,Coordinator,Engineering,Charlie Lewis,50286,87%,andy.nguyen@examplecorp.com,2020-02-01
+249,Reese Cooper,manager,Operations Manager,Marketing,Executive Board,158454,90%,reese.cooper@examplecorp.com,2019-11-03
+250,Andy Murphy,employee,Analyst,Sales,Reese Clark,58271,95%,andy.murphy@examplecorp.com,2016-05-08
+251,Taylor Singh,employee,Support Specialist,Sales,Riley Young,132795,90%,taylor.singh@examplecorp.com,2017-03-16
+252,Taylor Brooks,employee,Engineer,HR,Charlie Murphy,52095,99%,taylor.brooks@examplecorp.com,2021-11-01
+253,Kris Young,employee,Engineer,Operations,Riley Young,76146,94%,kris.young@examplecorp.com,2018-12-20
+254,Jesse Patel,employee,Engineer,Engineering,Quinn Lewis,171885,91%,jesse.patel@examplecorp.com,2017-01-23
+255,Sam Watson,employee,Support Specialist,Engineering,Riley Murphy,140147,85%,sam.watson@examplecorp.com,2025-03-11
+256,Andy Clark,employee,Coordinator,Operations,Sam Rivera,53653,99%,andy.clark@examplecorp.com,2022-12-28
+257,Robin Kim,employee,Technician,Operations,Riley Murphy,125785,93%,robin.kim@examplecorp.com,2023-04-20
+258,Skyler Nguyen,employee,Analyst,Engineering,Taylor Brooks,63388,95%,skyler.nguyen@examplecorp.com,2022-04-23
+259,Jordan Singh,employee,Analyst,HR,Morgan Rivera,72466,98%,jordan.singh@examplecorp.com,2024-03-12
+260,Quinn Lewis,employee,Coordinator,Operations,Taylor Brooks,120660,94%,quinn.lewis@examplecorp.com,2019-08-04
+261,Sam Bell,employee,Coordinator,Customer Success,Sam Rivera,127556,86%,sam.bell@examplecorp.com,2015-01-05
+262,Jamie Kim,employee,Support Specialist,Customer Success,Charlie Murphy,137516,92%,jamie.kim@examplecorp.com,2019-08-10
+263,Robin Brooks,employee,Support Specialist,Operations,Riley Young,73442,87%,robin.brooks@examplecorp.com,2017-05-11
+264,Reese Cooper,employee,Engineer,IT,Skyler Price,85857,86%,reese.cooper@examplecorp.com,2020-09-03
+265,Robin Kim,employee,Coordinator,Marketing,Sam Rivera,53252,91%,robin.kim@examplecorp.com,2023-09-24
+266,Casey Singh,employee,Coordinator,Customer Success,Cameron Walker,154652,90%,casey.singh@examplecorp.com,2025-12-08
+267,Robin Lopez,employee,Engineer,HR,Charlie Lewis,111213,91%,robin.lopez@examplecorp.com,2019-07-28
+268,Andy Lewis,employee,Technician,Customer Success,Charlie Lewis,175960,85%,andy.lewis@examplecorp.com,2020-07-15
+269,Sam Bell,employee,Coordinator,Engineering,Jordan Singh,98542,86%,sam.bell@examplecorp.com,2020-03-05
+270,Robin Watson,admin,Security Admin,Marketing,Executive Board,208951,88%,robin.watson@examplecorp.com,2017-07-03
+271,Taylor Bell,manager,HR Manager,Sales,Executive Board,154302,90%,taylor.bell@examplecorp.com,2022-12-08
+272,Taylor Brooks,manager,HR Manager,HR,Executive Board,126472,88%,taylor.brooks@examplecorp.com,2021-05-13
+273,Robin Patel,employee,Support Specialist,Sales,Morgan Rivera,97275,86%,robin.patel@examplecorp.com,2019-02-05
+274,Skyler Brooks,employee,Analyst,Operations,Taylor Young,86046,99%,skyler.brooks@examplecorp.com,2021-10-26
+275,Skyler Jenkins,employee,Support Specialist,Sales,Drew Nguyen,116088,90%,skyler.jenkins@examplecorp.com,2025-12-20
+276,Taylor Cooper,employee,Coordinator,Engineering,Quinn Lewis,143309,92%,taylor.cooper@examplecorp.com,2016-01-24
+277,Jesse Lopez,admin,Infrastructure Admin,IT,Executive Board,213608,90%,jesse.lopez@examplecorp.com,2018-02-13
+278,Reese Singh,admin,IT Administrator,Sales,Executive Board,162523,94%,reese.singh@examplecorp.com,2019-02-06
+279,Sam Murphy,employee,Analyst,Finance,Charlie Lewis,72519,96%,sam.murphy@examplecorp.com,2015-10-20
+280,Morgan Jenkins,employee,Coordinator,HR,Reese Cooper,58383,100%,morgan.jenkins@examplecorp.com,2015-01-02
+281,Drew Walker,manager,Product Manager,HR,Executive Board,130286,92%,drew.walker@examplecorp.com,2016-08-15
+282,Cameron Lewis,employee,Coordinator,Sales,Taylor Brooks,109540,89%,cameron.lewis@examplecorp.com,2015-05-20
+283,Jamie Kim,employee,Support Specialist,Engineering,Taylor Brooks,87861,95%,jamie.kim@examplecorp.com,2019-08-19
+284,Avery Bennett,employee,Analyst,Marketing,Drew Nguyen,159498,95%,avery.bennett@examplecorp.com,2024-09-17
+285,Jordan Clark,employee,Technician,Operations,Drew Walker,144648,98%,jordan.clark@examplecorp.com,2024-10-19
+286,Morgan Lewis,employee,Coordinator,Sales,Morgan Watson,69495,87%,morgan.lewis@examplecorp.com,2024-11-10
+287,Morgan Murphy,employee,Support Specialist,Finance,Riley Young,55318,94%,morgan.murphy@examplecorp.com,2025-03-05
+288,Casey Young,employee,Engineer,Engineering,Taylor Brooks,70533,88%,casey.young@examplecorp.com,2022-08-11
+289,Riley Nguyen,employee,Analyst,Operations,Drew Walker,114714,94%,riley.nguyen@examplecorp.com,2025-09-17
+290,Riley Jenkins,employee,Analyst,IT,Quinn Reed,67294,90%,riley.jenkins@examplecorp.com,2021-11-04
+291,Jordan Lewis,employee,Analyst,Finance,Riley Reed,173423,97%,jordan.lewis@examplecorp.com,2017-08-21
+292,Avery Kim,employee,Engineer,Sales,Riley Reed,163866,88%,avery.kim@examplecorp.com,2025-01-12
+293,Quinn Nguyen,employee,Support Specialist,HR,Jordan Singh,165000,95%,quinn.nguyen@examplecorp.com,2015-07-14
+294,Quinn Clark,employee,Technician,Operations,Drew Singh,53846,100%,quinn.clark@examplecorp.com,2024-12-20
+295,Jamie Jenkins,employee,Technician,Customer Success,Taylor Brooks,172277,90%,jamie.jenkins@examplecorp.com,2019-03-19
+296,Jordan Watson,employee,Technician,Finance,Taylor Young,137912,86%,jordan.watson@examplecorp.com,2016-08-12
+297,Casey Price,employee,Technician,Customer Success,Taylor Bell,60128,95%,casey.price@examplecorp.com,2020-06-17
+298,Alex Young,employee,Technician,Finance,Taylor Young,160552,86%,alex.young@examplecorp.com,2017-07-14
+299,Jesse Bell,employee,Analyst,IT,Quinn Reed,153361,99%,jesse.bell@examplecorp.com,2020-09-05
+300,Jesse Walker,employee,Engineer,HR,Taylor Brooks,159403,88%,jesse.walker@examplecorp.com,2018-11-02
+301,Quinn Patel,employee,Analyst,Finance,Taylor Brooks,162466,89%,quinn.patel@examplecorp.com,2016-04-24
+302,Skyler Kim,employee,Engineer,Marketing,Morgan Watson,129584,99%,skyler.kim@examplecorp.com,2019-12-14
+303,Morgan Reed,employee,Coordinator,HR,Sam Rivera,62254,95%,morgan.reed@examplecorp.com,2019-03-14
+304,Drew Singh,employee,Analyst,Finance,Riley Young,55655,86%,drew.singh@examplecorp.com,2019-06-04
+305,Dana Lewis,manager,Operations Manager,Operations,Executive Board,182184,90%,dana.lewis@examplecorp.com,2017-12-28
+306,Casey Rivera,employee,Coordinator,Engineering,Taylor Brooks,79727,94%,casey.rivera@examplecorp.com,2018-12-05
+307,Alex Cooper,employee,Analyst,Finance,Reese Clark,178329,86%,alex.cooper@examplecorp.com,2024-12-23
+308,Dana Rivera,employee,Technician,Customer Success,Drew Singh,60116,86%,dana.rivera@examplecorp.com,2025-06-16
+309,Charlie Murphy,employee,Support Specialist,Finance,Riley Young,150780,91%,charlie.murphy@examplecorp.com,2015-09-27
+310,Robin Patel,employee,Analyst,Marketing,Morgan Watson,59518,86%,robin.patel@examplecorp.com,2021-03-09
+311,Jesse Patel,employee,Engineer,Engineering,Drew Walker,175043,95%,jesse.patel@examplecorp.com,2025-02-14
+312,Riley Rivera,employee,Coordinator,Customer Success,Sam Rivera,170772,92%,riley.rivera@examplecorp.com,2020-12-14
+313,Robin Nguyen,employee,Technician,HR,Reese Cooper,123594,93%,robin.nguyen@examplecorp.com,2024-07-06
+314,Charlie Singh,employee,Technician,Sales,Taylor Brooks,105718,99%,charlie.singh@examplecorp.com,2021-05-05
+315,Morgan Bell,employee,Analyst,Engineering,Dana Lewis,137940,98%,morgan.bell@examplecorp.com,2020-07-21
+316,Skyler Walker,employee,Support Specialist,Customer Success,Jordan Singh,128865,87%,skyler.walker@examplecorp.com,2022-10-07
+317,Quinn Kim,employee,Support Specialist,IT,Riley Singh,178669,93%,quinn.kim@examplecorp.com,2021-01-09
+318,Sam Patel,employee,Support Specialist,Customer Success,Andy Reed,75906,85%,sam.patel@examplecorp.com,2017-04-18
+319,Jamie Singh,employee,Analyst,HR,Drew Singh,88871,98%,jamie.singh@examplecorp.com,2016-05-12
+320,Sam Cooper,employee,Technician,Operations,Taylor Bell,126298,86%,sam.cooper@examplecorp.com,2019-08-25
+321,Taylor Rivera,employee,Technician,IT,Riley Singh,94606,89%,taylor.rivera@examplecorp.com,2015-05-17
+322,Avery Singh,employee,Support Specialist,HR,Reese Cooper,65622,98%,avery.singh@examplecorp.com,2017-10-05
+323,Dana Singh,employee,Engineer,Sales,Sam Rivera,140311,91%,dana.singh@examplecorp.com,2019-03-24
+324,Robin Kim,employee,Coordinator,Sales,Riley Young,91549,91%,robin.kim@examplecorp.com,2023-03-06
+325,Jordan Murphy,employee,Technician,Sales,Cameron Kim,161186,87%,jordan.murphy@examplecorp.com,2019-02-25
+326,Cameron Jenkins,employee,Technician,HR,Reese Clark,104063,93%,cameron.jenkins@examplecorp.com,2024-01-25
+327,Charlie Patel,employee,Technician,HR,Quinn Reed,141956,96%,charlie.patel@examplecorp.com,2024-07-16
+328,Kris Walker,employee,Coordinator,Engineering,Morgan Watson,153437,100%,kris.walker@examplecorp.com,2024-11-20
+329,Avery Cooper,employee,Engineer,Marketing,Skyler Price,102013,95%,avery.cooper@examplecorp.com,2021-09-20
+330,Reese Singh,employee,Technician,Engineering,Riley Murphy,166612,97%,reese.singh@examplecorp.com,2024-07-15
+331,Skyler Kim,employee,Engineer,Sales,Morgan Watson,60691,96%,skyler.kim@examplecorp.com,2019-12-04
+332,Kris Price,employee,Engineer,Finance,Charlie Murphy,168134,91%,kris.price@examplecorp.com,2020-06-13
+333,Andy Rivera,employee,Coordinator,Customer Success,Taylor Bell,90241,86%,andy.rivera@examplecorp.com,2015-10-24
+334,Drew Watson,employee,Analyst,HR,Drew Walker,140528,91%,drew.watson@examplecorp.com,2020-04-17
+335,Quinn Price,employee,Analyst,Customer Success,Quinn Reed,159224,88%,quinn.price@examplecorp.com,2020-10-25
+336,Morgan Kim,employee,Engineer,Customer Success,Quinn Lewis,116249,97%,morgan.kim@examplecorp.com,2021-06-17
+337,Jamie Kim,employee,Support Specialist,Customer Success,Taylor Young,77577,95%,jamie.kim@examplecorp.com,2017-09-23
+338,Reese Lopez,employee,Support Specialist,Finance,Drew Walker,82626,96%,reese.lopez@examplecorp.com,2024-03-13
+339,Morgan Walker,employee,Coordinator,Operations,Riley Young,62125,87%,morgan.walker@examplecorp.com,2017-01-14
+340,Alex Lewis,employee,Analyst,IT,Charlie Murphy,169193,98%,alex.lewis@examplecorp.com,2016-01-02
+341,Alex Murphy,manager,Operations Manager,IT,Executive Board,110509,98%,alex.murphy@examplecorp.com,2016-09-04
+342,Riley Bennett,employee,Engineer,HR,Charlie Lewis,108140,89%,riley.bennett@examplecorp.com,2020-03-08
+343,Riley Brooks,employee,Technician,Sales,Taylor Brooks,103581,92%,riley.brooks@examplecorp.com,2016-10-14
+344,Jamie Price,employee,Analyst,Engineering,Morgan Watson,145994,88%,jamie.price@examplecorp.com,2019-02-28
+345,Cameron Clark,employee,Support Specialist,HR,Drew Walker,126296,89%,cameron.clark@examplecorp.com,2025-01-22
+346,Taylor Murphy,employee,Analyst,Customer Success,Andy Reed,66038,92%,taylor.murphy@examplecorp.com,2020-09-23
+347,Quinn Jenkins,employee,Technician,Operations,Charlie Lewis,167557,99%,quinn.jenkins@examplecorp.com,2024-08-19
+348,Jamie Walker,employee,Coordinator,Sales,Dana Lewis,98717,93%,jamie.walker@examplecorp.com,2015-06-08
+349,Taylor Lopez,employee,Technician,Finance,Skyler Price,100403,95%,taylor.lopez@examplecorp.com,2019-12-13
+350,Taylor Clark,employee,Engineer,IT,Reese Clark,120602,86%,taylor.clark@examplecorp.com,2023-09-05
+351,Cameron Brooks,employee,Support Specialist,Marketing,Alex Murphy,87369,89%,cameron.brooks@examplecorp.com,2015-10-23
+352,Cameron Nguyen,employee,Technician,Marketing,Cameron Kim,112616,95%,cameron.nguyen@examplecorp.com,2019-09-07
+353,Morgan Kim,employee,Technician,HR,Riley Reed,164278,94%,morgan.kim@examplecorp.com,2025-12-26
+354,Avery Murphy,employee,Coordinator,Sales,Quinn Lewis,174850,91%,avery.murphy@examplecorp.com,2023-07-02
+355,Robin Lewis,manager,Operations Manager,Finance,Executive Board,203767,90%,robin.lewis@examplecorp.com,2024-10-19
+356,Sam Nguyen,employee,Technician,Marketing,Cameron Kim,74681,91%,sam.nguyen@examplecorp.com,2016-07-10
+357,Kris Rivera,employee,Analyst,Sales,Jordan Singh,160892,90%,kris.rivera@examplecorp.com,2019-07-21
+358,Taylor Young,employee,Technician,Customer Success,Cameron Kim,134619,85%,taylor.young@examplecorp.com,2021-05-25
+359,Kris Young,employee,Technician,Sales,Sam Rivera,89313,93%,kris.young@examplecorp.com,2019-09-11
+360,Charlie Kim,employee,Analyst,Operations,Alex Murphy,91928,100%,charlie.kim@examplecorp.com,2025-10-09
+361,Andy Watson,employee,Analyst,Operations,Cameron Kim,57380,93%,andy.watson@examplecorp.com,2021-01-08
+362,Alex Price,employee,Coordinator,IT,Riley Murphy,56455,92%,alex.price@examplecorp.com,2017-10-09
+363,Dana Price,manager,Operations Manager,IT,Executive Board,162190,98%,dana.price@examplecorp.com,2024-08-03
+364,Jordan Jenkins,employee,Technician,Operations,Alex Murphy,166066,90%,jordan.jenkins@examplecorp.com,2019-08-25
+365,Morgan Nguyen,employee,Analyst,Sales,Skyler Price,69471,100%,morgan.nguyen@examplecorp.com,2018-03-26
+366,Dana Brooks,employee,Technician,Sales,Taylor Brooks,70654,95%,dana.brooks@examplecorp.com,2025-08-19
+367,Cameron Murphy,admin,Infrastructure Admin,Customer Success,Executive Board,153535,87%,cameron.murphy@examplecorp.com,2016-01-18
+368,Dana Lopez,employee,Technician,HR,Taylor Brooks,151871,90%,dana.lopez@examplecorp.com,2017-12-11
+369,Alex Rivera,employee,Analyst,Finance,Alex Murphy,164965,94%,alex.rivera@examplecorp.com,2015-03-18
+370,Drew Lopez,employee,Support Specialist,Engineering,Morgan Rivera,101778,92%,drew.lopez@examplecorp.com,2015-07-24
+371,Andy Bell,employee,Engineer,Marketing,Charlie Murphy,132903,90%,andy.bell@examplecorp.com,2025-07-04
+372,Charlie Lewis,employee,Technician,HR,Riley Reed,167682,97%,charlie.lewis@examplecorp.com,2022-06-14
+373,Jamie Price,employee,Support Specialist,Operations,Dana Price,108391,95%,jamie.price@examplecorp.com,2019-02-25
+374,Cameron Nguyen,employee,Technician,Sales,Cameron Walker,50980,88%,cameron.nguyen@examplecorp.com,2025-04-11
+375,Skyler Price,employee,Support Specialist,HR,Taylor Brooks,64534,88%,skyler.price@examplecorp.com,2017-07-27
+376,Charlie Patel,employee,Analyst,Operations,Riley Young,172083,93%,charlie.patel@examplecorp.com,2021-02-24
+377,Casey Watson,employee,Analyst,Finance,Skyler Price,55471,100%,casey.watson@examplecorp.com,2024-10-19
+378,Taylor Walker,employee,Support Specialist,Sales,Riley Young,85889,86%,taylor.walker@examplecorp.com,2017-07-11
+379,Dana Clark,employee,Coordinator,Operations,Morgan Rivera,59628,95%,dana.clark@examplecorp.com,2021-01-15
+380,Dana Kim,employee,Coordinator,Engineering,Cameron Kim,125614,98%,dana.kim@examplecorp.com,2019-03-10
+381,Casey Rivera,employee,Coordinator,Customer Success,Reese Clark,175920,97%,casey.rivera@examplecorp.com,2019-01-19
+382,Kris Patel,employee,Technician,Engineering,Taylor Young,78193,87%,kris.patel@examplecorp.com,2023-09-28
+383,Riley Singh,employee,Engineer,Marketing,Reese Clark,107945,96%,riley.singh@examplecorp.com,2015-05-17
+384,Quinn Cooper,employee,Coordinator,IT,Skyler Price,78660,91%,quinn.cooper@examplecorp.com,2023-04-08
+385,Avery Bell,employee,Analyst,Customer Success,Alex Murphy,119603,87%,avery.bell@examplecorp.com,2016-05-21
+386,Quinn Lewis,employee,Technician,Customer Success,Taylor Brooks,70226,90%,quinn.lewis@examplecorp.com,2018-04-27
+387,Morgan Kim,employee,Technician,Operations,Alex Murphy,69020,94%,morgan.kim@examplecorp.com,2024-05-23
+388,Reese Clark,employee,Technician,IT,Drew Singh,170657,85%,reese.clark@examplecorp.com,2022-11-15
+389,Alex Bennett,employee,Support Specialist,Customer Success,Cameron Walker,147891,86%,alex.bennett@examplecorp.com,2022-07-02
+390,Kris Patel,employee,Coordinator,Sales,Taylor Brooks,142972,88%,kris.patel@examplecorp.com,2018-03-10
+391,Morgan Murphy,employee,Support Specialist,Operations,Drew Walker,68555,97%,morgan.murphy@examplecorp.com,2019-03-22
+392,Robin Watson,employee,Engineer,Engineering,Drew Walker,111957,93%,robin.watson@examplecorp.com,2017-11-05
+393,Reese Brooks,admin,IT Administrator,Finance,Executive Board,209030,100%,reese.brooks@examplecorp.com,2020-08-05
+394,Jamie Watson,employee,Analyst,Marketing,Reese Clark,78112,95%,jamie.watson@examplecorp.com,2015-02-27
+395,Dana Lewis,employee,Engineer,IT,Dana Price,107226,89%,dana.lewis@examplecorp.com,2020-12-07
+396,Dana Patel,employee,Engineer,Sales,Alex Murphy,77871,98%,dana.patel@examplecorp.com,2017-03-15
+397,Robin Bennett,employee,Coordinator,HR,Morgan Rivera,165991,99%,robin.bennett@examplecorp.com,2017-06-09
+398,Jesse Kim,employee,Engineer,Customer Success,Cameron Kim,64353,90%,jesse.kim@examplecorp.com,2021-01-23
+399,Skyler Bell,employee,Coordinator,Customer Success,Riley Singh,174873,100%,skyler.bell@examplecorp.com,2017-07-17
+400,Dana Cooper,employee,Technician,IT,Alex Murphy,119270,89%,dana.cooper@examplecorp.com,2018-09-27
+401,Andy Lewis,employee,Analyst,Marketing,Skyler Price,66121,99%,andy.lewis@examplecorp.com,2019-10-17
+402,Charlie Singh,employee,Support Specialist,Sales,Robin Lewis,54434,87%,charlie.singh@examplecorp.com,2024-12-11
+403,Taylor Bennett,employee,Technician,Sales,Cameron Kim,158753,96%,taylor.bennett@examplecorp.com,2021-03-27
+404,Taylor Walker,employee,Technician,Operations,Taylor Brooks,163896,86%,taylor.walker@examplecorp.com,2019-11-23
+405,Taylor Nguyen,manager,Product Manager,HR,Executive Board,96709,96%,taylor.nguyen@examplecorp.com,2019-01-15
+406,Jesse Rivera,employee,Technician,HR,Sam Rivera,54522,89%,jesse.rivera@examplecorp.com,2015-11-22
+407,Kris Watson,employee,Technician,Operations,Riley Reed,60891,85%,kris.watson@examplecorp.com,2025-06-28
+408,Dana Murphy,employee,Engineer,Finance,Riley Young,96186,91%,dana.murphy@examplecorp.com,2016-03-21
+409,Jamie Lopez,employee,Coordinator,HR,Skyler Price,126561,95%,jamie.lopez@examplecorp.com,2015-11-13
+410,Morgan Jenkins,employee,Technician,Engineering,Charlie Lewis,161919,99%,morgan.jenkins@examplecorp.com,2021-12-19
+411,Robin Watson,employee,Coordinator,Marketing,Drew Singh,108866,85%,robin.watson@examplecorp.com,2018-08-27
+412,Drew Bennett,employee,Analyst,IT,Reese Cooper,145804,88%,drew.bennett@examplecorp.com,2017-04-26
+413,Alex Jenkins,employee,Analyst,Operations,Drew Walker,148047,99%,alex.jenkins@examplecorp.com,2019-05-12
+414,Dana Bennett,employee,Analyst,Operations,Skyler Price,69106,97%,dana.bennett@examplecorp.com,2018-12-03
+415,Riley Reed,employee,Support Specialist,Sales,Quinn Reed,166077,96%,riley.reed@examplecorp.com,2017-07-16
+416,Avery Bell,employee,Coordinator,Customer Success,Taylor Bell,102976,97%,avery.bell@examplecorp.com,2018-07-08
+417,Avery Murphy,manager,Operations Manager,IT,Executive Board,197257,99%,avery.murphy@examplecorp.com,2017-05-15
+418,Riley Kim,employee,Support Specialist,Finance,Taylor Young,58148,100%,riley.kim@examplecorp.com,2024-04-04
+419,Alex Murphy,manager,Sales Manager,HR,Executive Board,148577,98%,alex.murphy@examplecorp.com,2025-02-05
+420,Skyler Bennett,employee,Support Specialist,HR,Morgan Rivera,89150,91%,skyler.bennett@examplecorp.com,2018-07-02
+421,Charlie Patel,manager,Product Manager,Customer Success,Executive Board,130145,92%,charlie.patel@examplecorp.com,2017-02-23
+422,Reese Reed,employee,Support Specialist,IT,Taylor Bell,120339,86%,reese.reed@examplecorp.com,2015-11-01
+423,Cameron Walker,employee,Support Specialist,IT,Riley Singh,78648,91%,cameron.walker@examplecorp.com,2020-10-03
+424,Jamie Lopez,employee,Analyst,Operations,Cameron Kim,139618,97%,jamie.lopez@examplecorp.com,2018-07-12
+425,Alex Patel,employee,Coordinator,Finance,Dana Price,109606,97%,alex.patel@examplecorp.com,2020-01-27
+426,Andy Watson,employee,Engineer,Customer Success,Sam Rivera,154169,93%,andy.watson@examplecorp.com,2015-12-26
+427,Cameron Young,employee,Support Specialist,IT,Charlie Patel,168331,91%,cameron.young@examplecorp.com,2020-01-23
+428,Jordan Nguyen,employee,Support Specialist,Operations,Charlie Patel,87381,93%,jordan.nguyen@examplecorp.com,2023-01-16
+429,Taylor Singh,employee,Coordinator,HR,Dana Lewis,57557,89%,taylor.singh@examplecorp.com,2019-01-21
+430,Avery Singh,employee,Analyst,Operations,Avery Murphy,123884,86%,avery.singh@examplecorp.com,2025-09-28
+431,Casey Lopez,employee,Technician,Marketing,Quinn Reed,118657,95%,casey.lopez@examplecorp.com,2017-06-12
+432,Skyler Clark,employee,Analyst,HR,Riley Reed,174233,94%,skyler.clark@examplecorp.com,2015-02-20
+433,Alex Bell,employee,Support Specialist,Sales,Sam Rivera,141343,100%,alex.bell@examplecorp.com,2019-06-13
+434,Avery Nguyen,employee,Engineer,HR,Drew Nguyen,138431,88%,avery.nguyen@examplecorp.com,2022-07-19
+435,Taylor Jenkins,employee,Engineer,Engineering,Dana Lewis,146069,87%,taylor.jenkins@examplecorp.com,2025-12-05
+436,Jamie Murphy,employee,Technician,Sales,Alex Murphy,124483,89%,jamie.murphy@examplecorp.com,2024-05-20
+437,Skyler Lewis,employee,Support Specialist,HR,Cameron Kim,146211,93%,skyler.lewis@examplecorp.com,2021-01-14
+438,Dana Murphy,manager,HR Manager,Engineering,Executive Board,128828,88%,dana.murphy@examplecorp.com,2024-05-28
+439,Taylor Bennett,manager,HR Manager,HR,Executive Board,100119,91%,taylor.bennett@examplecorp.com,2022-07-16
+440,Jamie Murphy,manager,Finance Manager,HR,Executive Board,120395,93%,jamie.murphy@examplecorp.com,2017-06-20
+441,Andy Price,employee,Support Specialist,Marketing,Charlie Lewis,169969,86%,andy.price@examplecorp.com,2016-03-18
+442,Morgan Cooper,employee,Engineer,IT,Cameron Walker,108993,96%,morgan.cooper@examplecorp.com,2020-03-22
+443,Charlie Lewis,employee,Engineer,Operations,Riley Singh,157700,100%,charlie.lewis@examplecorp.com,2022-10-05
+444,Jamie Lewis,employee,Engineer,Operations,Riley Reed,104124,93%,jamie.lewis@examplecorp.com,2025-09-16
+445,Andy Bell,employee,Support Specialist,Finance,Quinn Reed,74521,99%,andy.bell@examplecorp.com,2017-04-28
+446,Skyler Bell,manager,Product Manager,Finance,Executive Board,201884,85%,skyler.bell@examplecorp.com,2023-07-23
+447,Casey Young,employee,Coordinator,Operations,Riley Reed,91405,91%,casey.young@examplecorp.com,2017-05-04
+448,Robin Patel,employee,Engineer,Engineering,Charlie Patel,64874,85%,robin.patel@examplecorp.com,2020-10-13
+449,Kris Walker,employee,Support Specialist,Finance,Cameron Walker,65931,86%,kris.walker@examplecorp.com,2015-08-01
+450,Dana Murphy,employee,Technician,HR,Drew Walker,101703,88%,dana.murphy@examplecorp.com,2024-05-11
+451,Jordan Nguyen,employee,Technician,Sales,Robin Lewis,85428,88%,jordan.nguyen@examplecorp.com,2020-12-02
+452,Charlie Lewis,employee,Analyst,Finance,Charlie Patel,82752,98%,charlie.lewis@examplecorp.com,2019-04-19
+453,Cameron Murphy,employee,Analyst,Operations,Quinn Lewis,54087,99%,cameron.murphy@examplecorp.com,2019-12-28
+454,Morgan Singh,employee,Technician,Sales,Dana Murphy,107987,98%,morgan.singh@examplecorp.com,2017-09-01
+455,Cameron Jenkins,employee,Coordinator,Engineering,Skyler Price,103528,100%,cameron.jenkins@examplecorp.com,2022-03-25
+456,Jordan Rivera,employee,Technician,Engineering,Cameron Kim,137418,89%,jordan.rivera@examplecorp.com,2021-05-01
+457,Riley Murphy,employee,Analyst,Marketing,Drew Walker,150614,85%,riley.murphy@examplecorp.com,2016-12-03
+458,Sam Singh,employee,Coordinator,Finance,Reese Cooper,144781,91%,sam.singh@examplecorp.com,2015-10-17
+459,Andy Walker,employee,Support Specialist,Finance,Riley Murphy,104559,88%,andy.walker@examplecorp.com,2022-11-24
+460,Avery Bell,employee,Support Specialist,Customer Success,Alex Murphy,136319,92%,avery.bell@examplecorp.com,2025-06-28
+461,Drew Cooper,employee,Support Specialist,HR,Drew Singh,88675,94%,drew.cooper@examplecorp.com,2018-07-10
+462,Jordan Walker,employee,Analyst,Operations,Dana Murphy,136960,92%,jordan.walker@examplecorp.com,2022-10-25
+463,Taylor Cooper,employee,Engineer,IT,Sam Rivera,50220,93%,taylor.cooper@examplecorp.com,2015-09-04
+464,Casey Watson,employee,Coordinator,HR,Reese Clark,82229,100%,casey.watson@examplecorp.com,2021-11-16
+465,Reese Clark,employee,Coordinator,Engineering,Jordan Singh,124526,88%,reese.clark@examplecorp.com,2017-08-24
+466,Andy Brooks,employee,Coordinator,Sales,Charlie Lewis,89977,98%,andy.brooks@examplecorp.com,2020-07-24
+467,Jesse Cooper,employee,Engineer,HR,Charlie Lewis,67672,97%,jesse.cooper@examplecorp.com,2020-08-01
+468,Charlie Brooks,employee,Support Specialist,Finance,Charlie Patel,145892,93%,charlie.brooks@examplecorp.com,2025-09-19
+469,Morgan Walker,employee,Coordinator,IT,Charlie Patel,177211,98%,morgan.walker@examplecorp.com,2015-04-11
+470,Casey Watson,manager,Finance Manager,Customer Success,Executive Board,171922,85%,casey.watson@examplecorp.com,2023-02-11
+471,Charlie Jenkins,manager,Finance Manager,HR,Executive Board,159676,93%,charlie.jenkins@examplecorp.com,2025-03-02
+472,Dana Lewis,employee,Technician,Operations,Drew Singh,115594,90%,dana.lewis@examplecorp.com,2018-06-21
+473,Sam Bell,employee,Coordinator,Sales,Morgan Watson,95549,95%,sam.bell@examplecorp.com,2021-07-21
+474,Kris Lopez,employee,Analyst,Marketing,Reese Clark,157553,85%,kris.lopez@examplecorp.com,2020-07-23
+475,Skyler Bennett,employee,Coordinator,Operations,Riley Young,61138,92%,skyler.bennett@examplecorp.com,2020-04-22
+476,Drew Murphy,employee,Coordinator,Engineering,Morgan Watson,78167,91%,drew.murphy@examplecorp.com,2023-03-25
+477,Reese Watson,employee,Technician,Marketing,Taylor Young,131736,94%,reese.watson@examplecorp.com,2015-10-24
+478,Jamie Young,employee,Coordinator,IT,Alex Murphy,150458,91%,jamie.young@examplecorp.com,2015-09-28
+479,Casey Singh,manager,Product Manager,Sales,Executive Board,116760,100%,casey.singh@examplecorp.com,2021-02-20
+480,Avery Watson,employee,Engineer,Engineering,Jordan Singh,93098,98%,avery.watson@examplecorp.com,2024-08-04
+481,Quinn Watson,employee,Engineer,Finance,Riley Reed,123640,86%,quinn.watson@examplecorp.com,2025-06-24
+482,Jamie Reed,employee,Engineer,HR,Riley Murphy,172319,99%,jamie.reed@examplecorp.com,2018-12-24
+483,Reese Nguyen,employee,Support Specialist,HR,Riley Young,60613,91%,reese.nguyen@examplecorp.com,2018-04-20
+484,Morgan Young,employee,Technician,IT,Riley Young,115355,95%,morgan.young@examplecorp.com,2020-05-13
+485,Kris Watson,employee,Technician,Engineering,Charlie Jenkins,96577,86%,kris.watson@examplecorp.com,2019-08-15
+486,Morgan Bell,employee,Support Specialist,Customer Success,Taylor Nguyen,63994,93%,morgan.bell@examplecorp.com,2016-07-11
+487,Morgan Bennett,employee,Engineer,Finance,Robin Lewis,103719,86%,morgan.bennett@examplecorp.com,2017-11-21
+488,Kris Price,employee,Support Specialist,IT,Dana Price,83642,89%,kris.price@examplecorp.com,2022-10-06
+489,Kris Brooks,employee,Technician,IT,Taylor Bell,127577,100%,kris.brooks@examplecorp.com,2018-06-12
+490,Reese Cooper,manager,HR Manager,Sales,Executive Board,126058,91%,reese.cooper@examplecorp.com,2023-09-08
+491,Drew Walker,employee,Analyst,IT,Skyler Bell,76289,95%,drew.walker@examplecorp.com,2016-11-07
+492,Andy Kim,employee,Support Specialist,Finance,Jordan Singh,167850,89%,andy.kim@examplecorp.com,2017-03-24
+493,Dana Lopez,employee,Analyst,Customer Success,Avery Murphy,151295,92%,dana.lopez@examplecorp.com,2020-10-20
+494,Jesse Lopez,employee,Support Specialist,Engineering,Quinn Reed,65889,99%,jesse.lopez@examplecorp.com,2016-11-28
+495,Kris Singh,employee,Coordinator,Customer Success,Drew Walker,142366,95%,kris.singh@examplecorp.com,2021-04-06
+496,Casey Walker,employee,Engineer,Operations,Riley Murphy,173426,88%,casey.walker@examplecorp.com,2021-04-19
+497,Drew Watson,employee,Engineer,IT,Skyler Bell,140353,91%,drew.watson@examplecorp.com,2021-11-15
+498,Andy Walker,employee,Technician,Customer Success,Taylor Young,53156,89%,andy.walker@examplecorp.com,2019-04-02
+499,Charlie Lopez,employee,Technician,HR,Skyler Bell,108101,97%,charlie.lopez@examplecorp.com,2025-03-13
+500,Jordan Nguyen,employee,Technician,Marketing,Reese Cooper,133215,92%,jordan.nguyen@examplecorp.com,2024-06-15
+501,Morgan Rivera,manager,Finance Manager,IT,Executive Board,165765,93%,morgan.rivera@examplecorp.com,2016-07-21
+502,Drew Bennett,employee,Technician,Finance,Taylor Bell,59148,100%,drew.bennett@examplecorp.com,2022-05-26
+503,Robin Kim,employee,Technician,Engineering,Cameron Walker,61692,92%,robin.kim@examplecorp.com,2021-01-01
+504,Robin Nguyen,employee,Analyst,Engineering,Morgan Watson,171081,85%,robin.nguyen@examplecorp.com,2015-12-24
+505,Cameron Walker,employee,Technician,Marketing,Drew Nguyen,81356,87%,cameron.walker@examplecorp.com,2015-12-09
+506,Andy Watson,admin,Infrastructure Admin,Finance,Executive Board,159772,87%,andy.watson@examplecorp.com,2021-03-05
+507,Taylor Walker,employee,Analyst,Sales,Casey Singh,56487,98%,taylor.walker@examplecorp.com,2019-08-17
+508,Morgan Walker,manager,Sales Manager,HR,Executive Board,154617,93%,morgan.walker@examplecorp.com,2021-09-25
+509,Drew Young,employee,Analyst,Sales,Quinn Lewis,102232,92%,drew.young@examplecorp.com,2019-12-04
+510,Avery Clark,employee,Engineer,Operations,Morgan Watson,105942,98%,avery.clark@examplecorp.com,2020-09-21
+511,Quinn Lopez,employee,Technician,Marketing,Taylor Bell,139432,87%,quinn.lopez@examplecorp.com,2024-08-23
+512,Jesse Cooper,manager,Operations Manager,Finance,Executive Board,150064,93%,jesse.cooper@examplecorp.com,2023-02-14
+513,Reese Murphy,employee,Engineer,HR,Casey Singh,170865,91%,reese.murphy@examplecorp.com,2022-10-27
+514,Quinn Brooks,employee,Engineer,Operations,Taylor Bell,158690,90%,quinn.brooks@examplecorp.com,2018-03-05
+515,Avery Murphy,employee,Coordinator,HR,Riley Young,114482,87%,avery.murphy@examplecorp.com,2016-10-25
+516,Skyler Bell,employee,Technician,Finance,Avery Murphy,159528,96%,skyler.bell@examplecorp.com,2015-02-18
+517,Jamie Kim,employee,Analyst,Operations,Robin Lewis,132390,98%,jamie.kim@examplecorp.com,2023-10-17
+518,Robin Patel,employee,Engineer,Operations,Cameron Walker,177268,97%,robin.patel@examplecorp.com,2018-07-25
+519,Kris Reed,manager,HR Manager,HR,Executive Board,113408,91%,kris.reed@examplecorp.com,2024-01-26
+520,Alex Singh,employee,Technician,Engineering,Skyler Price,176612,99%,alex.singh@examplecorp.com,2023-02-20
+521,Riley Lewis,employee,Support Specialist,Sales,Kris Reed,91935,91%,riley.lewis@examplecorp.com,2023-08-04
+522,Charlie Rivera,employee,Engineer,IT,Alex Murphy,130895,99%,charlie.rivera@examplecorp.com,2021-12-16
+523,Morgan Price,employee,Analyst,Customer Success,Charlie Murphy,143603,93%,morgan.price@examplecorp.com,2015-01-18
+524,Morgan Walker,employee,Support Specialist,Engineering,Alex Murphy,123454,88%,morgan.walker@examplecorp.com,2022-03-27
+525,Skyler Murphy,employee,Engineer,IT,Taylor Brooks,131748,87%,skyler.murphy@examplecorp.com,2023-02-25
+526,Dana Lopez,employee,Analyst,Sales,Reese Cooper,105225,96%,dana.lopez@examplecorp.com,2022-03-21
+527,Reese Singh,employee,Technician,HR,Taylor Nguyen,121448,90%,reese.singh@examplecorp.com,2017-03-19
+528,Jordan Walker,employee,Analyst,Finance,Sam Rivera,84280,92%,jordan.walker@examplecorp.com,2016-11-24
+529,Alex Lewis,employee,Coordinator,IT,Drew Walker,152729,96%,alex.lewis@examplecorp.com,2015-10-06
+530,Jordan Jenkins,employee,Technician,Operations,Taylor Nguyen,126301,98%,jordan.jenkins@examplecorp.com,2020-10-05
+531,Dana Murphy,employee,Coordinator,Marketing,Charlie Patel,128743,99%,dana.murphy@examplecorp.com,2023-03-25
+532,Dana Nguyen,employee,Coordinator,Sales,Casey Singh,65536,97%,dana.nguyen@examplecorp.com,2022-09-25
+533,Sam Patel,employee,Analyst,HR,Jamie Murphy,129899,87%,sam.patel@examplecorp.com,2020-02-25
+534,Drew Walker,employee,Analyst,Operations,Jordan Singh,63915,85%,drew.walker@examplecorp.com,2017-12-20
+535,Quinn Bell,employee,Coordinator,Operations,Reese Cooper,130417,88%,quinn.bell@examplecorp.com,2018-04-10
+536,Skyler Lewis,employee,Coordinator,Marketing,Quinn Reed,122353,92%,skyler.lewis@examplecorp.com,2019-10-05
+537,Alex Lewis,employee,Analyst,Sales,Reese Cooper,129836,94%,alex.lewis@examplecorp.com,2016-08-23
+538,Quinn Bennett,employee,Technician,HR,Charlie Patel,141785,99%,quinn.bennett@examplecorp.com,2020-07-13
+539,Jesse Watson,employee,Analyst,IT,Dana Murphy,139010,95%,jesse.watson@examplecorp.com,2016-09-11
+540,Jesse Nguyen,employee,Technician,Finance,Skyler Bell,124491,87%,jesse.nguyen@examplecorp.com,2023-02-26
+541,Sam Clark,employee,Technician,Finance,Andy Reed,80980,93%,sam.clark@examplecorp.com,2015-01-02
+542,Taylor Young,employee,Engineer,Engineering,Riley Reed,172386,99%,taylor.young@examplecorp.com,2017-10-24
+543,Cameron Bennett,employee,Technician,IT,Cameron Walker,104587,97%,cameron.bennett@examplecorp.com,2025-02-18
+544,Jesse Young,employee,Coordinator,Operations,Reese Cooper,58679,85%,jesse.young@examplecorp.com,2022-05-12
+545,Quinn Watson,employee,Engineer,HR,Jordan Singh,77603,92%,quinn.watson@examplecorp.com,2022-12-28
+546,Robin Lewis,employee,Coordinator,Marketing,Dana Murphy,123845,93%,robin.lewis@examplecorp.com,2025-08-16
+547,Taylor Jenkins,admin,System Admin,Operations,Executive Board,163110,86%,taylor.jenkins@examplecorp.com,2016-09-02
+548,Robin Walker,employee,Coordinator,HR,Jamie Murphy,129912,90%,robin.walker@examplecorp.com,2017-11-10
+549,Skyler Bell,employee,Technician,Engineering,Robin Lewis,63408,97%,skyler.bell@examplecorp.com,2021-09-10
+550,Andy Kim,employee,Analyst,Engineering,Charlie Lewis,121792,87%,andy.kim@examplecorp.com,2025-12-02
+551,Cameron Rivera,employee,Engineer,Sales,Alex Murphy,138677,100%,cameron.rivera@examplecorp.com,2021-01-11
+552,Taylor Patel,employee,Support Specialist,HR,Riley Murphy,54113,95%,taylor.patel@examplecorp.com,2019-08-06
+553,Jamie Murphy,employee,Technician,IT,Taylor Brooks,129589,96%,jamie.murphy@examplecorp.com,2023-02-19
+554,Cameron Brooks,employee,Technician,Marketing,Morgan Walker,159970,100%,cameron.brooks@examplecorp.com,2016-01-28
+555,Casey Murphy,employee,Coordinator,Sales,Drew Walker,107177,90%,casey.murphy@examplecorp.com,2022-09-01
+556,Reese Cooper,employee,Support Specialist,Operations,Riley Murphy,107029,100%,reese.cooper@examplecorp.com,2019-03-16
+557,Cameron Rivera,employee,Support Specialist,Sales,Avery Murphy,61834,100%,cameron.rivera@examplecorp.com,2025-08-22
+558,Sam Singh,employee,Analyst,Customer Success,Jesse Cooper,155901,92%,sam.singh@examplecorp.com,2021-12-02
+559,Reese Murphy,employee,Coordinator,IT,Dana Murphy,132772,99%,reese.murphy@examplecorp.com,2016-04-05
+560,Sam Kim,employee,Technician,Marketing,Dana Price,124132,90%,sam.kim@examplecorp.com,2023-01-13
+561,Jamie Bennett,manager,Finance Manager,Operations,Executive Board,179395,93%,jamie.bennett@examplecorp.com,2025-05-05
+562,Cameron Reed,employee,Technician,Customer Success,Cameron Walker,106705,96%,cameron.reed@examplecorp.com,2020-04-13
+563,Reese Lewis,employee,Coordinator,Finance,Jesse Cooper,84854,91%,reese.lewis@examplecorp.com,2020-08-04
+564,Reese Young,employee,Analyst,Sales,Reese Cooper,159638,99%,reese.young@examplecorp.com,2016-12-22
+565,Kris Price,manager,Product Manager,Engineering,Executive Board,153805,98%,kris.price@examplecorp.com,2019-07-27
+566,Charlie Lopez,employee,Analyst,Finance,Taylor Young,169933,88%,charlie.lopez@examplecorp.com,2025-05-21
+567,Drew Cooper,employee,Technician,IT,Kris Reed,95192,85%,drew.cooper@examplecorp.com,2025-07-22
+568,Casey Lewis,employee,Engineer,HR,Jamie Bennett,174843,92%,casey.lewis@examplecorp.com,2021-02-14
+569,Cameron Jenkins,employee,Engineer,Customer Success,Kris Reed,119462,97%,cameron.jenkins@examplecorp.com,2015-11-24
+570,Jamie Murphy,employee,Technician,Finance,Morgan Watson,148055,86%,jamie.murphy@examplecorp.com,2018-03-22
+571,Alex Lopez,employee,Analyst,HR,Drew Nguyen,79615,93%,alex.lopez@examplecorp.com,2023-04-03
+572,Jamie Rivera,employee,Coordinator,Marketing,Taylor Nguyen,161277,96%,jamie.rivera@examplecorp.com,2025-11-04
+573,Jordan Murphy,employee,Support Specialist,Sales,Casey Singh,154347,98%,jordan.murphy@examplecorp.com,2016-12-15
+574,Sam Clark,employee,Analyst,HR,Skyler Price,147554,85%,sam.clark@examplecorp.com,2020-12-06
+575,Jordan Bell,employee,Support Specialist,Customer Success,Drew Walker,139765,96%,jordan.bell@examplecorp.com,2020-06-05
+576,Sam Cooper,employee,Technician,Finance,Reese Cooper,124373,87%,sam.cooper@examplecorp.com,2016-06-13
+577,Riley Lopez,employee,Engineer,Engineering,Taylor Young,59505,94%,riley.lopez@examplecorp.com,2023-12-13
+578,Alex Kim,manager,Product Manager,Engineering,Executive Board,116924,87%,alex.kim@examplecorp.com,2019-08-20
+579,Reese Lewis,employee,Engineer,Operations,Sam Rivera,126267,94%,reese.lewis@examplecorp.com,2016-03-06
+580,Skyler Murphy,employee,Technician,Operations,Jamie Murphy,127727,86%,skyler.murphy@examplecorp.com,2021-04-04
+581,Jordan Walker,employee,Analyst,Operations,Skyler Price,100580,91%,jordan.walker@examplecorp.com,2025-03-27
+582,Dana Cooper,employee,Analyst,Customer Success,Andy Reed,92328,91%,dana.cooper@examplecorp.com,2025-09-08
+583,Kris Rivera,employee,Support Specialist,IT,Skyler Price,154193,97%,kris.rivera@examplecorp.com,2021-09-16
+584,Jesse Clark,employee,Engineer,IT,Cameron Walker,53384,94%,jesse.clark@examplecorp.com,2023-01-27
+585,Jordan Jenkins,employee,Technician,HR,Jesse Cooper,78758,97%,jordan.jenkins@examplecorp.com,2021-07-12
+586,Alex Brooks,employee,Engineer,Marketing,Avery Murphy,147815,86%,alex.brooks@examplecorp.com,2015-01-13
+587,Jesse Murphy,employee,Technician,Customer Success,Morgan Rivera,164215,88%,jesse.murphy@examplecorp.com,2015-06-08
+588,Robin Bennett,manager,Operations Manager,Marketing,Executive Board,195423,91%,robin.bennett@examplecorp.com,2022-04-18
+589,Drew Young,employee,Technician,IT,Quinn Reed,146918,94%,drew.young@examplecorp.com,2023-05-25
+590,Riley Young,employee,Analyst,Sales,Taylor Brooks,168985,98%,riley.young@examplecorp.com,2024-06-09
+591,Jordan Cooper,employee,Technician,Operations,Morgan Rivera,138851,88%,jordan.cooper@examplecorp.com,2020-09-20
+592,Jamie Reed,manager,Finance Manager,Finance,Executive Board,174663,89%,jamie.reed@examplecorp.com,2021-02-22
+593,Sam Kim,employee,Support Specialist,Sales,Alex Murphy,162122,97%,sam.kim@examplecorp.com,2015-05-11
+594,Robin Young,employee,Analyst,Finance,Taylor Brooks,161540,98%,robin.young@examplecorp.com,2023-11-04
+595,Casey Cooper,employee,Analyst,Sales,Robin Lewis,118830,85%,casey.cooper@examplecorp.com,2022-12-06
+596,Charlie Rivera,employee,Technician,HR,Alex Murphy,84282,86%,charlie.rivera@examplecorp.com,2019-05-27
+597,Kris Lewis,employee,Technician,Finance,Dana Murphy,121300,85%,kris.lewis@examplecorp.com,2021-05-02
+598,Taylor Patel,employee,Technician,Marketing,Morgan Walker,89158,87%,taylor.patel@examplecorp.com,2024-01-09
+599,Avery Young,employee,Engineer,Marketing,Charlie Patel,119615,85%,avery.young@examplecorp.com,2025-03-20
+600,Dana Bell,employee,Technician,Finance,Morgan Rivera,156620,85%,dana.bell@examplecorp.com,2015-02-21
+601,Dana Brooks,employee,Analyst,HR,Quinn Lewis,166375,88%,dana.brooks@examplecorp.com,2025-01-24
+602,Skyler Bennett,employee,Coordinator,HR,Skyler Price,70110,95%,skyler.bennett@examplecorp.com,2020-10-05
+603,Drew Nguyen,employee,Technician,Customer Success,Taylor Brooks,110918,97%,drew.nguyen@examplecorp.com,2019-10-21
+604,Cameron Bennett,manager,Operations Manager,Marketing,Executive Board,165887,86%,cameron.bennett@examplecorp.com,2025-01-14
+605,Riley Reed,employee,Coordinator,IT,Jamie Murphy,146151,85%,riley.reed@examplecorp.com,2025-07-13
+606,Sam Cooper,employee,Coordinator,Marketing,Dana Murphy,170126,98%,sam.cooper@examplecorp.com,2022-05-24
+607,Charlie Murphy,employee,Analyst,Operations,Dana Murphy,50387,90%,charlie.murphy@examplecorp.com,2015-05-15
+608,Taylor Cooper,employee,Analyst,Sales,Dana Price,172376,87%,taylor.cooper@examplecorp.com,2015-04-14
+609,Taylor Patel,manager,HR Manager,Finance,Executive Board,146218,93%,taylor.patel@examplecorp.com,2016-08-15
+610,Cameron Walker,employee,Technician,Operations,Morgan Watson,168396,91%,cameron.walker@examplecorp.com,2019-03-10
+611,Charlie Singh,employee,Analyst,Engineering,Jesse Cooper,98589,95%,charlie.singh@examplecorp.com,2020-06-26
+612,Drew Singh,employee,Engineer,Sales,Cameron Kim,156828,94%,drew.singh@examplecorp.com,2022-12-02
+613,Jamie Kim,admin,Infrastructure Admin,Customer Success,Executive Board,94899,100%,jamie.kim@examplecorp.com,2021-07-25
+614,Quinn Rivera,manager,Sales Manager,Engineering,Executive Board,146861,87%,quinn.rivera@examplecorp.com,2021-05-02
+615,Drew Murphy,employee,Technician,Customer Success,Charlie Murphy,97972,93%,drew.murphy@examplecorp.com,2019-07-19
+616,Skyler Murphy,employee,Technician,Customer Success,Taylor Brooks,161557,86%,skyler.murphy@examplecorp.com,2015-06-07
+617,Avery Young,employee,Technician,Marketing,Dana Price,126753,99%,avery.young@examplecorp.com,2018-08-20
+618,Sam Young,employee,Analyst,Finance,Skyler Price,62166,86%,sam.young@examplecorp.com,2018-09-25
+619,Alex Price,employee,Engineer,HR,Avery Murphy,140253,94%,alex.price@examplecorp.com,2021-09-04
+620,Drew Cooper,employee,Support Specialist,Marketing,Riley Murphy,175278,92%,drew.cooper@examplecorp.com,2022-01-27
+621,Reese Clark,employee,Coordinator,Finance,Quinn Lewis,80652,91%,reese.clark@examplecorp.com,2018-10-02
+622,Charlie Patel,employee,Technician,Marketing,Dana Murphy,93157,95%,charlie.patel@examplecorp.com,2022-09-16
+623,Reese Lopez,employee,Support Specialist,Engineering,Taylor Brooks,152163,97%,reese.lopez@examplecorp.com,2024-01-27
+624,Quinn Young,employee,Analyst,Operations,Cameron Walker,155804,98%,quinn.young@examplecorp.com,2022-10-17
+625,Riley Murphy,employee,Technician,Marketing,Taylor Young,122357,91%,riley.murphy@examplecorp.com,2022-06-23
+626,Avery Bennett,employee,Engineer,Operations,Charlie Murphy,64712,89%,avery.bennett@examplecorp.com,2023-12-26
+627,Charlie Rivera,employee,Technician,Engineering,Cameron Bennett,163794,96%,charlie.rivera@examplecorp.com,2021-05-21
+628,Andy Jenkins,employee,Technician,Marketing,Taylor Bennett,126597,97%,andy.jenkins@examplecorp.com,2025-11-21
+629,Andy Rivera,employee,Technician,Operations,Taylor Bennett,137898,100%,andy.rivera@examplecorp.com,2024-07-21
+630,Dana Singh,employee,Coordinator,IT,Jamie Bennett,120803,88%,dana.singh@examplecorp.com,2023-05-05
+631,Jordan Bennett,employee,Support Specialist,Sales,Robin Bennett,128996,95%,jordan.bennett@examplecorp.com,2017-12-12
+632,Drew Murphy,employee,Analyst,Customer Success,Quinn Lewis,136733,89%,drew.murphy@examplecorp.com,2021-04-13
+633,Charlie Lopez,employee,Technician,Marketing,Kris Reed,103845,99%,charlie.lopez@examplecorp.com,2025-12-19
+634,Taylor Lopez,employee,Coordinator,Finance,Sam Rivera,65835,87%,taylor.lopez@examplecorp.com,2016-11-05
+635,Avery Walker,employee,Support Specialist,Engineering,Alex Murphy,178902,85%,avery.walker@examplecorp.com,2018-08-26
+636,Kris Bennett,employee,Analyst,Finance,Taylor Brooks,74699,86%,kris.bennett@examplecorp.com,2025-03-19
+637,Jesse Murphy,employee,Analyst,IT,Jesse Cooper,106098,98%,jesse.murphy@examplecorp.com,2024-02-15
+638,Cameron Watson,employee,Technician,IT,Dana Lewis,136846,85%,cameron.watson@examplecorp.com,2019-10-23
+639,Kris Lopez,employee,Engineer,Operations,Reese Cooper,115678,93%,kris.lopez@examplecorp.com,2024-02-23
+640,Skyler Murphy,employee,Engineer,Engineering,Jesse Cooper,74394,88%,skyler.murphy@examplecorp.com,2022-03-15
+641,Andy Singh,employee,Support Specialist,Sales,Alex Murphy,137703,100%,andy.singh@examplecorp.com,2016-04-03
+642,Avery Nguyen,employee,Engineer,Finance,Taylor Bell,104996,96%,avery.nguyen@examplecorp.com,2022-02-14
+643,Alex Lopez,employee,Coordinator,Customer Success,Alex Murphy,146986,95%,alex.lopez@examplecorp.com,2015-12-28
+644,Sam Nguyen,employee,Analyst,Engineering,Dana Price,172314,97%,sam.nguyen@examplecorp.com,2018-06-11
+645,Andy Singh,employee,Coordinator,HR,Charlie Lewis,134268,100%,andy.singh@examplecorp.com,2024-02-11
+646,Riley Jenkins,employee,Support Specialist,IT,Taylor Brooks,117401,93%,riley.jenkins@examplecorp.com,2025-10-19
+647,Jordan Kim,employee,Analyst,Marketing,Cameron Kim,56367,86%,jordan.kim@examplecorp.com,2018-01-26
+648,Riley Patel,employee,Support Specialist,HR,Charlie Jenkins,97699,98%,riley.patel@examplecorp.com,2017-09-06
+649,Andy Singh,employee,Engineer,Operations,Dana Price,153233,92%,andy.singh@examplecorp.com,2021-03-22
+650,Riley Brooks,employee,Support Specialist,Engineering,Morgan Walker,87971,96%,riley.brooks@examplecorp.com,2018-07-22
+651,Cameron Kim,employee,Analyst,Finance,Drew Singh,105851,88%,cameron.kim@examplecorp.com,2020-06-07
+652,Taylor Brooks,employee,Analyst,Engineering,Skyler Price,105121,100%,taylor.brooks@examplecorp.com,2019-04-22
+653,Avery Watson,employee,Technician,Customer Success,Quinn Lewis,139838,89%,avery.watson@examplecorp.com,2024-07-15
+654,Jesse Watson,employee,Analyst,Operations,Taylor Brooks,170820,92%,jesse.watson@examplecorp.com,2025-05-19
+655,Charlie Brooks,employee,Analyst,Operations,Taylor Young,149697,95%,charlie.brooks@examplecorp.com,2015-03-08
+656,Casey Watson,employee,Engineer,Customer Success,Quinn Reed,103808,95%,casey.watson@examplecorp.com,2017-02-11
+657,Taylor Kim,employee,Coordinator,Finance,Casey Singh,118176,93%,taylor.kim@examplecorp.com,2016-08-03
+658,Robin Patel,manager,Product Manager,Sales,Executive Board,191788,93%,robin.patel@examplecorp.com,2021-10-06
+659,Dana Walker,employee,Coordinator,Finance,Quinn Reed,135585,99%,dana.walker@examplecorp.com,2019-12-02
+660,Jamie Nguyen,employee,Analyst,Engineering,Morgan Rivera,151002,100%,jamie.nguyen@examplecorp.com,2022-09-19
+661,Charlie Lewis,employee,Analyst,Operations,Casey Singh,102939,89%,charlie.lewis@examplecorp.com,2022-02-27
+662,Charlie Young,employee,Technician,Finance,Avery Murphy,136185,96%,charlie.young@examplecorp.com,2024-02-13
+663,Avery Nguyen,employee,Engineer,Finance,Morgan Rivera,106609,90%,avery.nguyen@examplecorp.com,2016-08-10
+664,Jordan Kim,employee,Coordinator,Customer Success,Taylor Young,166460,97%,jordan.kim@examplecorp.com,2025-08-07
+665,Skyler Watson,employee,Support Specialist,Customer Success,Skyler Bell,169124,93%,skyler.watson@examplecorp.com,2017-05-28
+666,Taylor Lopez,employee,Analyst,Operations,Taylor Brooks,161250,85%,taylor.lopez@examplecorp.com,2020-08-27
+667,Kris Patel,employee,Coordinator,Engineering,Charlie Jenkins,179455,98%,kris.patel@examplecorp.com,2021-09-07
+668,Kris Patel,employee,Coordinator,Finance,Charlie Murphy,177121,100%,kris.patel@examplecorp.com,2019-03-02
+669,Robin Cooper,employee,Analyst,Customer Success,Dana Price,96056,92%,robin.cooper@examplecorp.com,2015-06-12
+670,Quinn Watson,employee,Technician,Marketing,Morgan Rivera,114549,91%,quinn.watson@examplecorp.com,2015-04-07
+671,Morgan Cooper,employee,Support Specialist,Operations,Jordan Singh,90589,87%,morgan.cooper@examplecorp.com,2024-10-24
+672,Jamie Jenkins,employee,Analyst,Operations,Reese Clark,152729,88%,jamie.jenkins@examplecorp.com,2023-05-18
+673,Dana Patel,employee,Support Specialist,Customer Success,Dana Lewis,66354,98%,dana.patel@examplecorp.com,2024-11-07
+674,Kris Murphy,employee,Coordinator,Marketing,Jamie Murphy,143712,86%,kris.murphy@examplecorp.com,2022-01-17
+675,Quinn Rivera,employee,Support Specialist,HR,Avery Murphy,149254,88%,quinn.rivera@examplecorp.com,2024-05-16
+676,Reese Jenkins,employee,Engineer,Engineering,Avery Murphy,82859,97%,reese.jenkins@examplecorp.com,2016-12-17
+677,Quinn Patel,employee,Coordinator,Finance,Cameron Walker,138091,97%,quinn.patel@examplecorp.com,2025-02-07
+678,Taylor Walker,employee,Coordinator,HR,Riley Singh,102024,97%,taylor.walker@examplecorp.com,2025-05-25
+679,Cameron Cooper,employee,Coordinator,Finance,Kris Reed,176800,96%,cameron.cooper@examplecorp.com,2016-12-11
+680,Sam Reed,employee,Support Specialist,Customer Success,Quinn Reed,100468,87%,sam.reed@examplecorp.com,2023-11-05
+681,Charlie Nguyen,manager,Product Manager,IT,Executive Board,120818,88%,charlie.nguyen@examplecorp.com,2018-12-28
+682,Reese Bennett,employee,Support Specialist,Engineering,Skyler Bell,67761,93%,reese.bennett@examplecorp.com,2024-08-02
+683,Jordan Patel,admin,IT Administrator,Operations,Executive Board,173991,95%,jordan.patel@examplecorp.com,2019-10-19
+684,Quinn Kim,employee,Coordinator,HR,Dana Lewis,164661,89%,quinn.kim@examplecorp.com,2017-06-25
+685,Reese Murphy,employee,Technician,Marketing,Taylor Patel,114003,89%,reese.murphy@examplecorp.com,2023-12-03
+686,Robin Kim,employee,Coordinator,Customer Success,Jesse Cooper,173139,97%,robin.kim@examplecorp.com,2025-06-18
+687,Andy Kim,employee,Technician,Sales,Taylor Brooks,103891,98%,andy.kim@examplecorp.com,2024-06-09
+688,Quinn Walker,employee,Engineer,Sales,Jamie Murphy,103742,98%,quinn.walker@examplecorp.com,2016-02-25
+689,Kris Cooper,employee,Analyst,Finance,Kris Reed,144739,100%,kris.cooper@examplecorp.com,2016-10-14
+690,Robin Lopez,employee,Support Specialist,Marketing,Quinn Rivera,94665,90%,robin.lopez@examplecorp.com,2020-05-02
+691,Charlie Kim,employee,Coordinator,Engineering,Kris Reed,178859,96%,charlie.kim@examplecorp.com,2025-07-26
+692,Cameron Nguyen,employee,Technician,Customer Success,Charlie Lewis,122386,89%,cameron.nguyen@examplecorp.com,2025-04-02
+693,Alex Patel,employee,Engineer,Customer Success,Charlie Patel,145903,88%,alex.patel@examplecorp.com,2022-09-05
+694,Jesse Reed,employee,Coordinator,IT,Skyler Price,154350,96%,jesse.reed@examplecorp.com,2015-02-03
+695,Dana Bennett,employee,Engineer,Sales,Charlie Patel,68673,98%,dana.bennett@examplecorp.com,2015-03-18
+696,Avery Reed,employee,Analyst,Marketing,Alex Murphy,74745,89%,avery.reed@examplecorp.com,2019-04-26
+697,Avery Bell,employee,Engineer,Customer Success,Riley Young,73919,99%,avery.bell@examplecorp.com,2018-09-13
+698,Cameron Cooper,employee,Technician,IT,Quinn Lewis,122095,94%,cameron.cooper@examplecorp.com,2023-06-10
+699,Casey Young,employee,Coordinator,Engineering,Charlie Nguyen,155490,95%,casey.young@examplecorp.com,2023-08-09
+700,Alex Cooper,employee,Engineer,Customer Success,Riley Murphy,172332,87%,alex.cooper@examplecorp.com,2016-04-28
+701,Reese Bell,employee,Technician,Sales,Jesse Cooper,147214,91%,reese.bell@examplecorp.com,2017-08-16
+702,Jamie Jenkins,employee,Support Specialist,Operations,Kris Price,170061,97%,jamie.jenkins@examplecorp.com,2020-06-24
+703,Sam Brooks,employee,Technician,HR,Quinn Reed,136586,95%,sam.brooks@examplecorp.com,2024-02-05
+704,Andy Jenkins,employee,Analyst,Customer Success,Morgan Walker,110529,99%,andy.jenkins@examplecorp.com,2024-09-19
+705,Charlie Reed,employee,Support Specialist,Sales,Morgan Watson,73396,95%,charlie.reed@examplecorp.com,2022-11-21
+706,Morgan Kim,employee,Engineer,HR,Quinn Lewis,51948,93%,morgan.kim@examplecorp.com,2015-08-28
+707,Morgan Reed,employee,Support Specialist,HR,Dana Murphy,171431,88%,morgan.reed@examplecorp.com,2015-09-24
+708,Quinn Nguyen,employee,Technician,Engineering,Quinn Lewis,52252,89%,quinn.nguyen@examplecorp.com,2023-10-14
+709,Alex Lewis,employee,Technician,Engineering,Charlie Jenkins,150361,93%,alex.lewis@examplecorp.com,2018-12-05
+710,Robin Bennett,employee,Support Specialist,IT,Cameron Bennett,82206,96%,robin.bennett@examplecorp.com,2024-02-02
+711,Jesse Cooper,employee,Technician,Marketing,Charlie Patel,97712,89%,jesse.cooper@examplecorp.com,2022-10-27
+712,Reese Young,employee,Coordinator,Sales,Taylor Brooks,171195,97%,reese.young@examplecorp.com,2025-11-27
+713,Dana Murphy,employee,Engineer,Sales,Casey Watson,90179,86%,dana.murphy@examplecorp.com,2016-11-17
+714,Casey Rivera,employee,Technician,Operations,Taylor Brooks,133246,90%,casey.rivera@examplecorp.com,2017-02-27
+715,Avery Bell,employee,Technician,Engineering,Jamie Bennett,175143,88%,avery.bell@examplecorp.com,2022-08-16
+716,Jamie Lopez,employee,Coordinator,Finance,Drew Walker,133864,97%,jamie.lopez@examplecorp.com,2022-03-07
+717,Sam Lopez,employee,Engineer,Marketing,Morgan Walker,75862,92%,sam.lopez@examplecorp.com,2023-04-13
+718,Charlie Walker,employee,Support Specialist,HR,Avery Murphy,105467,91%,charlie.walker@examplecorp.com,2019-04-11
+719,Avery Price,employee,Coordinator,Customer Success,Alex Murphy,130057,87%,avery.price@examplecorp.com,2025-08-25
+720,Taylor Nguyen,employee,Coordinator,HR,Reese Clark,116347,91%,taylor.nguyen@examplecorp.com,2020-06-28
+721,Riley Singh,employee,Coordinator,Sales,Drew Walker,148765,95%,riley.singh@examplecorp.com,2021-10-18
+722,Skyler Rivera,employee,Support Specialist,Engineering,Alex Murphy,95000,100%,skyler.rivera@examplecorp.com,2019-02-26
+723,Charlie Price,employee,Engineer,Customer Success,Alex Kim,101291,98%,charlie.price@examplecorp.com,2016-03-27
+724,Casey Kim,employee,Engineer,HR,Casey Watson,102522,87%,casey.kim@examplecorp.com,2024-03-22
+725,Skyler Kim,manager,Operations Manager,Sales,Executive Board,190901,95%,skyler.kim@examplecorp.com,2024-12-12
+726,Kris Young,employee,Technician,Customer Success,Morgan Walker,178261,93%,kris.young@examplecorp.com,2017-11-28
+727,Kris Brooks,employee,Technician,Marketing,Kris Reed,101403,92%,kris.brooks@examplecorp.com,2022-02-22
+728,Andy Price,employee,Analyst,Sales,Taylor Nguyen,82203,93%,andy.price@examplecorp.com,2015-02-26
+729,Robin Kim,employee,Engineer,Operations,Charlie Jenkins,71387,96%,robin.kim@examplecorp.com,2019-04-15
+730,Quinn Murphy,employee,Engineer,HR,Charlie Nguyen,164620,98%,quinn.murphy@examplecorp.com,2023-08-24
+731,Jordan Bennett,employee,Engineer,Finance,Casey Watson,176810,92%,jordan.bennett@examplecorp.com,2023-07-10
+732,Cameron Singh,employee,Analyst,HR,Alex Kim,77917,89%,cameron.singh@examplecorp.com,2024-10-08
+733,Alex Bell,employee,Engineer,Operations,Jamie Murphy,87470,87%,alex.bell@examplecorp.com,2020-01-01
+734,Taylor Nguyen,employee,Technician,IT,Jamie Reed,108030,85%,taylor.nguyen@examplecorp.com,2023-05-08
+735,Robin Price,employee,Technician,Engineering,Taylor Brooks,176924,99%,robin.price@examplecorp.com,2015-09-21
+736,Taylor Bell,employee,Analyst,IT,Charlie Nguyen,145172,92%,taylor.bell@examplecorp.com,2025-04-13
+737,Avery Cooper,employee,Engineer,Sales,Taylor Bell,161096,99%,avery.cooper@examplecorp.com,2016-12-10
+738,Quinn Walker,employee,Support Specialist,Finance,Riley Reed,179755,95%,quinn.walker@examplecorp.com,2022-05-18
+739,Jesse Cooper,employee,Support Specialist,Finance,Dana Lewis,56372,89%,jesse.cooper@examplecorp.com,2022-12-06
+740,Andy Walker,employee,Coordinator,Sales,Andy Reed,165081,89%,andy.walker@examplecorp.com,2023-10-25
+741,Taylor Brooks,employee,Technician,Marketing,Jamie Reed,133013,89%,taylor.brooks@examplecorp.com,2016-01-18
+742,Sam Bell,employee,Support Specialist,Finance,Robin Patel,51187,99%,sam.bell@examplecorp.com,2016-09-12
+743,Sam Rivera,employee,Support Specialist,Marketing,Jamie Reed,52181,93%,sam.rivera@examplecorp.com,2018-06-26
+744,Cameron Lewis,employee,Coordinator,Customer Success,Alex Murphy,68598,98%,cameron.lewis@examplecorp.com,2024-02-10
+745,Riley Cooper,employee,Engineer,Finance,Robin Bennett,84715,92%,riley.cooper@examplecorp.com,2023-07-24
+746,Casey Bell,employee,Engineer,Engineering,Taylor Nguyen,78200,97%,casey.bell@examplecorp.com,2017-12-14
+747,Morgan Patel,employee,Support Specialist,Customer Success,Quinn Lewis,62178,88%,morgan.patel@examplecorp.com,2018-03-06
+748,Reese Lopez,employee,Support Specialist,Customer Success,Riley Singh,74056,96%,reese.lopez@examplecorp.com,2022-09-28
+749,Jamie Lewis,manager,Finance Manager,Sales,Executive Board,179761,90%,jamie.lewis@examplecorp.com,2020-04-06
+750,Riley Watson,employee,Coordinator,Finance,Taylor Bell,128558,98%,riley.watson@examplecorp.com,2020-12-23
+751,Andy Watson,manager,Sales Manager,Marketing,Executive Board,111613,92%,andy.watson@examplecorp.com,2021-01-07
+752,Morgan Lopez,admin,Security Admin,IT,Executive Board,107278,94%,morgan.lopez@examplecorp.com,2019-12-06
+753,Andy Kim,employee,Coordinator,Sales,Reese Cooper,134471,97%,andy.kim@examplecorp.com,2023-12-01
+754,Dana Price,employee,Analyst,HR,Morgan Rivera,109818,97%,dana.price@examplecorp.com,2018-03-20
+755,Cameron Bell,employee,Technician,HR,Quinn Reed,109278,85%,cameron.bell@examplecorp.com,2023-06-19
+756,Skyler Singh,employee,Technician,Operations,Sam Rivera,80007,98%,skyler.singh@examplecorp.com,2022-04-16
+757,Andy Murphy,employee,Support Specialist,Engineering,Jamie Murphy,171119,89%,andy.murphy@examplecorp.com,2015-08-05
+758,Cameron Cooper,employee,Analyst,Operations,Charlie Murphy,97504,98%,cameron.cooper@examplecorp.com,2019-10-08
+759,Reese Reed,employee,Coordinator,HR,Morgan Rivera,157824,99%,reese.reed@examplecorp.com,2017-12-21
+760,Morgan Price,employee,Coordinator,Sales,Kris Price,128677,94%,morgan.price@examplecorp.com,2019-09-21
+761,Skyler Murphy,employee,Analyst,Sales,Andy Watson,89623,99%,skyler.murphy@examplecorp.com,2019-08-27
+762,Jordan Reed,employee,Analyst,Marketing,Charlie Jenkins,130532,87%,jordan.reed@examplecorp.com,2023-01-12
+763,Kris Murphy,employee,Technician,Customer Success,Dana Murphy,123890,91%,kris.murphy@examplecorp.com,2025-11-03
+764,Skyler Rivera,manager,Product Manager,Operations,Executive Board,105322,85%,skyler.rivera@examplecorp.com,2025-06-17
+765,Charlie Rivera,employee,Engineer,Finance,Casey Singh,81158,99%,charlie.rivera@examplecorp.com,2022-12-27
+766,Dana Jenkins,employee,Coordinator,Operations,Casey Singh,93526,92%,dana.jenkins@examplecorp.com,2021-05-04
+767,Sam Cooper,employee,Technician,Customer Success,Morgan Watson,139165,99%,sam.cooper@examplecorp.com,2016-02-02
+768,Jamie Patel,employee,Engineer,HR,Quinn Rivera,160880,85%,jamie.patel@examplecorp.com,2023-10-04
+769,Dana Price,employee,Support Specialist,Customer Success,Taylor Nguyen,85406,96%,dana.price@examplecorp.com,2021-05-26
+770,Alex Walker,employee,Technician,Sales,Avery Murphy,136734,98%,alex.walker@examplecorp.com,2015-06-19
+771,Riley Lewis,employee,Technician,Operations,Morgan Walker,155051,96%,riley.lewis@examplecorp.com,2018-08-06
+772,Andy Clark,employee,Engineer,Finance,Taylor Bennett,77423,86%,andy.clark@examplecorp.com,2016-05-24
+773,Jesse Lewis,employee,Technician,Marketing,Robin Lewis,111421,90%,jesse.lewis@examplecorp.com,2017-03-13
+774,Sam Walker,employee,Analyst,Finance,Robin Bennett,149809,89%,sam.walker@examplecorp.com,2015-02-10
+775,Drew Jenkins,employee,Coordinator,Sales,Dana Murphy,81244,86%,drew.jenkins@examplecorp.com,2025-10-26
+776,Dana Lopez,employee,Engineer,Finance,Reese Cooper,156095,99%,dana.lopez@examplecorp.com,2016-05-26
+777,Skyler Reed,employee,Analyst,Sales,Morgan Watson,99220,100%,skyler.reed@examplecorp.com,2023-09-20
+778,Sam Murphy,employee,Technician,Finance,Taylor Patel,102144,87%,sam.murphy@examplecorp.com,2019-01-17
+779,Kris Bell,employee,Technician,Engineering,Charlie Murphy,145560,99%,kris.bell@examplecorp.com,2017-05-14
+780,Reese Patel,employee,Coordinator,Finance,Andy Reed,145708,89%,reese.patel@examplecorp.com,2017-02-14
+781,Charlie Walker,employee,Analyst,Sales,Cameron Bennett,164031,88%,charlie.walker@examplecorp.com,2023-07-27
+782,Dana Murphy,employee,Engineer,Operations,Casey Watson,70865,92%,dana.murphy@examplecorp.com,2022-04-25
+783,Morgan Reed,employee,Coordinator,Operations,Skyler Price,128298,97%,morgan.reed@examplecorp.com,2015-01-22
+784,Skyler Singh,employee,Support Specialist,Sales,Riley Murphy,90331,100%,skyler.singh@examplecorp.com,2020-07-17
+785,Kris Reed,employee,Technician,Customer Success,Charlie Jenkins,153213,86%,kris.reed@examplecorp.com,2024-08-12
+786,Skyler Murphy,employee,Technician,HR,Quinn Lewis,91007,88%,skyler.murphy@examplecorp.com,2019-11-07
+787,Jordan Bennett,employee,Support Specialist,Finance,Riley Reed,166224,96%,jordan.bennett@examplecorp.com,2025-03-17
+788,Kris Walker,employee,Analyst,Sales,Morgan Rivera,179850,96%,kris.walker@examplecorp.com,2019-03-19
+789,Sam Rivera,employee,Engineer,Finance,Reese Clark,65052,98%,sam.rivera@examplecorp.com,2025-09-17
+790,Morgan Rivera,manager,Finance Manager,Customer Success,Executive Board,143588,97%,morgan.rivera@examplecorp.com,2018-02-28
+791,Jamie Lewis,employee,Analyst,IT,Reese Cooper,103695,98%,jamie.lewis@examplecorp.com,2016-05-09
+792,Jordan Bell,employee,Engineer,Customer Success,Skyler Bell,72234,85%,jordan.bell@examplecorp.com,2022-10-04
+793,Cameron Watson,employee,Support Specialist,Engineering,Robin Bennett,124635,85%,cameron.watson@examplecorp.com,2024-12-14
+794,Robin Watson,employee,Engineer,Engineering,Taylor Patel,53220,90%,robin.watson@examplecorp.com,2022-02-03
+795,Reese Lewis,employee,Engineer,Sales,Taylor Nguyen,145048,96%,reese.lewis@examplecorp.com,2020-03-27
+796,Jesse Bennett,employee,Technician,Customer Success,Dana Murphy,140145,93%,jesse.bennett@examplecorp.com,2016-10-15
+797,Reese Kim,employee,Coordinator,HR,Drew Singh,88769,97%,reese.kim@examplecorp.com,2025-10-15
+798,Cameron Rivera,employee,Coordinator,Finance,Skyler Price,62027,92%,cameron.rivera@examplecorp.com,2015-06-13
+799,Jamie Lopez,employee,Analyst,Marketing,Riley Reed,78175,94%,jamie.lopez@examplecorp.com,2023-11-13
+800,Avery Reed,employee,Analyst,Finance,Charlie Lewis,95128,97%,avery.reed@examplecorp.com,2021-11-15
+801,Charlie Brooks,employee,Analyst,Customer Success,Dana Lewis,158221,86%,charlie.brooks@examplecorp.com,2022-02-13
+802,Drew Murphy,employee,Analyst,IT,Skyler Price,149903,86%,drew.murphy@examplecorp.com,2022-11-19
+803,Charlie Lewis,employee,Engineer,Customer Success,Alex Murphy,88206,100%,charlie.lewis@examplecorp.com,2021-09-03
+804,Kris Bennett,admin,Security Admin,Sales,Executive Board,100990,99%,kris.bennett@examplecorp.com,2019-02-15
+805,Sam Lewis,employee,Engineer,Marketing,Jamie Murphy,149741,96%,sam.lewis@examplecorp.com,2021-02-23
+806,Jamie Cooper,employee,Technician,Operations,Riley Murphy,101953,89%,jamie.cooper@examplecorp.com,2015-03-18
+807,Kris Price,employee,Analyst,Finance,Morgan Rivera,104410,95%,kris.price@examplecorp.com,2022-10-07
+808,Jamie Walker,employee,Coordinator,Finance,Robin Lewis,139884,100%,jamie.walker@examplecorp.com,2023-01-24
+809,Cameron Price,employee,Analyst,Marketing,Morgan Rivera,147444,91%,cameron.price@examplecorp.com,2023-09-06
+810,Andy Bennett,employee,Analyst,Customer Success,Cameron Kim,129517,90%,andy.bennett@examplecorp.com,2020-11-28
+811,Reese Kim,employee,Support Specialist,Finance,Skyler Rivera,159195,100%,reese.kim@examplecorp.com,2019-09-01
+812,Drew Jenkins,employee,Analyst,Engineering,Jordan Singh,119110,87%,drew.jenkins@examplecorp.com,2020-03-16
+813,Sam Price,employee,Support Specialist,Customer Success,Quinn Reed,92104,85%,sam.price@examplecorp.com,2019-12-27
+814,Robin Walker,employee,Technician,Customer Success,Taylor Brooks,100323,93%,robin.walker@examplecorp.com,2019-12-05
+815,Dana Lewis,employee,Technician,Marketing,Reese Cooper,115243,94%,dana.lewis@examplecorp.com,2016-12-05
+816,Alex Cooper,employee,Engineer,Marketing,Skyler Price,95809,85%,alex.cooper@examplecorp.com,2021-06-17
+817,Jordan Patel,manager,Finance Manager,Engineering,Executive Board,136500,100%,jordan.patel@examplecorp.com,2017-05-08
+818,Dana Clark,employee,Technician,Sales,Riley Murphy,179882,100%,dana.clark@examplecorp.com,2020-04-01
+819,Andy Patel,employee,Analyst,Engineering,Alex Murphy,101781,86%,andy.patel@examplecorp.com,2016-09-27
+820,Jamie Bennett,employee,Analyst,Marketing,Drew Singh,142943,95%,jamie.bennett@examplecorp.com,2018-03-18
+821,Morgan Kim,manager,Product Manager,Marketing,Executive Board,134044,96%,morgan.kim@examplecorp.com,2019-05-13
+822,Cameron Bennett,employee,Engineer,IT,Drew Walker,115950,88%,cameron.bennett@examplecorp.com,2017-06-28
+823,Robin Lopez,employee,Technician,Engineering,Kris Reed,105491,88%,robin.lopez@examplecorp.com,2024-02-23
+824,Jamie Nguyen,employee,Engineer,Marketing,Charlie Lewis,67011,96%,jamie.nguyen@examplecorp.com,2015-04-28
+825,Skyler Price,employee,Engineer,Sales,Charlie Jenkins,119745,100%,skyler.price@examplecorp.com,2016-01-08
+826,Dana Reed,employee,Engineer,IT,Jamie Bennett,90361,100%,dana.reed@examplecorp.com,2017-12-23
+827,Jesse Murphy,employee,Analyst,Sales,Taylor Bennett,133520,93%,jesse.murphy@examplecorp.com,2020-03-12
+828,Andy Murphy,employee,Coordinator,HR,Jamie Lewis,66528,95%,andy.murphy@examplecorp.com,2023-01-11
+829,Jordan Murphy,employee,Support Specialist,Operations,Charlie Murphy,96459,95%,jordan.murphy@examplecorp.com,2021-11-08
+830,Cameron Bell,employee,Coordinator,IT,Charlie Murphy,179244,87%,cameron.bell@examplecorp.com,2015-03-23
+831,Quinn Nguyen,employee,Support Specialist,Operations,Skyler Kim,158706,90%,quinn.nguyen@examplecorp.com,2022-08-03
+832,Riley Lewis,employee,Coordinator,IT,Robin Lewis,150666,87%,riley.lewis@examplecorp.com,2015-07-28
+833,Riley Clark,employee,Analyst,IT,Skyler Bell,165912,95%,riley.clark@examplecorp.com,2017-10-18
+834,Riley Bell,manager,Finance Manager,HR,Executive Board,194509,98%,riley.bell@examplecorp.com,2023-05-26
+835,Casey Kim,employee,Technician,Engineering,Skyler Rivera,115599,96%,casey.kim@examplecorp.com,2022-03-09
+836,Taylor Cooper,employee,Support Specialist,Engineering,Cameron Walker,94422,99%,taylor.cooper@examplecorp.com,2016-06-14
+837,Morgan Patel,employee,Engineer,Sales,Taylor Brooks,94618,90%,morgan.patel@examplecorp.com,2019-12-19
+838,Robin Singh,employee,Engineer,Sales,Jamie Bennett,76956,87%,robin.singh@examplecorp.com,2017-07-16
+839,Dana Brooks,employee,Engineer,Customer Success,Taylor Nguyen,170509,98%,dana.brooks@examplecorp.com,2015-11-06
+840,Reese Young,employee,Coordinator,IT,Morgan Rivera,119192,94%,reese.young@examplecorp.com,2022-08-17
+841,Avery Bell,admin,Security Admin,Customer Success,Executive Board,98795,94%,avery.bell@examplecorp.com,2023-08-12
+842,Cameron Young,employee,Engineer,Marketing,Morgan Rivera,154383,87%,cameron.young@examplecorp.com,2017-11-18
+843,Dana Rivera,manager,HR Manager,Customer Success,Executive Board,168353,98%,dana.rivera@examplecorp.com,2021-11-23
+844,Avery Brooks,employee,Analyst,HR,Riley Reed,74162,98%,avery.brooks@examplecorp.com,2019-10-12
+845,Alex Watson,employee,Support Specialist,Operations,Charlie Patel,123553,98%,alex.watson@examplecorp.com,2016-07-01
+846,Cameron Bell,employee,Technician,Customer Success,Kris Price,52088,100%,cameron.bell@examplecorp.com,2018-02-15
+847,Drew Singh,employee,Technician,Marketing,Taylor Nguyen,169127,100%,drew.singh@examplecorp.com,2025-07-09
+848,Charlie Murphy,employee,Technician,Operations,Drew Singh,69192,90%,charlie.murphy@examplecorp.com,2017-11-01
+849,Avery Nguyen,employee,Technician,Marketing,Taylor Young,55847,95%,avery.nguyen@examplecorp.com,2017-11-19
+850,Jamie Murphy,employee,Coordinator,Customer Success,Cameron Bennett,131996,91%,jamie.murphy@examplecorp.com,2018-02-26
+851,Reese Murphy,employee,Technician,HR,Cameron Bennett,178511,85%,reese.murphy@examplecorp.com,2020-12-26
+852,Sam Murphy,employee,Technician,Operations,Robin Lewis,111610,85%,sam.murphy@examplecorp.com,2019-03-22
+853,Quinn Kim,employee,Coordinator,Customer Success,Casey Watson,142159,94%,quinn.kim@examplecorp.com,2023-12-02
+854,Drew Clark,manager,Product Manager,Customer Success,Executive Board,208113,95%,drew.clark@examplecorp.com,2024-09-16
+855,Taylor Bell,manager,HR Manager,Sales,Executive Board,145276,92%,taylor.bell@examplecorp.com,2025-06-18
+856,Andy Price,manager,Finance Manager,Operations,Executive Board,104566,91%,andy.price@examplecorp.com,2020-09-27
+857,Cameron Walker,employee,Support Specialist,Customer Success,Jordan Singh,140359,98%,cameron.walker@examplecorp.com,2024-08-16
+858,Kris Murphy,employee,Engineer,IT,Taylor Bennett,175077,98%,kris.murphy@examplecorp.com,2023-07-10
+859,Andy Patel,employee,Coordinator,Sales,Quinn Lewis,52662,100%,andy.patel@examplecorp.com,2020-01-22
+860,Kris Patel,manager,HR Manager,Marketing,Executive Board,173778,93%,kris.patel@examplecorp.com,2017-07-18
+861,Jordan Clark,employee,Engineer,Marketing,Alex Murphy,105527,99%,jordan.clark@examplecorp.com,2016-03-07
+862,Morgan Watson,employee,Engineer,Sales,Charlie Nguyen,131277,97%,morgan.watson@examplecorp.com,2025-04-16
+863,Jamie Lewis,employee,Analyst,HR,Riley Reed,171774,87%,jamie.lewis@examplecorp.com,2015-03-07
+864,Jordan Walker,manager,Finance Manager,IT,Executive Board,202792,97%,jordan.walker@examplecorp.com,2015-08-15
+865,Kris Brooks,employee,Engineer,HR,Drew Nguyen,178822,85%,kris.brooks@examplecorp.com,2021-09-27
+866,Taylor Patel,employee,Technician,Engineering,Taylor Young,90754,96%,taylor.patel@examplecorp.com,2022-05-10
+867,Andy Jenkins,employee,Coordinator,HR,Jordan Patel,67461,86%,andy.jenkins@examplecorp.com,2019-08-11
+868,Quinn Cooper,employee,Coordinator,HR,Dana Rivera,57564,95%,quinn.cooper@examplecorp.com,2021-08-01
+869,Casey Lopez,employee,Coordinator,Sales,Cameron Walker,134954,92%,casey.lopez@examplecorp.com,2021-06-09
+870,Avery Bennett,manager,Product Manager,Customer Success,Executive Board,181734,85%,avery.bennett@examplecorp.com,2018-02-08
+871,Quinn Bell,employee,Technician,Operations,Riley Murphy,162383,93%,quinn.bell@examplecorp.com,2023-04-24
+872,Charlie Walker,employee,Analyst,Finance,Jordan Walker,106413,89%,charlie.walker@examplecorp.com,2016-05-20
+873,Quinn Reed,employee,Engineer,Engineering,Andy Watson,157792,97%,quinn.reed@examplecorp.com,2015-01-11
+874,Andy Murphy,employee,Technician,Engineering,Drew Singh,55125,100%,andy.murphy@examplecorp.com,2025-05-24
+875,Alex Patel,employee,Analyst,Sales,Jordan Patel,102031,99%,alex.patel@examplecorp.com,2015-11-21
+876,Riley Lopez,employee,Coordinator,Finance,Riley Murphy,80237,85%,riley.lopez@examplecorp.com,2022-03-12
+877,Reese Murphy,employee,Engineer,Marketing,Taylor Bell,147570,85%,reese.murphy@examplecorp.com,2015-12-07
+878,Jamie Walker,employee,Technician,HR,Drew Walker,127245,88%,jamie.walker@examplecorp.com,2025-05-04
+879,Alex Lewis,employee,Analyst,Customer Success,Drew Nguyen,112615,96%,alex.lewis@examplecorp.com,2017-04-13
+880,Charlie Price,employee,Technician,Engineering,Robin Bennett,64385,91%,charlie.price@examplecorp.com,2019-04-17
+881,Jesse Watson,manager,Operations Manager,HR,Executive Board,176019,87%,jesse.watson@examplecorp.com,2016-11-02
+882,Reese Bennett,employee,Technician,Engineering,Morgan Watson,127386,90%,reese.bennett@examplecorp.com,2015-01-05
+883,Casey Cooper,employee,Coordinator,Operations,Dana Murphy,143515,95%,casey.cooper@examplecorp.com,2021-08-11
+884,Morgan Singh,employee,Engineer,IT,Jesse Watson,149990,91%,morgan.singh@examplecorp.com,2015-01-07
+885,Drew Clark,employee,Coordinator,Marketing,Skyler Rivera,173221,93%,drew.clark@examplecorp.com,2021-02-27
+886,Reese Lopez,manager,Finance Manager,HR,Executive Board,112623,92%,reese.lopez@examplecorp.com,2015-08-14
+887,Kris Bell,employee,Engineer,HR,Dana Murphy,130622,92%,kris.bell@examplecorp.com,2016-02-20
+888,Avery Brooks,employee,Analyst,Operations,Kris Reed,179487,96%,avery.brooks@examplecorp.com,2022-10-16
+889,Dana Bell,employee,Coordinator,Customer Success,Sam Rivera,164478,88%,dana.bell@examplecorp.com,2019-06-27
+890,Reese Lewis,employee,Engineer,Finance,Quinn Rivera,77786,92%,reese.lewis@examplecorp.com,2024-12-16
+891,Cameron Nguyen,employee,Engineer,Marketing,Morgan Watson,80744,88%,cameron.nguyen@examplecorp.com,2025-08-05
+892,Quinn Cooper,employee,Engineer,Finance,Reese Cooper,170905,95%,quinn.cooper@examplecorp.com,2016-06-27
+893,Alex Murphy,employee,Support Specialist,IT,Drew Singh,76099,92%,alex.murphy@examplecorp.com,2018-01-08
+894,Alex Watson,manager,Operations Manager,Finance,Executive Board,136295,95%,alex.watson@examplecorp.com,2015-08-24
+895,Jordan Nguyen,employee,Technician,Customer Success,Quinn Reed,101202,94%,jordan.nguyen@examplecorp.com,2020-11-12
+896,Avery Murphy,employee,Technician,Operations,Alex Murphy,154447,93%,avery.murphy@examplecorp.com,2022-10-26
+897,Quinn Young,employee,Technician,Finance,Skyler Bell,172499,97%,quinn.young@examplecorp.com,2022-05-20
+898,Skyler Young,employee,Technician,Sales,Riley Bell,136107,97%,skyler.young@examplecorp.com,2016-09-28
+899,Jamie Lewis,employee,Engineer,Finance,Morgan Rivera,168331,97%,jamie.lewis@examplecorp.com,2015-03-23
+900,Skyler Jenkins,employee,Technician,Finance,Avery Bennett,143926,97%,skyler.jenkins@examplecorp.com,2016-12-01
+901,Taylor Watson,employee,Technician,Marketing,Skyler Rivera,109098,92%,taylor.watson@examplecorp.com,2017-08-28
+902,Dana Cooper,employee,Coordinator,Sales,Jamie Lewis,132151,89%,dana.cooper@examplecorp.com,2018-01-21
+903,Quinn Watson,employee,Engineer,Sales,Skyler Bell,72687,96%,quinn.watson@examplecorp.com,2018-12-15
+904,Skyler Reed,employee,Analyst,Customer Success,Dana Lewis,66175,95%,skyler.reed@examplecorp.com,2017-06-22
+905,Charlie Reed,employee,Coordinator,Customer Success,Cameron Kim,77116,92%,charlie.reed@examplecorp.com,2016-01-19
+906,Kris Watson,employee,Engineer,Sales,Jamie Lewis,70711,100%,kris.watson@examplecorp.com,2023-12-13
+907,Drew Price,employee,Support Specialist,Sales,Morgan Rivera,145898,95%,drew.price@examplecorp.com,2015-08-05
+908,Casey Young,employee,Analyst,Engineering,Cameron Bennett,173075,87%,casey.young@examplecorp.com,2021-01-08
+909,Skyler Murphy,employee,Analyst,HR,Charlie Jenkins,143923,85%,skyler.murphy@examplecorp.com,2022-03-09
+910,Taylor Nguyen,employee,Coordinator,Marketing,Drew Nguyen,121781,93%,taylor.nguyen@examplecorp.com,2016-10-15
+911,Dana Patel,employee,Technician,Sales,Taylor Bell,53951,94%,dana.patel@examplecorp.com,2023-12-15
+912,Robin Patel,employee,Coordinator,Operations,Robin Bennett,125277,86%,robin.patel@examplecorp.com,2015-09-23
+913,Sam Rivera,employee,Support Specialist,IT,Drew Clark,179129,88%,sam.rivera@examplecorp.com,2021-04-01
+914,Jesse Lopez,employee,Technician,Engineering,Taylor Brooks,177112,96%,jesse.lopez@examplecorp.com,2016-08-20
+915,Avery Bell,employee,Coordinator,Sales,Cameron Walker,170108,93%,avery.bell@examplecorp.com,2021-04-17
+916,Charlie Young,employee,Technician,IT,Avery Murphy,67087,89%,charlie.young@examplecorp.com,2019-01-06
+917,Robin Brooks,employee,Technician,Marketing,Dana Lewis,170919,85%,robin.brooks@examplecorp.com,2016-02-11
+918,Kris Patel,employee,Analyst,Customer Success,Kris Patel,160125,97%,kris.patel@examplecorp.com,2021-01-20
+919,Cameron Clark,employee,Technician,IT,Reese Cooper,54306,88%,cameron.clark@examplecorp.com,2023-06-11
+920,Drew Young,employee,Analyst,HR,Dana Rivera,146554,85%,drew.young@examplecorp.com,2024-09-21
+921,Morgan Singh,employee,Engineer,Sales,Taylor Brooks,166442,91%,morgan.singh@examplecorp.com,2024-08-24
+922,Kris Price,employee,Analyst,Customer Success,Cameron Walker,86287,95%,kris.price@examplecorp.com,2018-08-10
+923,Drew Young,manager,HR Manager,Operations,Executive Board,160255,97%,drew.young@examplecorp.com,2020-05-08
+924,Morgan Walker,employee,Support Specialist,IT,Skyler Rivera,133087,85%,morgan.walker@examplecorp.com,2025-11-17
+925,Riley Clark,manager,Product Manager,Engineering,Executive Board,169835,98%,riley.clark@examplecorp.com,2017-12-16
+926,Cameron Lopez,employee,Coordinator,Sales,Taylor Bell,117880,95%,cameron.lopez@examplecorp.com,2019-12-19
+927,Quinn Murphy,employee,Engineer,Operations,Jordan Patel,148576,95%,quinn.murphy@examplecorp.com,2018-07-18
+928,Quinn Nguyen,employee,Coordinator,HR,Reese Cooper,133393,96%,quinn.nguyen@examplecorp.com,2025-07-09
+929,Taylor Murphy,employee,Support Specialist,Customer Success,Jamie Bennett,79517,86%,taylor.murphy@examplecorp.com,2019-04-03
+930,Kris Kim,employee,Coordinator,Finance,Dana Lewis,65754,91%,kris.kim@examplecorp.com,2025-04-24
+931,Skyler Reed,employee,Technician,Customer Success,Alex Murphy,174654,100%,skyler.reed@examplecorp.com,2017-05-17
+932,Jamie Nguyen,employee,Coordinator,HR,Kris Reed,54543,90%,jamie.nguyen@examplecorp.com,2020-02-10
+933,Casey Jenkins,employee,Support Specialist,Marketing,Robin Lewis,103261,88%,casey.jenkins@examplecorp.com,2022-10-28
+934,Avery Patel,employee,Support Specialist,Engineering,Reese Clark,165784,92%,avery.patel@examplecorp.com,2016-01-10
+935,Skyler Bennett,employee,Analyst,Finance,Skyler Bell,59799,85%,skyler.bennett@examplecorp.com,2022-09-09
+936,Sam Rivera,employee,Coordinator,Customer Success,Morgan Kim,152134,91%,sam.rivera@examplecorp.com,2020-02-18
+937,Cameron Reed,employee,Coordinator,Operations,Drew Walker,84688,93%,cameron.reed@examplecorp.com,2022-02-11
+938,Robin Murphy,employee,Technician,Finance,Riley Reed,175071,88%,robin.murphy@examplecorp.com,2021-03-01
+939,Taylor Price,employee,Engineer,IT,Jamie Bennett,61392,95%,taylor.price@examplecorp.com,2017-05-05
+940,Casey Cooper,employee,Support Specialist,Marketing,Drew Singh,158722,85%,casey.cooper@examplecorp.com,2018-01-27
+941,Reese Clark,employee,Coordinator,IT,Dana Murphy,131093,92%,reese.clark@examplecorp.com,2021-07-15
+942,Casey Lopez,manager,HR Manager,Engineering,Executive Board,112106,97%,casey.lopez@examplecorp.com,2025-04-04
+943,Kris Lewis,employee,Coordinator,Engineering,Andy Price,56186,91%,kris.lewis@examplecorp.com,2025-10-17
+944,Sam Brooks,employee,Coordinator,IT,Jesse Cooper,77690,96%,sam.brooks@examplecorp.com,2018-04-19
+945,Andy Reed,employee,Engineer,Operations,Jesse Cooper,105691,92%,andy.reed@examplecorp.com,2018-07-16
+946,Jamie Singh,employee,Engineer,IT,Taylor Brooks,91530,94%,jamie.singh@examplecorp.com,2019-02-01
+947,Taylor Price,employee,Coordinator,Engineering,Jamie Lewis,116703,95%,taylor.price@examplecorp.com,2025-06-06
+948,Skyler Brooks,employee,Engineer,Sales,Alex Murphy,111023,92%,skyler.brooks@examplecorp.com,2022-12-17
+949,Avery Clark,employee,Technician,Engineering,Dana Lewis,119558,94%,avery.clark@examplecorp.com,2017-08-11
+950,Riley Murphy,manager,Finance Manager,Customer Success,Executive Board,120946,96%,riley.murphy@examplecorp.com,2019-07-04
+951,Taylor Watson,employee,Coordinator,Operations,Taylor Brooks,93031,88%,taylor.watson@examplecorp.com,2015-04-24
+952,Drew Murphy,manager,Finance Manager,Customer Success,Executive Board,129850,96%,drew.murphy@examplecorp.com,2016-02-24
+953,Taylor Jenkins,manager,Finance Manager,HR,Executive Board,136742,92%,taylor.jenkins@examplecorp.com,2020-06-12
+954,Reese Bell,employee,Coordinator,Marketing,Cameron Kim,175411,89%,reese.bell@examplecorp.com,2017-12-27
+955,Sam Young,employee,Coordinator,Marketing,Jamie Bennett,74881,88%,sam.young@examplecorp.com,2023-03-07
+956,Taylor Clark,employee,Coordinator,Sales,Reese Cooper,174911,98%,taylor.clark@examplecorp.com,2021-04-20
+957,Casey Lopez,employee,Technician,Sales,Taylor Young,115467,99%,casey.lopez@examplecorp.com,2023-08-04
+958,Quinn Clark,manager,Sales Manager,Operations,Executive Board,198335,94%,quinn.clark@examplecorp.com,2024-11-14
+959,Jamie Lopez,employee,Engineer,Engineering,Andy Reed,52390,100%,jamie.lopez@examplecorp.com,2022-12-05
+960,Jordan Lopez,employee,Coordinator,Engineering,Quinn Lewis,74450,95%,jordan.lopez@examplecorp.com,2023-08-25
+961,Dana Rivera,employee,Technician,Engineering,Drew Singh,99548,86%,dana.rivera@examplecorp.com,2021-02-08
+962,Skyler Singh,employee,Analyst,HR,Charlie Lewis,176161,97%,skyler.singh@examplecorp.com,2022-03-15
+963,Quinn Young,employee,Engineer,Operations,Cameron Walker,110038,87%,quinn.young@examplecorp.com,2021-01-21
+964,Jesse Cooper,employee,Coordinator,Finance,Andy Reed,178245,91%,jesse.cooper@examplecorp.com,2017-05-16
+965,Morgan Cooper,employee,Support Specialist,HR,Reese Clark,111506,88%,morgan.cooper@examplecorp.com,2025-02-01
+966,Sam Murphy,employee,Technician,HR,Robin Lewis,96029,93%,sam.murphy@examplecorp.com,2017-02-12
+967,Skyler Patel,employee,Analyst,Sales,Quinn Clark,109263,90%,skyler.patel@examplecorp.com,2024-11-03
+968,Taylor Singh,employee,Technician,IT,Taylor Nguyen,88912,85%,taylor.singh@examplecorp.com,2023-08-16
+969,Alex Cooper,employee,Coordinator,Engineering,Andy Reed,52783,87%,alex.cooper@examplecorp.com,2021-09-13
+970,Andy Bell,employee,Technician,Engineering,Morgan Rivera,157763,87%,andy.bell@examplecorp.com,2022-04-11
+971,Jordan Clark,employee,Technician,Marketing,Riley Young,120890,89%,jordan.clark@examplecorp.com,2015-08-23
+972,Robin Kim,employee,Engineer,Finance,Dana Murphy,100274,95%,robin.kim@examplecorp.com,2018-07-01
+973,Kris Lewis,employee,Coordinator,Marketing,Robin Patel,66676,93%,kris.lewis@examplecorp.com,2019-01-08
+974,Alex Watson,employee,Support Specialist,Sales,Alex Watson,157815,100%,alex.watson@examplecorp.com,2025-05-09
+975,Casey Price,employee,Technician,Sales,Alex Watson,158021,94%,casey.price@examplecorp.com,2022-10-10
+976,Charlie Murphy,employee,Engineer,Operations,Drew Young,136147,93%,charlie.murphy@examplecorp.com,2025-02-13
+977,Sam Walker,employee,Analyst,Sales,Drew Young,129249,93%,sam.walker@examplecorp.com,2020-10-26
+978,Andy Murphy,manager,Product Manager,Finance,Executive Board,135118,98%,andy.murphy@examplecorp.com,2025-01-19
+979,Morgan Lewis,employee,Analyst,Engineering,Casey Watson,99473,91%,morgan.lewis@examplecorp.com,2022-12-25
+980,Riley Price,employee,Support Specialist,Operations,Reese Clark,155345,90%,riley.price@examplecorp.com,2023-11-09
+981,Riley Watson,employee,Engineer,IT,Avery Murphy,132737,85%,riley.watson@examplecorp.com,2021-01-01
+982,Charlie Kim,employee,Coordinator,Engineering,Jamie Bennett,155644,100%,charlie.kim@examplecorp.com,2018-01-14
+983,Jamie Clark,employee,Technician,Operations,Jordan Singh,73922,96%,jamie.clark@examplecorp.com,2015-11-03
+984,Morgan Bell,employee,Engineer,Marketing,Riley Murphy,134880,100%,morgan.bell@examplecorp.com,2021-05-09
+985,Andy Kim,employee,Coordinator,Marketing,Avery Murphy,64839,100%,andy.kim@examplecorp.com,2025-06-28
+986,Robin Clark,employee,Engineer,Customer Success,Riley Singh,59577,89%,robin.clark@examplecorp.com,2016-06-08
+987,Kris Bell,employee,Technician,Customer Success,Jordan Patel,71128,91%,kris.bell@examplecorp.com,2015-09-17
+988,Morgan Cooper,employee,Coordinator,Finance,Robin Bennett,94429,97%,morgan.cooper@examplecorp.com,2015-09-05
+989,Kris Cooper,employee,Analyst,Marketing,Sam Rivera,169279,94%,kris.cooper@examplecorp.com,2016-04-16
+990,Riley Singh,employee,Support Specialist,Operations,Skyler Rivera,130959,99%,riley.singh@examplecorp.com,2016-04-19
+991,Reese Lopez,employee,Coordinator,Operations,Riley Bell,153327,96%,reese.lopez@examplecorp.com,2018-12-22
+992,Dana Lopez,employee,Support Specialist,Operations,Drew Young,124157,95%,dana.lopez@examplecorp.com,2018-03-08
+993,Morgan Kim,employee,Engineer,Marketing,Taylor Nguyen,148864,93%,morgan.kim@examplecorp.com,2022-11-23
+994,Sam Murphy,manager,Product Manager,IT,Executive Board,127182,95%,sam.murphy@examplecorp.com,2019-06-24
+995,Dana Murphy,employee,Analyst,Finance,Jesse Cooper,121540,99%,dana.murphy@examplecorp.com,2025-07-18
+996,Jordan Lopez,employee,Support Specialist,Finance,Alex Watson,121580,95%,jordan.lopez@examplecorp.com,2021-01-21
+997,Alex Patel,employee,Support Specialist,Operations,Alex Murphy,108729,93%,alex.patel@examplecorp.com,2016-08-19
+998,Quinn Cooper,employee,Engineer,Operations,Taylor Jenkins,77803,99%,quinn.cooper@examplecorp.com,2017-07-22
+999,Charlie Murphy,employee,Analyst,Finance,Reese Cooper,86030,90%,charlie.murphy@examplecorp.com,2015-07-07
+1000,Taylor Jenkins,employee,Analyst,Engineering,Casey Lopez,171346,90%,taylor.jenkins@examplecorp.com,2024-07-28
