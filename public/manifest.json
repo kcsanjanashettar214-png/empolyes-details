@@ -1,0 +1,9 @@
+{
+  "short_name": "Secure Dashboard",
+  "name": "Secure Enterprise Dashboard",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#667eea",
+  "background_color": "#ffffff"
+}

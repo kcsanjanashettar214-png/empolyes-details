@@ -1,0 +1,111 @@
+/* Security Panel Component */
+.security-panel {
+  background: white;
+}
+
+.overall-status {
+  text-align: center;
+  padding: 1rem;
+  border-radius: 5px;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  font-size: 1.1rem;
+}
+
+.overall-status.passed {
+  background: #e8f5e9;
+  color: #2e7d32;
+  border: 1px solid #4caf50;
+}
+
+.overall-status.blocked {
+  background: #ffebee;
+  color: #c62828;
+  border: 1px solid #f44336;
+}
+
+.layers-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.layer-item {
+  border: 1px solid #eee;
+  border-radius: 5px;
+  padding: 0.75rem;
+  transition: all 0.3s;
+}
+
+.layer-item.passed {
+  border-color: #4caf50;
+  background: #f1f8f4;
+}
+
+.layer-item.blocked {
+  border-color: #f44336;
+  background: #fff3f1;
+}
+
+.layer-item.blocked-at {
+  border-width: 2px;
+  background: #ffebee;
+}
+
+.layer-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.layer-icon {
+  font-size: 1.2rem;
+}
+
+.layer-name {
+  flex: 1;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #333;
+}
+
+.layer-status {
+  font-weight: bold;
+  font-size: 1.1rem;
+}
+
+.layer-item.passed .layer-status {
+  color: #4caf50;
+}
+
+.layer-item.blocked .layer-status {
+  color: #f44336;
+}
+
+.layer-details {
+  padding-left: 1.7rem;
+  font-size: 0.85rem;
+}
+
+.layer-message {
+  color: #666;
+  margin: 0.25rem 0;
+}
+
+.layer-info {
+  color: #999;
+  margin: 0.25rem 0;
+  font-style: italic;
+}
+
+.threat-warning {
+  background: #fff3cd;
+  color: #856404;
+  padding: 1rem;
+  border-radius: 5px;
+  border-left: 4px solid #ffc107;
+  margin-top: 1rem;
+  text-align: center;
+  font-weight: bold;
+}

@@ -1,0 +1,120 @@
+/* Dashboard Styles */
+.dashboard {
+  min-height: 100vh;
+  padding: 2rem;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.dashboard-header {
+  color: white;
+  margin-bottom: 2rem;
+  text-align: center;
+  position: relative;
+}
+
+.dashboard-header h1 {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.dashboard-header p {
+  font-size: 1.1rem;
+  opacity: 0.9;
+}
+
+.security-btn {
+  position: absolute;
+  right: 0;
+  top: 0;
+  background: rgba(255, 255, 255, 0.2);
+  color: white;
+  border: 1px solid white;
+  padding: 0.75rem 1.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.security-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.dashboard-content {
+  display: grid;
+  grid-template-columns: 1fr 350px;
+  gap: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+  .dashboard-content {
+    grid-template-columns: 1fr;
+  }
+}
+
+.main-panel {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.response-card {
+  background: white;
+  border-left: 4px solid #667eea;
+}
+
+.response-content {
+  padding: 1rem;
+}
+
+.response-text {
+  white-space: pre-wrap;
+  color: #333;
+  line-height: 1.6;
+}
+
+.query-suggestions {
+  color: #333;
+}
+
+.query-suggestions p {
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.query-suggestions ul {
+  list-style: none;
+  color: #666;
+}
+
+.query-suggestions li {
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.query-suggestions li:last-child {
+  border-bottom: none;
+}
+
+.view-btn {
+  width: 100%;
+  margin-top: 1rem;
+  padding: 0.75rem;
+  background: #667eea;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.view-btn:hover {
+  background: #764ba2;
+}

@@ -1,0 +1,3521 @@
+timestamp
+yyy-mm-dd hh-mm-ss
+
+
+src_ip
+
+dst_ip
+
+src_port
+
+dst_port
+
+protocol
+
+bytes_sent
+
+bytes_received
+
+user_agent
+
+url
+DateTime	Count
+10/01/2025 - 10/10/2025	952
+10/10/2025 - 10/19/2025	1,005
+10/19/2025 - 10/27/2025	954
+10/27/2025 - 11/05/2025	1,001
+11/05/2025 - 11/14/2025	1,021
+11/14/2025 - 11/23/2025	1,007
+11/23/2025 - 12/02/2025	1,046
+12/02/2025 - 12/11/2025	1,055
+12/11/2025 - 12/20/2025	1,010
+12/20/2025 - 12/29/2025	949
+DateTime	Count
+10/01/2025 - 10/10/2025	952
+10/10/2025 - 10/19/2025	1,005
+10/19/2025 - 10/27/2025	954
+10/27/2025 - 11/05/2025	1,001
+11/05/2025 - 11/14/2025	1,021
+11/14/2025 - 11/23/2025	1,007
+11/23/2025 - 12/02/2025	1,046
+12/02/2025 - 12/11/2025	1,055
+12/11/2025 - 12/20/2025	1,010
+12/20/2025 - 12/29/2025	949
+2025-10-01
+2025-12-30
+10000
+
+unique values
+10000
+
+unique values
+Label	Count
+21.00 - 6571.30	2,558
+6571.30 - 13121.60	856
+13121.60 - 19671.90	865
+19671.90 - 26222.20	829
+26222.20 - 32772.50	798
+32772.50 - 39322.80	834
+39322.80 - 45873.10	836
+45873.10 - 52423.40	779
+52423.40 - 58973.70	800
+58973.70 - 65524.00	845
+Label	Count
+21.00 - 6571.30	2,558
+6571.30 - 13121.60	856
+13121.60 - 19671.90	865
+19671.90 - 26222.20	829
+26222.20 - 32772.50	798
+32772.50 - 39322.80	834
+39322.80 - 45873.10	836
+45873.10 - 52423.40	779
+52423.40 - 58973.70	800
+58973.70 - 65524.00	845
+21
+65.5k
+Label	Count
+5.00 - 6553.60	9,666
+6553.60 - 13102.20	34
+13102.20 - 19650.80	44
+19650.80 - 26199.40	48
+26199.40 - 32748.00	40
+32748.00 - 39296.60	39
+39296.60 - 45845.20	39
+45845.20 - 52393.80	35
+52393.80 - 58942.40	25
+58942.40 - 65491.00	30
+Label	Count
+5.00 - 6553.60	9,666
+6553.60 - 13102.20	34
+13102.20 - 19650.80	44
+19650.80 - 26199.40	48
+26199.40 - 32748.00	40
+32748.00 - 39296.60	39
+39296.60 - 45845.20	39
+45845.20 - 52393.80	35
+52393.80 - 58942.40	25
+58942.40 - 65491.00	30
+5
+65.5k
+TCP
+78%
+UDP
+19%
+Other (325)
+3%
+Label	Count
+17.00 - 13917055.80	9,989
+13917055.80 - 27834094.60	3
+27834094.60 - 41751133.40	2
+41751133.40 - 55668172.20	2
+55668172.20 - 69585211.00	2
+69585211.00 - 83502249.80	1
+125253366.20 - 139170405.00	1
+Label	Count
+17.00 - 13917055.80	9,989
+13917055.80 - 27834094.60	3
+27834094.60 - 41751133.40	2
+41751133.40 - 55668172.20	2
+55668172.20 - 69585211.00	2
+69585211.00 - 83502249.80	1
+125253366.20 - 139170405.00	1
+17
+139m
+Label	Count
+3.00 - 29148298.60	9,992
+29148298.60 - 58296594.20	2
+58296594.20 - 87444889.80	1
+87444889.80 - 116593185.40	3
+116593185.40 - 145741481.00	1
+262334663.40 - 291482959.00	1
+Label	Count
+3.00 - 29148298.60	9,992
+29148298.60 - 58296594.20	2
+58296594.20 - 87444889.80	1
+87444889.80 - 116593185.40	3
+116593185.40 - 145741481.00	1
+262334663.40 - 291482959.00	1
+3
+291m
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+35%
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+25%
+Other (4057)
+41%
+[null]
+32%
+https://webmail.corp/login?id=385071
+0%
+Other (6767)
+68%
+2025-10-01 00:12:54
+188.176.27.165
+253.240.113.218
+56377
+445
+TCP
+8029
+17204
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/login?id=385071
+2025-10-01 00:23:43
+68.59.26.43
+212.75.38.111
+51165
+1433
+TCP
+676368
+2643374
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/owa/auth/logon.aspx?id=280743
+2025-10-01 00:25:46
+119.204.243.78
+90.28.90.234
+14948
+1433
+TCP
+316502
+38571
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+2025-10-01 00:27:21
+122.119.194.175
+175.140.78.230
+36097
+443
+TCP
+70933
+21935
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=114701
+2025-10-01 00:40:09
+181.199.242.68
+55.99.177.69
+445
+21255
+TCP
+12721
+9939
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/config.php?id=345569
+2025-10-01 00:56:45
+38.222.6.74
+191.130.7.118
+58858
+445
+UDP
+150393
+94993
+curl/8.4.0
+2025-10-01 01:19:57
+238.229.195.174
+16.182.72.24
+25167
+443
+TCP
+3592
+1081
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://internal.bank.local/?id=432022
+2025-10-01 01:34:30
+81.21.49.235
+119.87.191.7
+37602
+22
+TCP
+123317
+41293
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=957608
+2025-10-01 01:35:33
+137.181.221.157
+44.124.13.254
+18315
+53
+TCP
+97222
+233071
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://internal.bank.local/admin?id=567716
+2025-10-01 01:40:38
+236.139.171.70
+89.15.217.112
+12283
+21
+TCP
+17289
+35727
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-01 01:57:54
+69.50.130.168
+202.51.199.195
+12037
+80
+UDP
+136311
+418831
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/owa/auth/logon.aspx?id=897930
+2025-10-01 02:31:52
+150.200.236.198
+87.119.113.169
+80
+213
+TCP
+3150
+11715
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 02:40:55
+173.123.99.134
+51.62.255.196
+60094
+53
+UDP
+2909
+7940
+curl/8.4.0
+2025-10-01 02:47:48
+87.92.160.141
+21.130.233.148
+28959
+80
+TCP
+105318
+46807
+python-urllib/3.9
+2025-10-01 02:59:07
+3.4.34.4
+195.162.182.66
+27098
+3389
+TCP
+19218
+16094
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-01 03:24:24
+106.50.53.176
+189.33.87.145
+19578
+21
+TCP
+57690
+96184
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 03:38:42
+115.179.112.186
+236.84.149.193
+37290
+1433
+TCP
+405720
+1305168
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://api.service.io/wp-login.php?id=407810
+2025-10-01 03:41:01
+73.128.98.9
+195.91.80.2
+22933
+80
+TCP
+6935
+19414
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 03:56:27
+7.47.29.241
+211.92.36.92
+10972
+22
+TCP
+17511
+35981
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://internal.bank.local/manager/html?id=204536
+2025-10-01 04:11:21
+153.111.62.182
+202.92.24.131
+3389
+21
+TCP
+271417
+482806
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/login?id=262850
+2025-10-01 05:01:20
+246.61.44.220
+151.181.71.29
+53
+443
+TCP
+64213
+67744
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/dashboard?id=296452
+2025-10-01 05:07:09
+155.66.192.169
+214.7.89.118
+24974
+3389
+TCP
+7189
+8460
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 05:45:45
+196.94.56.179
+1.61.80.107
+57116
+445
+UDP
+4778
+11371
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/manager/html?id=948249
+2025-10-01 05:58:38
+48.129.150.120
+156.220.85.86
+53819
+443
+TCP
+9462
+14565
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/?id=493246
+2025-10-01 05:59:06
+170.38.232.237
+248.23.167.195
+35602
+21
+TCP
+6758
+9064
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 06:14:05
+255.141.218.178
+15.244.116.253
+51620
+1433
+TCP
+32201
+128441
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/wp-login.php?id=134862
+2025-10-01 06:22:48
+232.165.131.42
+183.69.142.192
+25424
+445
+UDP
+24971
+7262
+python-urllib/3.9
+https://webmail.corp/login?id=895434
+2025-10-01 06:36:26
+200.37.141.199
+236.32.118.228
+19269
+5
+UDP
+7781
+26386
+curl/8.4.0
+https://portal.example.org/login?id=969994
+2025-10-01 07:01:35
+16.195.198.86
+154.151.122.14
+40858
+3389
+TCP
+5737
+22359
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/dashboard?id=169999
+2025-10-01 07:33:43
+255.30.132.245
+210.50.67.202
+43570
+443
+TCP
+19666
+37072
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/config.php?id=809262
+2025-10-01 08:05:36
+209.135.91.113
+190.86.249.65
+57588
+21
+TCP
+821
+2803
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 08:13:56
+18.251.102.157
+154.203.77.202
+22
+22
+ICMP
+27778
+106478
+python-requests/2.31.0
+https://api.service.io/backup.sql?id=369045
+2025-10-01 08:15:43
+101.91.251.28
+255.61.200.51
+21027
+53
+UDP
+144452
+444250
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webmail.corp/phpmyadmin?id=453617
+2025-10-01 08:53:27
+37.220.111.158
+246.144.151.13
+3577
+443
+UDP
+2253
+7192
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 09:34:36
+165.54.226.184
+195.118.246.165
+24447
+445
+TCP
+47738
+59837
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/api/v1/users?id=314737
+2025-10-01 09:36:33
+67.52.17.19
+101.181.131.54
+22
+80
+TCP
+8286
+19778
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/?id=647220
+2025-10-01 10:06:26
+19.128.228.5
+153.136.79.216
+25
+22
+UDP
+79538
+141624
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/?id=276227
+2025-10-01 10:22:09
+230.254.76.168
+143.11.23.207
+1433
+443
+TCP
+28391
+105998
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://portal.example.org/owa/auth/logon.aspx?id=109069
+2025-10-01 10:50:19
+164.0.19.171
+58.13.210.164
+29599
+80
+TCP
+42088
+146722
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=799500
+2025-10-01 10:52:47
+100.136.77.180
+66.49.147.143
+25170
+53
+TCP
+24433
+60898
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 10:58:59
+85.200.1.132
+143.147.43.154
+22
+443
+UDP
+184486
+202730
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/?id=503436
+2025-10-01 11:15:32
+182.251.244.112
+167.23.163.208
+28933
+22
+TCP
+38401
+157040
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 11:43:13
+104.35.115.1
+140.159.54.208
+443
+1433
+TCP
+7124
+9076
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://portal.example.org/owa/auth/logon.aspx?id=730696
+2025-10-01 12:04:25
+99.246.62.146
+213.139.253.170
+24239
+22
+TCP
+25795
+9386
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 12:06:20
+138.183.170.175
+28.171.14.215
+12201
+22
+TCP
+12207
+4711
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 12:14:10
+78.205.28.162
+81.60.64.234
+24549
+1433
+TCP
+28562
+109042
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/api/v1/users?id=898783
+2025-10-01 12:19:41
+246.46.187.137
+55.238.249.44
+443
+443
+TCP
+11252
+14019
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://portal.example.org/.env?id=303232
+2025-10-01 12:44:41
+219.174.41.216
+27.30.26.124
+54007
+53
+TCP
+7458
+12261
+curl/8.4.0
+2025-10-01 12:55:13
+118.148.103.46
+65.147.131.121
+54240
+22
+TCP
+30297
+45458
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 13:09:14
+142.20.196.170
+147.118.54.178
+44214
+3306
+ICMP
+24083
+92876
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 13:23:59
+49.153.199.230
+19.241.63.125
+6941
+25
+UDP
+120852
+106718
+python-requests/2.31.0
+2025-10-01 13:44:19
+28.183.249.22
+241.128.5.8
+22143
+53
+TCP
+11339
+33930
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/dashboard?id=267759
+2025-10-01 13:44:43
+227.224.97.36
+52.131.182.101
+53145
+445
+UDP
+925
+3853
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/?id=773094
+2025-10-01 14:13:39
+10.98.12.185
+136.141.202.85
+34030
+21
+TCP
+12305
+32941
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 14:17:12
+152.122.250.100
+173.249.106.123
+21035
+445
+TCP
+1632
+5758
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 14:51:41
+17.157.255.137
+76.142.193.104
+39571
+3389
+TCP
+42833
+161349
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 14:52:31
+248.230.8.10
+52.238.185.99
+34531
+25
+TCP
+1512
+3304
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/.env?id=658782
+2025-10-01 15:08:35
+87.28.172.202
+57.201.193.187
+19043
+22
+TCP
+4530
+17976
+curl/8.4.0
+https://portal.example.org/wp-login.php?id=203454
+2025-10-01 15:18:23
+185.21.207.31
+177.208.223.90
+40240
+25
+TCP
+12335
+22276
+curl/8.4.0
+https://internal.bank.local/wp-login.php?id=981257
+2025-10-01 15:18:58
+55.234.76.190
+27.75.3.143
+5211
+22
+TCP
+260490
+453705
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/dashboard?id=537644
+2025-10-01 15:22:25
+149.119.36.10
+28.0.98.112
+27955
+3306
+TCP
+3957
+12394
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2025-10-01 15:24:28
+189.72.250.168
+133.107.78.92
+18531
+80
+TCP
+22468
+65842
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/backup.sql?id=390948
+2025-10-01 15:26:03
+5.241.23.63
+216.67.144.2
+40726
+25
+TCP
+55712
+95270
+curl/8.4.0
+2025-10-01 15:46:08
+180.66.7.45
+79.110.126.199
+27713
+53
+TCP
+236687
+181586
+curl/8.4.0
+https://app.company.in/wp-login.php?id=492322
+2025-10-01 15:54:55
+162.25.157.211
+94.59.205.5
+9714
+25
+TCP
+76456
+139657
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/admin?id=322013
+2025-10-01 16:34:37
+204.49.233.157
+36.202.168.124
+47609
+1433
+TCP
+126785
+496484
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 16:45:21
+44.32.54.30
+38.25.187.137
+35899
+7987
+TCP
+87806
+360152
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/?id=323379
+2025-10-01 16:45:48
+128.112.32.206
+177.220.214.144
+34403
+3306
+TCP
+3182
+13013
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/login?id=303150
+2025-10-01 16:49:08
+52.218.172.208
+122.10.114.89
+31705
+445
+TCP
+39163
+56225
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/.env?id=360731
+2025-10-01 17:04:53
+214.205.166.31
+190.50.218.51
+18657
+1433
+UDP
+85635
+176932
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 17:07:15
+250.70.164.215
+103.240.35.118
+37833
+443
+UDP
+4767
+17444
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 17:18:47
+247.109.23.152
+81.76.133.214
+17795
+3389
+UDP
+8711
+32488
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 17:54:43
+45.171.32.31
+249.8.223.182
+24099
+80
+TCP
+6092
+12287
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/phpmyadmin?id=369671
+2025-10-01 18:00:43
+71.72.212.44
+63.249.197.227
+64406
+445
+TCP
+75826
+315647
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://internal.bank.local/?id=915160
+2025-10-01 18:13:44
+179.189.84.113
+69.80.117.194
+34670
+64323
+ICMP
+19715
+75045
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/test.php?id=709208
+2025-10-01 18:34:10
+63.20.68.26
+157.112.5.54
+17901
+21
+TCP
+13182
+32954
+curl/8.4.0
+2025-10-01 18:47:13
+203.192.80.5
+245.183.123.154
+80
+3389
+TCP
+2833
+10626
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/admin?id=638150
+2025-10-01 18:52:10
+226.249.41.2
+26.48.31.156
+80
+1433
+TCP
+19774
+1774
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://portal.example.org/dashboard?id=689641
+2025-10-01 18:55:09
+2.91.45.181
+134.177.96.47
+21
+445
+TCP
+8882
+36445
+curl/8.4.0
+https://internal.bank.local/owa/auth/logon.aspx?id=509212
+2025-10-01 19:03:17
+167.145.213.178
+16.192.121.186
+20339
+445
+ICMP
+32511
+83577
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/config.php?id=141981
+2025-10-01 19:07:00
+207.243.64.53
+181.15.47.22
+53599
+22
+TCP
+3537
+9085
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 19:22:48
+37.138.230.106
+66.250.155.117
+10907
+25
+TCP
+29279
+100264
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 19:25:12
+62.89.19.153
+251.168.139.187
+43467
+25
+TCP
+10912
+35686
+python-requests/2.31.0
+https://webmail.corp/.env?id=879243
+2025-10-01 19:37:00
+47.255.45.161
+88.130.24.21
+25
+80
+TCP
+2984
+8729
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/config.php?id=458228
+2025-10-01 19:43:18
+212.154.178.108
+119.18.141.195
+61862
+22
+TCP
+2634
+3952
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/manager/html?id=369349
+2025-10-01 19:44:51
+2.120.98.31
+151.20.213.118
+44567
+53
+TCP
+3350
+12963
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/login?id=193171
+2025-10-01 20:30:50
+253.48.185.221
+137.34.158.94
+3799
+25
+TCP
+15831
+14796
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-01 20:44:01
+195.112.237.198
+211.199.172.148
+63903
+80
+TCP
+26731
+19113
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 20:48:29
+161.106.141.14
+123.230.119.157
+15958
+44506
+TCP
+33918
+109761
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/shell?id=334695
+2025-10-01 21:16:49
+50.57.76.176
+99.48.16.170
+15479
+3389
+TCP
+36029
+134176
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/phpmyadmin?id=208407
+2025-10-01 21:18:04
+217.242.254.46
+146.65.230.63
+27465
+1433
+TCP
+6544
+17325
+python-requests/2.31.0
+2025-10-01 21:35:38
+41.22.27.166
+121.105.205.139
+56650
+445
+TCP
+119783
+330141
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-01 21:38:24
+94.145.107.112
+232.49.26.133
+12496
+1433
+TCP
+10855
+8306
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/test.php?id=537329
+2025-10-01 21:40:52
+65.171.232.12
+222.10.150.208
+48664
+445
+UDP
+45262
+68493
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/wp-login.php?id=73430
+2025-10-01 21:42:23
+27.26.90.41
+29.254.160.110
+57832
+25
+UDP
+16938
+41844
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/.env?id=577488
+2025-10-01 21:53:51
+202.14.248.132
+160.142.109.9
+62446
+3306
+TCP
+40174
+91419
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/owa/auth/logon.aspx?id=484658
+2025-10-01 22:01:13
+30.36.120.185
+122.82.53.230
+22
+445
+TCP
+15631
+6221
+curl/8.4.0
+https://portal.example.org/login?id=614989
+2025-10-01 22:19:51
+114.166.214.51
+176.233.232.206
+5821
+1433
+TCP
+41349
+4755
+curl/8.4.0
+https://webmail.corp/shell?id=62593
+2025-10-01 22:21:27
+192.166.117.200
+34.197.216.53
+3389
+21
+TCP
+21767
+5948
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/config.php?id=393722
+2025-10-01 22:31:55
+29.166.116.26
+54.43.89.38
+64215
+3306
+TCP
+80995
+12643
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 22:32:17
+61.211.102.97
+136.13.4.48
+65207
+21
+ICMP
+5943
+16291
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 22:39:24
+229.112.37.121
+18.60.16.68
+9874
+443
+TCP
+1297
+4366
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-01 22:42:04
+150.248.27.228
+138.169.225.143
+33599
+25
+ICMP
+4640
+9110
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://api.service.io/shell?id=304823
+2025-10-01 23:39:13
+112.74.110.238
+235.214.230.239
+25628
+1433
+TCP
+121816
+210742
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/shell?id=50249
+2025-10-02 00:34:41
+157.232.91.100
+234.56.74.99
+25512
+22
+TCP
+17200
+59426
+python-requests/2.31.0
+2025-10-02 00:35:48
+96.69.234.185
+84.244.81.141
+21
+1433
+TCP
+25522
+41528
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://internal.bank.local/test.php?id=724224
+2025-10-02 00:40:49
+50.183.138.52
+213.34.73.216
+24053
+6081
+TCP
+4081
+7909
+curl/8.4.0
+2025-10-02 00:57:25
+86.65.16.178
+198.60.85.218
+11872
+443
+TCP
+24462
+71756
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://api.service.io/manager/html?id=386772
+2025-10-02 01:07:37
+146.30.143.35
+126.187.84.67
+25
+80
+TCP
+4287
+7394
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 01:58:54
+29.238.234.108
+210.41.172.41
+14622
+3389
+TCP
+5424
+16600
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 02:19:28
+44.175.112.227
+164.149.51.185
+46320
+21
+TCP
+11568
+33328
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-02 02:26:55
+76.80.87.148
+179.178.171.225
+445
+3389
+TCP
+44898
+45483
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/dashboard?id=726257
+2025-10-02 02:33:13
+249.117.44.106
+95.98.238.183
+23642
+25
+TCP
+53260
+138087
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/owa/auth/logon.aspx?id=214323
+2025-10-02 02:38:38
+220.250.110.152
+59.31.142.55
+53649
+80
+TCP
+55629
+224913
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/dashboard?id=546535
+2025-10-02 02:38:49
+122.236.142.4
+117.213.104.32
+33422
+3389
+TCP
+1735
+1761
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://api.service.io/login?id=77964
+2025-10-02 02:45:09
+187.219.126.64
+136.164.188.145
+80
+80
+TCP
+21792
+7555
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 03:02:10
+84.222.113.229
+104.252.11.127
+22287
+3306
+TCP
+16077
+66592
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/backup.sql?id=305170
+2025-10-02 03:08:04
+238.76.2.107
+211.63.222.193
+21
+443
+TCP
+1897
+2259
+curl/8.4.0
+2025-10-02 03:32:33
+251.22.20.254
+160.130.130.141
+27040
+21
+TCP
+22597
+33999
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 03:36:53
+121.17.217.136
+182.48.138.192
+16296
+36576
+TCP
+14754
+16717
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/backup.sql?id=922406
+2025-10-02 03:51:41
+101.245.50.116
+79.1.2.16
+34734
+80
+TCP
+49933
+131302
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2025-10-02 04:07:05
+127.123.42.143
+192.139.18.201
+21
+3389
+TCP
+25084
+19781
+python-urllib/3.9
+https://app.company.in/test.php?id=629681
+2025-10-02 04:26:46
+193.6.208.244
+114.189.210.12
+25
+53
+UDP
+9146
+34457
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/admin?id=884914
+2025-10-02 04:34:49
+56.67.183.76
+136.36.157.167
+52337
+3306
+TCP
+96879
+196078
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/test.php?id=368914
+2025-10-02 04:37:59
+62.46.8.123
+187.216.159.249
+22726
+445
+TCP
+630
+1924
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/dashboard?id=999178
+2025-10-02 04:45:20
+172.156.82.181
+199.20.227.197
+7004
+1433
+UDP
+19874
+70580
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 04:48:04
+118.12.232.119
+254.248.81.150
+14167
+53
+TCP
+1311
+4973
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/?id=235852
+2025-10-02 04:48:35
+198.70.207.48
+106.82.90.188
+54356
+443
+UDP
+5117
+10490
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://webmail.corp/.env?id=582183
+2025-10-02 05:23:46
+203.189.237.181
+105.20.195.161
+45878
+22
+TCP
+51006
+6227
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 05:28:53
+163.0.36.99
+117.105.136.67
+22
+25
+TCP
+2867
+4632
+python-requests/2.31.0
+2025-10-02 05:30:41
+229.170.16.76
+255.248.76.230
+3306
+3389
+ICMP
+2257
+8427
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 05:42:29
+110.138.106.202
+222.191.58.205
+50705
+1433
+TCP
+995611
+1844905
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://app.company.in/api/v1/users?id=958364
+2025-10-02 05:45:26
+176.41.171.189
+36.211.248.47
+26188
+21
+TCP
+2502
+10183
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/shell?id=821379
+2025-10-02 06:12:40
+239.28.186.228
+106.208.164.254
+14715
+443
+TCP
+308918
+816766
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://webmail.corp/admin?id=141306
+2025-10-02 06:29:34
+14.56.196.94
+71.228.187.131
+40499
+443
+TCP
+16721
+54751
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 07:51:49
+120.20.187.94
+231.236.124.245
+64898
+3306
+TCP
+9511
+28480
+python-requests/2.31.0
+2025-10-02 08:00:03
+45.34.104.36
+171.247.34.234
+31292
+1433
+TCP
+54549
+198829
+python-requests/2.31.0
+https://portal.example.org/shell?id=833204
+2025-10-02 08:08:27
+252.171.122.139
+16.165.96.250
+43485
+53
+TCP
+186941
+411001
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/config.php?id=113271
+2025-10-02 08:25:58
+30.244.107.193
+151.73.181.166
+19420
+445
+TCP
+3520
+916
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/phpmyadmin?id=60159
+2025-10-02 08:48:07
+191.115.164.91
+183.28.220.178
+15395
+22
+TCP
+9736
+8186
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 08:49:06
+230.136.216.71
+207.253.235.31
+63621
+80
+TCP
+85390
+125670
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/manager/html?id=376708
+2025-10-02 08:58:05
+14.32.190.89
+143.165.99.183
+12908
+22
+TCP
+34919
+127581
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/shell?id=450510
+2025-10-02 09:05:43
+116.248.62.121
+103.1.54.122
+3169
+443
+UDP
+128420
+135572
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://portal.example.org/phpmyadmin?id=728266
+2025-10-02 10:18:40
+182.149.231.159
+75.114.10.66
+39877
+21
+TCP
+50220
+201259
+python-requests/2.31.0
+https://portal.example.org/api/v1/users?id=381138
+2025-10-02 10:23:17
+95.33.96.229
+16.80.179.97
+3083
+443
+TCP
+397582
+1041673
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/phpmyadmin?id=295883
+2025-10-02 10:37:37
+227.234.44.21
+234.183.87.102
+64361
+3306
+TCP
+29311
+46573
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 10:59:08
+101.91.147.246
+31.102.50.105
+10340
+80
+UDP
+31410
+117090
+curl/8.4.0
+https://internal.bank.local/.env?id=614862
+2025-10-02 11:06:37
+245.39.55.43
+175.203.253.120
+21064
+3306
+TCP
+36855
+120163
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/config.php?id=5638
+2025-10-02 11:33:02
+71.57.75.128
+63.19.99.102
+80
+80
+UDP
+17536
+13396
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 11:43:48
+39.104.11.76
+1.224.56.254
+34673
+25
+TCP
+85557
+122769
+curl/8.4.0
+https://api.service.io/phpmyadmin?id=126175
+2025-10-02 11:45:44
+107.67.242.89
+40.229.239.27
+14531
+3389
+UDP
+32185
+7868
+curl/8.4.0
+https://webmail.corp/test.php?id=999396
+2025-10-02 11:48:23
+108.227.10.75
+113.220.109.190
+61247
+21
+TCP
+77737
+137531
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/phpmyadmin?id=774027
+2025-10-02 12:27:26
+49.32.11.224
+241.11.49.231
+20622
+3389
+TCP
+99827
+295763
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/manager/html?id=845960
+2025-10-02 12:29:09
+206.118.171.106
+224.151.91.179
+3700
+30546
+TCP
+43718
+75142
+curl/8.4.0
+https://app.company.in/test.php?id=599820
+2025-10-02 12:36:06
+149.175.167.125
+118.80.12.177
+29878
+445
+UDP
+49155
+121186
+python-requests/2.31.0
+2025-10-02 12:39:27
+152.227.234.78
+76.107.51.125
+32022
+25
+TCP
+4374
+16546
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/test.php?id=731821
+2025-10-02 12:46:21
+146.67.156.44
+233.208.236.102
+6650
+445
+TCP
+9131
+37264
+python-requests/2.31.0
+https://portal.example.org/login?id=751885
+2025-10-02 13:47:42
+203.133.116.124
+35.85.224.9
+47063
+25
+TCP
+84915
+137214
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=472576
+2025-10-02 13:50:49
+96.147.24.38
+37.178.159.64
+8403
+3389
+UDP
+214874
+801084
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/dashboard?id=593450
+2025-10-02 13:56:17
+91.145.233.245
+244.36.202.164
+44695
+25
+UDP
+987
+3254
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://portal.example.org/wp-login.php?id=680179
+2025-10-02 13:59:14
+43.82.146.47
+252.118.34.82
+48152
+445
+TCP
+8878
+19255
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/backup.sql?id=87811
+2025-10-02 14:17:49
+250.89.78.42
+131.158.215.70
+51218
+443
+TCP
+22874
+67935
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/manager/html?id=409161
+2025-10-02 14:35:37
+61.59.21.82
+227.247.64.86
+34410
+22
+TCP
+5394
+6897
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/wp-login.php?id=243745
+2025-10-02 14:46:00
+148.64.225.67
+108.27.144.99
+30832
+445
+TCP
+5907
+14813
+python-urllib/3.9
+https://internal.bank.local/?id=955503
+2025-10-02 14:53:20
+95.94.105.144
+220.161.251.194
+65075
+21
+UDP
+47092
+64627
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/phpmyadmin?id=584475
+2025-10-02 14:58:29
+182.17.162.251
+168.22.104.112
+37608
+25
+TCP
+276565
+1124823
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=996808
+2025-10-02 15:21:31
+89.75.190.115
+159.10.200.178
+64845
+3389
+TCP
+853
+694
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/shell?id=115405
+2025-10-02 15:56:42
+139.83.154.32
+233.55.163.182
+14145
+22
+TCP
+16768
+34805
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/.env?id=995792
+2025-10-02 16:10:46
+236.12.207.239
+234.56.202.8
+44719
+25
+TCP
+46223
+29976
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-02 17:24:18
+128.74.234.238
+209.94.201.234
+59775
+53
+TCP
+76752
+162295
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 17:44:51
+82.79.2.249
+17.121.131.8
+24652
+443
+TCP
+36702
+82724
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 18:28:48
+190.169.151.122
+213.155.53.178
+5367
+3306
+TCP
+368886
+412563
+python-requests/2.31.0
+https://app.company.in/admin?id=382681
+2025-10-02 18:48:37
+230.148.75.205
+222.69.79.203
+445
+3389
+TCP
+23069
+36895
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/backup.sql?id=175120
+2025-10-02 18:50:54
+145.226.173.177
+198.28.221.99
+18436
+3389
+TCP
+179725
+635275
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/test.php?id=153178
+2025-10-02 19:23:16
+29.245.20.36
+113.222.207.249
+45054
+3389
+TCP
+7830
+16910
+curl/8.4.0
+2025-10-02 19:24:42
+174.59.157.7
+83.146.2.84
+23030
+3389
+TCP
+24167
+25184
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/test.php?id=747474
+2025-10-02 19:37:01
+103.112.228.92
+60.91.142.41
+22387
+21
+TCP
+3164
+3915
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 19:37:13
+24.167.28.156
+161.58.210.251
+443
+3306
+TCP
+93095
+41641
+zgrab/0.x
+2025-10-02 19:40:15
+165.99.113.201
+145.142.113.86
+47316
+25
+TCP
+18165
+72570
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/backup.sql?id=857516
+2025-10-02 20:07:38
+240.142.100.6
+245.15.148.42
+1333
+443
+TCP
+39046
+111617
+python-requests/2.31.0
+https://internal.bank.local/owa/auth/logon.aspx?id=238510
+2025-10-02 20:16:56
+22.228.44.250
+19.238.6.94
+29973
+443
+TCP
+13341
+33088
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/wp-login.php?id=3172
+2025-10-02 20:27:20
+132.201.99.126
+123.88.161.61
+15577
+445
+TCP
+56290
+159140
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://portal.example.org/shell?id=852454
+2025-10-02 20:33:49
+82.28.184.102
+248.16.170.116
+5792
+53
+TCP
+41601
+12587
+python-requests/2.31.0
+https://portal.example.org/dashboard?id=85089
+2025-10-02 21:09:58
+38.218.189.99
+58.95.59.58
+58414
+53
+TCP
+4485
+17512
+curl/8.4.0
+https://portal.example.org/wp-login.php?id=497567
+2025-10-02 21:11:40
+96.6.145.89
+97.227.197.76
+14145
+3306
+TCP
+4920
+10016
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/config.php?id=552030
+2025-10-02 21:23:02
+90.157.228.224
+92.170.190.35
+10646
+3306
+TCP
+21069
+39732
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/.env?id=177244
+2025-10-02 21:30:29
+144.44.110.187
+105.56.161.31
+3306
+3306
+UDP
+63279
+261018
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://portal.example.org/test.php?id=267916
+2025-10-02 21:30:45
+228.227.212.206
+8.225.5.189
+51304
+1433
+UDP
+433927
+855645
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 22:00:05
+114.147.83.207
+90.187.254.3
+6108
+443
+TCP
+35767
+70686
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-02 22:13:10
+187.217.212.36
+94.80.191.10
+54434
+447
+TCP
+2053
+6053
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-02 22:26:08
+214.44.73.54
+228.71.82.226
+59059
+3306
+TCP
+1668
+3151
+python-urllib/3.9
+https://webmail.corp/test.php?id=386317
+2025-10-02 22:43:31
+78.243.171.17
+205.136.148.24
+16128
+53
+TCP
+551683
+1786796
+curl/8.4.0
+2025-10-02 22:47:06
+239.192.45.2
+33.97.175.238
+36686
+3306
+TCP
+58052
+103749
+python-requests/2.31.0
+2025-10-02 23:08:45
+105.139.212.45
+173.222.88.239
+58938
+3306
+UDP
+20345
+11762
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+2025-10-02 23:22:56
+143.236.70.52
+240.162.203.153
+51627
+53
+TCP
+16923
+61277
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/config.php?id=467108
+2025-10-02 23:29:19
+48.195.148.142
+39.204.126.81
+45097
+3306
+UDP
+3746
+5925
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 00:20:25
+126.21.154.214
+111.12.17.99
+9945
+4241
+TCP
+5919
+1313
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/dashboard?id=214398
+2025-10-03 00:35:57
+150.155.252.144
+166.95.171.171
+23982
+1433
+TCP
+468221
+160908
+curl/8.4.0
+https://internal.bank.local/api/v1/users?id=473155
+2025-10-03 01:00:48
+190.237.114.7
+89.32.187.23
+41667
+36325
+TCP
+4525
+3522
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 01:45:20
+203.1.78.68
+124.228.185.20
+52846
+1433
+TCP
+4388
+3037
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/manager/html?id=930740
+2025-10-03 01:45:59
+77.241.63.168
+222.102.243.225
+11747
+443
+TCP
+7161
+19008
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/phpmyadmin?id=635383
+2025-10-03 02:04:18
+171.147.213.46
+213.117.77.25
+5248
+3306
+TCP
+3238
+8413
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://portal.example.org/.env?id=63706
+2025-10-03 02:34:04
+126.125.14.31
+18.88.232.206
+8660
+443
+TCP
+22572
+42856
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 02:43:43
+196.141.252.249
+51.136.128.207
+445
+12448
+TCP
+125775
+165363
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 02:47:53
+18.185.246.145
+223.171.10.172
+14936
+1433
+TCP
+8293
+14536
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 03:03:38
+112.132.243.250
+214.55.5.254
+11838
+25
+TCP
+2447
+1186
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://portal.example.org/manager/html?id=925492
+2025-10-03 03:03:41
+178.61.191.132
+15.249.65.111
+44085
+445
+UDP
+35135
+134970
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 03:07:22
+188.8.132.42
+69.213.45.102
+60290
+53
+TCP
+20146
+61726
+curl/8.4.0
+https://app.company.in/phpmyadmin?id=531548
+2025-10-03 03:34:07
+149.29.74.82
+175.180.36.108
+80
+443
+TCP
+109574
+52376
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/admin?id=67367
+2025-10-03 04:18:11
+119.69.182.42
+39.220.171.64
+46973
+53
+TCP
+10644
+40398
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-03 04:22:58
+14.139.184.108
+39.72.65.217
+32374
+21
+ICMP
+14526
+5554
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webmail.corp/login?id=927366
+2025-10-03 04:37:37
+163.182.24.75
+173.133.230.11
+22704
+3389
+TCP
+17339
+10249
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/login?id=548501
+2025-10-03 04:58:37
+75.39.99.197
+190.48.1.28
+50647
+445
+TCP
+25397
+13588
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 05:00:25
+161.93.48.154
+70.55.85.150
+7957
+53
+TCP
+11753
+24286
+curl/8.4.0
+https://internal.bank.local/dashboard?id=820109
+2025-10-03 05:49:46
+193.85.165.224
+185.226.37.158
+30829
+1433
+UDP
+9068
+29884
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/wp-login.php?id=921729
+2025-10-03 06:00:16
+81.154.138.176
+143.139.22.199
+24690
+445
+UDP
+1140
+1484
+curl/8.4.0
+https://portal.example.org/test.php?id=86240
+2025-10-03 07:08:31
+179.185.49.137
+216.128.126.115
+18787
+25
+TCP
+8914
+29100
+python-requests/2.31.0
+https://webmail.corp/test.php?id=911007
+2025-10-03 07:20:54
+149.180.73.4
+197.154.61.208
+41551
+80
+TCP
+69172
+43570
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 07:42:53
+36.144.190.200
+35.205.56.125
+1459
+22
+TCP
+85853
+329067
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 07:53:35
+125.210.174.236
+194.127.4.187
+15353
+445
+TCP
+10365
+23317
+python-requests/2.31.0
+https://app.company.in/shell?id=831459
+2025-10-03 08:24:21
+234.83.52.56
+4.9.165.132
+26898
+22
+TCP
+176165
+371845
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/login?id=157374
+2025-10-03 08:54:55
+40.113.96.204
+139.6.168.219
+9987
+80
+TCP
+21037
+51409
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 09:14:06
+230.58.213.118
+128.180.101.58
+53
+80
+UDP
+2590
+8209
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/test.php?id=32497
+2025-10-03 09:34:06
+235.39.59.210
+5.98.110.73
+27866
+22
+TCP
+1565
+2281
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/manager/html?id=712807
+2025-10-03 09:45:23
+34.8.245.90
+183.12.174.9
+32582
+21
+TCP
+154695
+222585
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/manager/html?id=824597
+2025-10-03 10:02:57
+80.185.71.210
+142.57.24.87
+39147
+443
+TCP
+12127
+36872
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/phpmyadmin?id=917756
+2025-10-03 10:06:08
+114.175.88.182
+97.113.174.246
+17230
+19003
+TCP
+3157
+10055
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/manager/html?id=849653
+2025-10-03 10:16:45
+78.14.60.57
+165.221.19.163
+3389
+3389
+UDP
+592
+55
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/dashboard?id=428205
+2025-10-03 10:18:41
+33.72.116.79
+48.54.120.18
+32480
+25
+TCP
+11694
+31898
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/owa/auth/logon.aspx?id=13072
+2025-10-03 10:53:18
+33.107.66.252
+25.210.212.146
+62827
+80
+TCP
+42091
+73364
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 11:18:54
+21.217.57.20
+78.214.11.228
+37026
+21
+TCP
+7213
+26763
+python-urllib/3.9
+https://webmail.corp/shell?id=698602
+2025-10-03 11:50:06
+5.247.220.11
+36.38.82.234
+65184
+443
+TCP
+4083
+15445
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 11:58:06
+51.55.16.204
+245.148.220.247
+65460
+53
+UDP
+9145
+9079
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/manager/html?id=220878
+2025-10-03 12:04:19
+169.30.240.31
+115.216.132.37
+43622
+21
+TCP
+160991
+30432
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://internal.bank.local/login?id=465411
+2025-10-03 12:16:10
+233.129.22.17
+130.58.76.181
+443
+53
+UDP
+2371
+7646
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/dashboard?id=379849
+2025-10-03 12:22:56
+78.5.49.201
+176.177.97.102
+48533
+445
+TCP
+7889
+21634
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/api/v1/users?id=893611
+2025-10-03 12:43:52
+32.105.102.48
+199.81.26.118
+24194
+21
+TCP
+152850
+361622
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-03 12:46:52
+172.179.14.24
+158.145.141.240
+16419
+443
+TCP
+48566
+53831
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://portal.example.org/admin?id=179864
+2025-10-03 13:02:46
+38.142.178.91
+231.164.38.217
+445
+22
+UDP
+29336
+101455
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+2025-10-03 13:10:33
+42.123.34.26
+45.199.2.221
+445
+80
+TCP
+7804
+12903
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/shell?id=878396
+2025-10-03 13:11:40
+210.7.111.184
+149.76.0.63
+49625
+3306
+TCP
+23128
+54108
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/backup.sql?id=31125
+2025-10-03 13:14:46
+50.144.87.231
+58.40.132.191
+25411
+21
+TCP
+9315
+9473
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 13:26:04
+194.2.50.237
+111.189.213.248
+28489
+51509
+TCP
+5569
+4731
+curl/8.4.0
+https://webmail.corp/phpmyadmin?id=856977
+2025-10-03 13:49:59
+55.243.187.179
+176.181.253.184
+17622
+22
+TCP
+3912
+10572
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 14:05:32
+151.94.225.173
+228.107.220.8
+80
+1433
+TCP
+77230
+174332
+python-requests/2.31.0
+https://internal.bank.local/manager/html?id=137934
+2025-10-03 14:08:45
+246.54.92.214
+91.251.49.55
+29409
+445
+UDP
+19997
+6521
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 14:30:19
+91.194.217.55
+6.146.176.218
+34478
+33018
+TCP
+36432
+152138
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/owa/auth/logon.aspx?id=195419
+2025-10-03 14:43:08
+132.116.208.29
+15.155.120.238
+3933
+53
+UDP
+28076
+59967
+curl/8.4.0
+2025-10-03 14:50:10
+195.160.63.120
+129.202.148.167
+80
+21
+ICMP
+44599
+126729
+python-requests/2.31.0
+https://app.company.in/wp-login.php?id=257624
+2025-10-03 15:09:08
+29.69.253.196
+26.203.138.91
+4136
+445
+TCP
+14653
+5889
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/backup.sql?id=394187
+2025-10-03 15:36:32
+93.147.20.22
+11.197.73.225
+36325
+445
+TCP
+10191
+21445
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/api/v1/users?id=58240
+2025-10-03 15:43:54
+84.252.59.99
+186.165.97.204
+3306
+445
+TCP
+5976
+16987
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 15:57:51
+73.233.159.176
+228.66.65.217
+31191
+445
+TCP
+2293
+1211
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/owa/auth/logon.aspx?id=637805
+2025-10-03 16:18:50
+250.227.115.142
+58.11.241.38
+26059
+445
+TCP
+3658
+4652
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 17:40:54
+105.148.219.49
+255.138.250.99
+17807
+3306
+UDP
+12275
+16972
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-03 17:43:33
+220.35.243.241
+66.48.95.106
+24900
+22
+TCP
+1694
+5406
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/phpmyadmin?id=842962
+2025-10-03 18:06:54
+174.188.91.4
+26.111.186.209
+11181
+445
+TCP
+2412
+6939
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/?id=626721
+2025-10-03 18:34:33
+173.251.53.102
+215.185.250.65
+55596
+53
+TCP
+116707
+390452
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-03 18:52:33
+113.43.61.37
+83.203.60.130
+22
+21
+UDP
+31529
+129977
+python-requests/2.31.0
+2025-10-03 19:08:48
+102.205.52.190
+169.30.166.202
+32199
+443
+TCP
+10689
+40070
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/config.php?id=834506
+2025-10-03 19:16:14
+237.86.33.94
+130.102.125.80
+3389
+445
+TCP
+834442
+3271094
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/config.php?id=324924
+2025-10-03 19:27:07
+250.101.173.52
+227.18.112.95
+13027
+3306
+TCP
+1576
+275
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/test.php?id=688951
+2025-10-03 19:27:14
+153.206.62.60
+244.113.66.169
+21
+3389
+TCP
+104922
+351413
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-03 19:27:56
+215.217.255.72
+164.242.180.145
+56858
+53
+UDP
+18428
+18536
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://app.company.in/shell?id=947392
+2025-10-03 19:33:28
+196.139.204.92
+140.63.88.4
+60373
+1433
+UDP
+77348
+79265
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://internal.bank.local/backup.sql?id=994761
+2025-10-03 19:37:57
+122.207.248.131
+111.196.190.98
+28480
+80
+TCP
+26221
+12210
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/login?id=730309
+2025-10-03 19:50:54
+72.75.232.28
+157.100.91.95
+16715
+22
+TCP
+1101
+4598
+curl/8.4.0
+2025-10-03 20:01:22
+32.128.250.128
+171.212.72.244
+3306
+3306
+TCP
+25661
+17004
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://internal.bank.local/test.php?id=995520
+2025-10-03 20:16:55
+60.68.15.26
+118.223.83.36
+23195
+25
+TCP
+37680
+96646
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-03 20:24:18
+189.27.34.128
+62.212.120.22
+2351
+443
+TCP
+660
+279
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/test.php?id=537943
+2025-10-03 20:39:37
+174.13.91.98
+207.89.240.88
+1433
+3389
+TCP
+494092
+299344
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/.env?id=873031
+2025-10-03 20:41:55
+155.167.78.78
+60.130.62.137
+10722
+25
+TCP
+36240
+52700
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://portal.example.org/test.php?id=598033
+2025-10-03 20:42:04
+160.49.39.170
+53.176.173.163
+18707
+21
+ICMP
+64549
+198027
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 21:01:58
+193.252.238.52
+254.240.16.42
+59257
+22
+TCP
+3412
+4638
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://portal.example.org/wp-login.php?id=739540
+2025-10-03 21:25:57
+76.254.251.130
+232.68.9.23
+25
+21
+UDP
+66502
+276391
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/admin?id=29918
+2025-10-03 22:31:13
+67.175.9.244
+221.232.254.21
+36362
+25
+TCP
+125895
+438102
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 22:34:16
+196.16.220.226
+174.13.215.34
+4669
+80
+TCP
+33047
+121288
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/config.php?id=20897
+2025-10-03 23:13:02
+235.60.196.116
+145.151.185.223
+26572
+3306
+UDP
+21698
+9388
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 23:26:10
+81.192.226.118
+235.9.68.192
+62555
+21
+TCP
+5272
+3999
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-03 23:48:49
+10.16.90.143
+99.146.136.117
+80
+80
+TCP
+15585
+58252
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/test.php?id=761729
+2025-10-03 23:54:38
+169.155.84.126
+58.186.109.72
+56187
+3306
+TCP
+9708
+35728
+sqlmap/1.8
+2025-10-04 00:13:09
+111.68.159.184
+25.144.126.160
+30276
+53
+TCP
+55005
+97457
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+https://app.company.in/manager/html?id=713393
+2025-10-04 00:18:18
+100.249.56.146
+19.15.111.48
+62712
+1433
+UDP
+5654
+22028
+curl/8.4.0
+https://api.service.io/?id=694734
+2025-10-04 00:25:35
+173.251.240.122
+56.83.46.35
+48769
+21
+UDP
+54363
+140657
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 00:33:46
+144.80.28.101
+136.220.218.248
+10405
+3306
+TCP
+5753
+14010
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/wp-login.php?id=391950
+2025-10-04 00:35:10
+68.253.193.158
+194.233.237.76
+3687
+22
+TCP
+14475
+7371
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 00:38:19
+174.180.145.83
+164.249.131.121
+45420
+3306
+TCP
+59022
+88263
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://portal.example.org/.env?id=520905
+2025-10-04 00:39:56
+16.14.23.33
+124.69.26.183
+47299
+80
+TCP
+7143
+21888
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/wp-login.php?id=895153
+2025-10-04 00:41:16
+215.187.178.208
+238.49.40.170
+7995
+3306
+TCP
+62371
+88613
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+2025-10-04 00:52:23
+190.13.174.98
+224.31.151.1
+60104
+1433
+TCP
+53358
+216033
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/owa/auth/logon.aspx?id=970740
+2025-10-04 01:11:50
+25.219.176.254
+201.41.139.7
+21223
+443
+TCP
+14278
+3515
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/shell?id=50693
+2025-10-04 01:33:52
+92.210.179.15
+178.195.167.214
+22
+443
+TCP
+141330
+407411
+python-requests/2.31.0
+https://webmail.corp/admin?id=994411
+2025-10-04 01:41:56
+170.125.126.61
+5.43.228.121
+445
+3389
+TCP
+24945
+13307
+curl/8.4.0
+https://api.service.io/shell?id=988589
+2025-10-04 01:49:48
+166.159.43.234
+183.243.177.165
+7048
+3306
+TCP
+128494
+143039
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/test.php?id=884852
+2025-10-04 01:56:51
+177.33.156.30
+110.152.225.13
+52875
+3389
+TCP
+388304
+970789
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/backup.sql?id=859132
+2025-10-04 01:57:10
+87.86.10.138
+35.166.108.152
+51803
+443
+ICMP
+14971
+62327
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/?id=950266
+2025-10-04 02:03:32
+84.19.235.169
+58.66.68.68
+53777
+53
+UDP
+61816
+189941
+curl/8.4.0
+https://api.service.io/.env?id=854421
+2025-10-04 02:08:21
+222.216.215.69
+33.184.252.123
+12928
+1433
+TCP
+7941
+16283
+curl/8.4.0
+https://internal.bank.local/test.php?id=19605
+2025-10-04 02:47:56
+6.240.11.253
+116.92.233.117
+48943
+25
+TCP
+4219
+7966
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://webmail.corp/backup.sql?id=835844
+2025-10-04 03:04:18
+82.193.199.83
+212.120.73.36
+27134
+25
+UDP
+16111
+36798
+python-requests/2.31.0
+2025-10-04 03:06:01
+147.50.250.26
+216.33.245.23
+59279
+80
+UDP
+2489
+1341
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 03:06:08
+177.105.172.128
+169.176.95.24
+1433
+3306
+UDP
+4913
+2962
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 03:16:45
+129.173.85.158
+26.144.158.111
+35330
+35255
+TCP
+56743
+154299
+python-urllib/3.9
+2025-10-04 03:27:26
+77.186.223.52
+255.17.116.183
+443
+443
+ICMP
+9683
+20345
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://app.company.in/manager/html?id=855787
+2025-10-04 03:27:47
+128.38.109.74
+97.97.117.150
+2016
+3306
+TCP
+68653
+125778
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 03:34:20
+68.24.152.147
+212.202.250.139
+7468
+443
+TCP
+35562
+60091
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/.env?id=399170
+2025-10-04 03:52:35
+103.115.47.184
+214.152.90.208
+40144
+25
+UDP
+425851
+1290243
+curl/8.4.0
+2025-10-04 04:03:22
+217.48.172.70
+201.8.146.119
+41989
+445
+TCP
+50967
+13240
+curl/8.4.0
+https://webmail.corp/shell?id=778699
+2025-10-04 04:11:06
+18.243.218.54
+85.126.188.170
+22
+25
+UDP
+130973
+182353
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://api.service.io/owa/auth/logon.aspx?id=178399
+2025-10-04 04:14:04
+89.39.154.130
+129.159.228.193
+64041
+25
+TCP
+41898
+123611
+curl/8.4.0
+https://api.service.io/.env?id=654537
+2025-10-04 04:40:00
+206.153.221.170
+122.28.196.148
+32631
+22
+ICMP
+36251
+18641
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/admin?id=188814
+2025-10-04 05:03:40
+139.160.102.107
+177.53.50.157
+13030
+1433
+TCP
+141998
+498161
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/dashboard?id=263752
+2025-10-04 05:06:23
+103.128.232.172
+105.255.203.172
+1433
+53
+UDP
+64220
+173076
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+2025-10-04 05:44:41
+196.92.9.161
+164.27.76.254
+44204
+3306
+TCP
+30825
+120663
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://webmail.corp/?id=214862
+2025-10-04 05:51:26
+181.95.255.55
+250.162.158.105
+1087
+445
+TCP
+30608
+2539
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://app.company.in/shell?id=664291
+2025-10-04 05:58:18
+170.239.137.240
+21.214.242.152
+21
+445
+TCP
+52112
+187634
+sqlmap/1.8
+https://webmail.corp/owa/auth/logon.aspx?id=731631
+2025-10-04 06:05:04
+164.222.30.134
+244.148.210.192
+3389
+21
+TCP
+7523
+26144
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://portal.example.org/.env?id=969540
+2025-10-04 06:14:18
+52.186.236.38
+253.227.231.135
+42522
+445
+TCP
+7029
+17358
+Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/115.0
+https://portal.example.org/config.php?id=370564
+2025-10-04 06:18:55
+62.77.153.217
+171.34.222.56
+3389
+53
+TCP
+215485
+706543
+python-requests/2.31.0
+2025-10-04 06:48:54
+112.210.163.221
+184.212.40.224
+42372
+25
+TCP
+434982
+36268
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 08:44:20
+213.32.104.217
+58.166.148.200
+41221
+22
+TCP
+4983
+20115
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/.env?id=160076
+2025-10-04 08:46:13
+106.136.146.166
+164.167.69.181
+64977
+53
+TCP
+7552
+23876
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 08:55:23
+42.131.120.104
+249.33.58.183
+3676
+1433
+UDP
+137041
+150464
+zgrab/0.x
+https://app.company.in/api/v1/users?id=902187
+2025-10-04 09:05:14
+62.58.76.50
+144.171.224.45
+7114
+25
+TCP
+51721
+28763
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://app.company.in/owa/auth/logon.aspx?id=75308
+2025-10-04 09:55:01
+8.125.158.119
+59.170.26.23
+59850
+1433
+TCP
+65009
+228215
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://internal.bank.local/backup.sql?id=124912
+2025-10-04 10:17:57
+125.223.216.166
+159.143.235.55
+40319
+21
+TCP
+92462
+259287
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 10:18:57
+232.18.103.41
+127.249.216.36
+49499
+3389
+TCP
+14985
+46920
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://internal.bank.local/config.php?id=623057
+2025-10-04 10:24:11
+70.69.14.67
+103.100.194.227
+28736
+21
+TCP
+37344
+4567
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://api.service.io/admin?id=433356
+2025-10-04 10:51:24
+203.142.90.165
+213.180.149.197
+445
+21
+TCP
+32975
+134676
+sqlmap/1.8
+https://internal.bank.local/admin?id=141925
+2025-10-04 11:29:40
+219.21.248.201
+246.252.237.146
+45906
+80
+UDP
+5577
+9116
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 11:30:48
+6.28.42.81
+22.245.78.208
+17097
+3389
+TCP
+36466
+35815
+curl/8.4.0
+2025-10-04 11:39:03
+155.152.32.231
+222.69.10.12
+19511
+25
+TCP
+159585
+287708
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 11:57:05
+245.208.186.172
+164.131.76.166
+37872
+445
+TCP
+12905
+51917
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 12:01:42
+169.46.203.242
+107.163.53.31
+37206
+80
+TCP
+28116
+71146
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/dashboard?id=550862
+2025-10-04 12:40:40
+215.71.120.29
+137.169.28.216
+39778
+80
+TCP
+30660
+106882
+Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Vers...
+https://portal.example.org/admin?id=118927
+2025-10-04 13:10:24
+147.61.128.128
+46.3.92.167
+18137
+1433
+UDP
+13968
+27161
+curl/8.4.0
+2025-10-04 13:19:57
+227.46.121.154
+22.164.250.83
+29773
+3389
+TCP
+65058
+33017
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 13:24:55
+32.160.168.214
+151.174.55.65
+22358
+80
+TCP
+7419
+21954
+sqlmap/1.8
+https://webmail.corp/config.php?id=231283
+2025-10-04 13:30:37
+150.199.120.240
+222.21.203.114
+44853
+443
+TCP
+185764
+359223
+zgrab/0.x
+https://webmail.corp/.env?id=462472
+2025-10-04 13:33:58
+109.111.73.28
+40.158.79.16
+47498
+22
+UDP
+59989
+128749
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 13:40:08
+45.109.140.113
+183.135.180.132
+17376
+22
+TCP
+4920
+15181
+curl/8.4.0
+2025-10-04 14:10:42
+105.130.28.126
+178.247.93.70
+63193
+21
+TCP
+333305
+1171374
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://webmail.corp/shell?id=485681
+2025-10-04 14:15:43
+137.191.57.82
+41.89.247.220
+39364
+22
+TCP
+28823
+115509
+python-requests/2.31.0
+2025-10-04 14:42:37
+140.216.243.175
+173.150.201.109
+443
+53
+TCP
+6927
+21208
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 14:54:40
+64.142.74.93
+90.65.152.209
+34397
+53
+UDP
+128963
+120673
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+2025-10-04 15:03:47
+122.188.157.6
+133.101.22.244
+43692
+445
+TCP
+48604
+186373
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+https://api.service.io/api/v1/users?id=932650
+2025-10-04 15:04:55
+166.17.27.177
+255.176.58.117
+13405
+3306
+TCP
+1293
+3175
+Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+2025-10-04 15:08:12
+235.122.129.142
+175.128.177.74
+63592
+25
+UDP
+9499
+7809
+Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0....
+2025-10-04 15:18:04
+99.158.185.232
+85.32.92.168
+18040
+3306
+TCP
+34425
+81975
+python-requests/2.31.0
+https://app.company.in/login?id=111572
+2025-10-04 15:18:09
+208.62.121.220
+56.131.105.195
+22
+61128
+TCP
+695
+1174
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Sa...
+https://portal.example.org/test.php?id=424323
