@@ -14,7 +14,7 @@ This project is a **working prototype** showcasing:
 - ✅ **Blockchain Audit Logs** for immutable security tracking
 - ✅ **End-to-End Encryption** for sensitive responses
 - ✅ **Security Dashboard** for threat visualization
-- ✅ **Mock AI Logic** for realistic demo scenarios
+- ✅ **AI Logic** for real scenarios
 
 ---
 
